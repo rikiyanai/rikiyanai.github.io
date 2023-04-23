@@ -1,1 +1,1 @@
-# rikiyanai.github.io
+# riki
