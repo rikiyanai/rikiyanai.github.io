@@ -1,0 +1,61 @@
+body {
+    background-color: #F2F0EB;
+    font-family: "Times New Roman", Times, serif;
+    color: #333;
+}
+
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: 4rem auto;
+}
+
+ul.directory {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.directory li {
+    margin-right: 1rem;
+}
+
+.directory li.active-item {
+    font-weight: bold;
+}
+
+.directory li a {
+    text-decoration: underline;
+    color: #000;
+}
+
+.directory li a:hover {
+    text-decoration: none;
+}
+
+.explanation {
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 600px;
+}
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    main {
+        width: 90%;
+        margin: 2rem auto;
+    }
+    .explanation {
+        max-width: 100%;
+    }
+}
