@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art — Riki Yanai</title>
+    <link rel="stylesheet" href="index.css">
+    <style>
+        .art-section {
+            margin-top: 2.5rem;
+        }
+        .art-section h2 {
+            font-size: 1rem;
+            font-weight: normal;
+            font-style: italic;
+            margin: 0 0 1.25rem 0;
+            color: #555;
+        }
+        .gallery {
+            columns: 2;
+            column-gap: 0.75rem;
+        }
+        .gallery img {
+            width: 100%;
+            display: block;
+            margin-bottom: 0.75rem;
+            break-inside: avoid;
+        }
+        .placeholder {
+            width: 100%;
+            aspect-ratio: 4/3;
+            background-color: #e0ddd8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            color: #999;
+            margin-bottom: 0.75rem;
+            break-inside: avoid;
+        }
+        @media screen and (max-width: 600px) {
+            .gallery {
+                columns: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <ul class="directory">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="resume.pdf">CV</a></li>
+            <li class="active-item">Art</li>
+            <li><a href="https://github.com/rikiyanai">GitHub</a></li>
+        </ul>
+
+        <div class="art-section">
+            <h2><a href="https://instagram.com/legumeboi">@legumeboi</a> on Instagram</h2>
+        </div>
+
+        <div class="art-section">
+            <h2>Photography</h2>
+            <div class="gallery">
+                <img src="img/alaska_1.jpg" alt="">
+                <img src="img/portait_1.jpg" alt="">
+                <img src="img/alaska_2.jpg" alt="">
+                <img src="img/portait_2_.jpg" alt="">
+                <img src="img/alaska_3.jpg" alt="">
+                <img src="img/portait_3.jpg" alt="">
+                <img src="img/alaska_4.jpg" alt="">
+                <img src="img/portait_4.jpg" alt="">
+                <img src="img/alaska_5.jpg" alt="">
+                <img src="img/alaska_6.jpg" alt="">
+            </div>
+        </div>
+
+        <div class="art-section">
+            <h2>Drawings &amp; Digital</h2>
+            <div class="gallery">
+                <div class="placeholder">coming soon</div>
+                <div class="placeholder">coming soon</div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
