@@ -25,10 +25,77 @@
             display: block;
             margin-bottom: 0.75rem;
             break-inside: avoid;
+            cursor: zoom-in;
+        }
+        .gallery img:focus-visible {
+            outline: 2px solid #000;
+            outline-offset: 3px;
+        }
+        .drawing-gallery {
+            columns: auto;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 0.75rem;
+        }
+        .art-tile {
+            aspect-ratio: 1;
+            overflow: hidden;
+        }
+        .drawing-gallery img {
+            height: 100%;
+            margin: 0;
+            object-fit: cover;
+        }
+        .lightbox {
+            width: 100vw;
+            height: 100vh;
+            max-width: none;
+            max-height: none;
+            margin: 0;
+            padding: 0;
+            border: 0;
+            background: rgba(0, 0, 0, 0.94);
+        }
+        .lightbox::backdrop {
+            background: rgba(0, 0, 0, 0.94);
+        }
+        .lightbox-frame {
+            box-sizing: border-box;
+            width: 100%;
+            height: 100%;
+            padding: 3rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .lightbox-image {
+            display: block;
+            max-width: 100%;
+            max-height: 100%;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+        }
+        .lightbox-close {
+            position: fixed;
+            z-index: 1;
+            top: 1rem;
+            right: 1rem;
+            width: 2.5rem;
+            height: 2.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.65);
+            border-radius: 50%;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            font: 1.75rem/1 "Times New Roman", Times, serif;
+            cursor: pointer;
         }
         @media screen and (max-width: 600px) {
             .gallery {
                 columns: 1;
+            }
+            .drawing-gallery {
+                grid-template-columns: 1fr;
             }
         }
     </style>
@@ -60,21 +127,27 @@
                 <img src="img/photo-img-2477.jpg" alt="" loading="lazy">
                 <img src="img/photo-img-3191.jpg" alt="" loading="lazy">
                 <img src="img/photo-img-3192.jpg" alt="" loading="lazy">
+                <img src="img/photo-img-2216.jpg" alt="" loading="lazy">
+                <img src="img/photo-img-2220.jpg" alt="" loading="lazy">
+                <img src="img/photo-img-2348.jpg" alt="" loading="lazy">
+                <img src="img/photo-img-2349.jpg" alt="" loading="lazy">
+                <img src="img/photo-img-2507.jpg" alt="" loading="lazy">
             </div>
         </div>
 
         <div class="art-section">
             <h2>Drawings &amp; Digital</h2>
-            <div class="gallery">
-                <img src="img/art-e4c752da.jpg" alt="" loading="lazy">
-                <img src="img/art-img-1663.jpg" alt="" loading="lazy">
-                <img src="img/art-img-1900.jpg" alt="" loading="lazy">
-                <img src="img/art-img-3181.png" alt="" loading="lazy">
-                <img src="img/art-img-3182.png" alt="" loading="lazy">
-                <img src="img/art-img-3184.png" alt="" loading="lazy">
-                <img src="img/art-img-3185.jpg" alt="" loading="lazy">
-                <img src="img/art-img-3195.png" alt="" loading="lazy">
-                <img src="img/art-img-3196-3.jpg" alt="" loading="lazy">
+            <div class="gallery drawing-gallery">
+                <div class="art-tile"><img src="img/art-e4c752da.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-1663.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-1900.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3181.png" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3182.png" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3184.png" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3185.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3195.png" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3196-3.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-2734.jpg" alt="" loading="lazy"></div>
             </div>
         </div>
 
@@ -82,5 +155,52 @@
             <h2>more drawings <a href="https://instagram.com/legumeboi">@legumeboi</a> on Instagram</h2>
         </div>
     </main>
+
+    <dialog class="lightbox" id="image-lightbox" aria-label="Full-size image preview">
+        <button class="lightbox-close" type="button" aria-label="Close image preview">&times;</button>
+        <div class="lightbox-frame">
+            <img class="lightbox-image" alt="">
+        </div>
+    </dialog>
+
+    <script>
+        const lightbox = document.querySelector("#image-lightbox");
+        const lightboxImage = lightbox.querySelector(".lightbox-image");
+        const lightboxFrame = lightbox.querySelector(".lightbox-frame");
+        const closeButton = lightbox.querySelector(".lightbox-close");
+        let lastFocusedImage = null;
+
+        function openImage(image) {
+            lastFocusedImage = image;
+            lightboxImage.src = image.currentSrc || image.src;
+            lightboxImage.alt = image.alt;
+            lightbox.showModal();
+        }
+
+        document.querySelectorAll(".gallery img").forEach((image) => {
+            image.tabIndex = 0;
+            image.setAttribute("role", "button");
+            image.setAttribute("aria-label", "View full image");
+
+            image.addEventListener("click", () => openImage(image));
+            image.addEventListener("keydown", (event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                    event.preventDefault();
+                    openImage(image);
+                }
+            });
+        });
+
+        closeButton.addEventListener("click", () => lightbox.close());
+        lightbox.addEventListener("click", (event) => {
+            if (event.target === lightbox || event.target === lightboxFrame) {
+                lightbox.close();
+            }
+        });
+        lightbox.addEventListener("close", () => {
+            lightboxImage.removeAttribute("src");
+            lastFocusedImage?.focus();
+        });
+    </script>
 </body>
 </html>
