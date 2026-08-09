@@ -41,10 +41,24 @@
             aspect-ratio: 1;
             overflow: hidden;
         }
+        .art-tile-small {
+            width: 72%;
+            justify-self: center;
+            align-self: start;
+        }
         .drawing-gallery img {
             height: 100%;
             margin: 0;
             object-fit: cover;
+        }
+        .drawing-feature {
+            grid-column: 1 / -1;
+            aspect-ratio: auto;
+            overflow: visible;
+        }
+        .drawing-feature img {
+            height: auto;
+            object-fit: contain;
         }
         .lightbox {
             width: 100vw;
@@ -143,11 +157,12 @@
                 <div class="art-tile"><img src="img/art-img-1900.jpg" alt="" loading="lazy"></div>
                 <div class="art-tile"><img src="img/art-img-3181.png" alt="" loading="lazy"></div>
                 <div class="art-tile"><img src="img/art-img-3182.png" alt="" loading="lazy"></div>
-                <div class="art-tile"><img src="img/art-img-3184.png" alt="" loading="lazy"></div>
-                <div class="art-tile"><img src="img/art-img-3185.jpg" alt="" loading="lazy"></div>
-                <div class="art-tile"><img src="img/art-img-3195.png" alt="" loading="lazy"></div>
-                <div class="art-tile"><img src="img/art-img-3196-3.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile drawing-feature"><img src="img/art-img-3184.png" alt="" loading="lazy"></div>
+                <div class="art-tile art-tile-small"><img src="img/art-img-3195.png" alt="" loading="lazy"></div>
+                <div class="art-tile art-tile-small"><img src="img/art-img-3196-3.jpg" alt="" loading="lazy"></div>
                 <div class="art-tile"><img src="img/art-img-2734.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3399.jpg" alt="" loading="lazy"></div>
+                <div class="art-tile"><img src="img/art-img-3401.jpg" alt="" loading="lazy"></div>
             </div>
         </div>
 
