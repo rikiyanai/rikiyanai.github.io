@@ -1,0 +1,384 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:29,980"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 29980
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,960"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32960
+			},
+			"text": " Please don't forget the clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,960",
+				"to": "00:00:39,240"
+			},
+			"offsets": {
+				"from": 32960,
+				"to": 39240
+			},
+			"text": " I have my change of clothes, partly in my white backpack."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:29,980"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 89980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,980",
+				"to": "00:01:36,980"
+			},
+			"offsets": {
+				"from": 89980,
+				"to": 96980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,980",
+				"to": "00:01:39,980"
+			},
+			"offsets": {
+				"from": 96980,
+				"to": 99980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,980",
+				"to": "00:01:49,980"
+			},
+			"offsets": {
+				"from": 99980,
+				"to": 109980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,980",
+				"to": "00:01:51,980"
+			},
+			"offsets": {
+				"from": 109980,
+				"to": 111980
+			},
+			"text": " Where are you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,980",
+				"to": "00:01:55,980"
+			},
+			"offsets": {
+				"from": 111980,
+				"to": 115980
+			},
+			"text": " Where are you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,980",
+				"to": "00:01:56,980"
+			},
+			"offsets": {
+				"from": 115980,
+				"to": 116980
+			},
+			"text": " Where are you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,980",
+				"to": "00:01:58,980"
+			},
+			"offsets": {
+				"from": 116980,
+				"to": 118980
+			},
+			"text": " Middow Town?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,980",
+				"to": "00:02:01,980"
+			},
+			"offsets": {
+				"from": 118980,
+				"to": 121980
+			},
+			"text": " Middow Town is already gone."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,980",
+				"to": "00:02:02,980"
+			},
+			"offsets": {
+				"from": 121980,
+				"to": 122980
+			},
+			"text": " It's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,980",
+				"to": "00:02:03,980"
+			},
+			"offsets": {
+				"from": 122980,
+				"to": 123980
+			},
+			"text": " We can go."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,980",
+				"to": "00:02:04,980"
+			},
+			"offsets": {
+				"from": 123980,
+				"to": 124980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,980",
+				"to": "00:02:09,980"
+			},
+			"offsets": {
+				"from": 124980,
+				"to": 129980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,980",
+				"to": "00:02:10,980"
+			},
+			"offsets": {
+				"from": 129980,
+				"to": 130980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,980",
+				"to": "00:02:12,980"
+			},
+			"offsets": {
+				"from": 130980,
+				"to": 132980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,980",
+				"to": "00:02:15,980"
+			},
+			"offsets": {
+				"from": 132980,
+				"to": 135980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,980",
+				"to": "00:02:16,980"
+			},
+			"offsets": {
+				"from": 135980,
+				"to": 136980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,980",
+				"to": "00:02:20,980"
+			},
+			"offsets": {
+				"from": 136980,
+				"to": 140980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,980",
+				"to": "00:02:21,980"
+			},
+			"offsets": {
+				"from": 140980,
+				"to": 141980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,980",
+				"to": "00:02:23,980"
+			},
+			"offsets": {
+				"from": 141980,
+				"to": 143980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,980",
+				"to": "00:02:25,980"
+			},
+			"offsets": {
+				"from": 143980,
+				"to": 145980
+			},
+			"text": " I have my change of clothes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,980",
+				"to": "00:02:30,420"
+			},
+			"offsets": {
+				"from": 145980,
+				"to": 150420
+			},
+			"text": " I'll see him here again today."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,420",
+				"to": "00:02:37,860"
+			},
+			"offsets": {
+				"from": 150420,
+				"to": 157860
+			},
+			"text": " But the next day I'll need it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,860",
+				"to": "00:02:39,820"
+			},
+			"offsets": {
+				"from": 157860,
+				"to": 159820
+			},
+			"text": " Ah, so..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,820",
+				"to": "00:02:42,920"
+			},
+			"offsets": {
+				"from": 159820,
+				"to": 162920
+			},
+			"text": " Hi, I do..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,920",
+				"to": "00:02:47,580"
+			},
+			"offsets": {
+				"from": 162920,
+				"to": 167580
+			},
+			"text": " Gabby but he almost won't be here today."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,580",
+				"to": "00:02:49,560"
+			},
+			"offsets": {
+				"from": 167580,
+				"to": 169560
+			},
+			"text": " Ah, so?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,560",
+				"to": "00:02:55,240"
+			},
+			"offsets": {
+				"from": 169560,
+				"to": 175240
+			},
+			"text": " Thank you old chIST"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,980",
+				"to": "00:02:59,980"
+			},
+			"offsets": {
+				"from": 175980,
+				"to": 179980
+			},
+			"text": " What's the weather?"
+		}
+	]
+}

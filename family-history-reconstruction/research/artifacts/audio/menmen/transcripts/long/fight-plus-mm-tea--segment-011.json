@@ -1,0 +1,219 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:09,900"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 9900
+			},
+			"text": "どこにあるんだろう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:39,040"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 39040
+			},
+			"text": " Flight"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,040",
+				"to": "00:00:45,620"
+			},
+			"offsets": {
+				"from": 39040,
+				"to": 45620
+			},
+			"text": " flight"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,620",
+				"to": "00:00:49,480"
+			},
+			"offsets": {
+				"from": 45620,
+				"to": 49480
+			},
+			"text": " Solo"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,480",
+				"to": "00:00:53,820"
+			},
+			"offsets": {
+				"from": 49480,
+				"to": 53820
+			},
+			"text": "表着"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,900",
+				"to": "00:00:54,580"
+			},
+			"offsets": {
+				"from": 53900,
+				"to": 54580
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,580",
+				"to": "00:01:01,440"
+			},
+			"offsets": {
+				"from": 54580,
+				"to": 61440
+			},
+			"text": "本当?これケータリング用"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,440",
+				"to": "00:01:05,580"
+			},
+			"offsets": {
+				"from": 61440,
+				"to": 65580
+			},
+			"text": "ね"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,900",
+				"to": "00:01:28,900"
+			},
+			"offsets": {
+				"from": 83900,
+				"to": 88900
+			},
+			"text": "ここも出るデザートだねやっぱり"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,900",
+				"to": "00:01:49,900"
+			},
+			"offsets": {
+				"from": 106900,
+				"to": 109900
+			},
+			"text": "僕がね、学んでるものを買ってね"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,900",
+				"to": "00:01:51,900"
+			},
+			"offsets": {
+				"from": 109900,
+				"to": 111900
+			},
+			"text": "座って食べるの"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,900",
+				"to": "00:01:56,900"
+			},
+			"offsets": {
+				"from": 111900,
+				"to": 116900
+			},
+			"text": "本当だ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,900",
+				"to": "00:01:59,900"
+			},
+			"offsets": {
+				"from": 116900,
+				"to": 119900
+			},
+			"text": "見てみる?いいよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,900",
+				"to": "00:02:01,900"
+			},
+			"offsets": {
+				"from": 119900,
+				"to": 121900
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,900",
+				"to": "00:02:03,900"
+			},
+			"offsets": {
+				"from": 121900,
+				"to": 123900
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,900",
+				"to": "00:02:46,880"
+			},
+			"offsets": {
+				"from": 136900,
+				"to": 166880
+			},
+			"text": "ご視聴ありがとうございました"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,900",
+				"to": "00:03:00,020"
+			},
+			"offsets": {
+				"from": 166900,
+				"to": 180020
+			},
+			"text": "ご視聴ありがとうございました"
+		}
+	]
+}

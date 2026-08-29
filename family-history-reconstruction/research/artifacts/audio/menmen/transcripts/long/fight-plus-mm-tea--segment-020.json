@@ -1,0 +1,274 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:08,340"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 8340
+			},
+			"text": "よく詰めてある"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,340",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 8340,
+				"to": 11600
+			},
+			"text": "ああ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:19,060"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 19060
+			},
+			"text": "本当"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:37,420"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 37420
+			},
+			"text": "き Former"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,420",
+				"to": "00:00:45,280"
+			},
+			"offsets": {
+				"from": 37420,
+				"to": 45280
+			},
+			"text": "era"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,280",
+				"to": "00:00:52,560"
+			},
+			"offsets": {
+				"from": 45280,
+				"to": 52560
+			},
+			"text": "てい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,120",
+				"to": "00:01:13,740"
+			},
+			"offsets": {
+				"from": 54120,
+				"to": 73740
+			},
+			"text": "てい ええ 何て言うんだっけ えっとー 名前忘れちゃった"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,740",
+				"to": "00:01:23,980"
+			},
+			"offsets": {
+				"from": 79740,
+				"to": 83980
+			},
+			"text": "nm 引き引きも入ってるぞ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,980",
+				"to": "00:01:30,960"
+			},
+			"offsets": {
+				"from": 83980,
+				"to": 90960
+			},
+			"text": "エファ小さい白いのにあって生きてるん アーバヌイルとかいん"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,960",
+				"to": "00:01:36,200"
+			},
+			"offsets": {
+				"from": 90960,
+				"to": 96200
+			},
+			"text": "あの ああん ああん ええええええ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,200",
+				"to": "00:01:39,900"
+			},
+			"offsets": {
+				"from": 96200,
+				"to": 99900
+			},
+			"text": "ねえ めっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,740",
+				"to": "00:02:06,500"
+			},
+			"offsets": {
+				"from": 109740,
+				"to": 126500
+			},
+			"text": "んー なんかこういうパンとパン美味しいからよかったら持ってきてね 全然あっとに ああんに大丈夫大丈夫"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,500",
+				"to": "00:02:15,500"
+			},
+			"offsets": {
+				"from": 134500,
+				"to": 135500
+			},
+			"text": "ん"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,500",
+				"to": "00:02:20,740"
+			},
+			"offsets": {
+				"from": 135500,
+				"to": 140740
+			},
+			"text": "この後どっか座れたらねえっと 昨日"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,740",
+				"to": "00:02:29,800"
+			},
+			"offsets": {
+				"from": 140740,
+				"to": 149800
+			},
+			"text": "パパのパパいっぱいカメラで写真撮ってるじゃん でもそれ昔の写真さえっと"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,800",
+				"to": "00:02:34,700"
+			},
+			"offsets": {
+				"from": 149800,
+				"to": 154700
+			},
+			"text": "なんかいろいろ オーガナイズしてて"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,700",
+				"to": "00:02:41,060"
+			},
+			"offsets": {
+				"from": 154700,
+				"to": 161060
+			},
+			"text": "ん めんめんも見たいかなと思う 持ってきたよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,500",
+				"to": "00:02:47,500"
+			},
+			"offsets": {
+				"from": 164500,
+				"to": 167500
+			},
+			"text": "ん 持ってきたよいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,500",
+				"to": "00:02:50,520"
+			},
+			"offsets": {
+				"from": 167500,
+				"to": 170520
+			},
+			"text": "ん 持ってきたよいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,520",
+				"to": "00:02:53,520"
+			},
+			"offsets": {
+				"from": 170520,
+				"to": 173520
+			},
+			"text": "ん 持ってきたよいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,520",
+				"to": "00:02:55,980"
+			},
+			"offsets": {
+				"from": 173520,
+				"to": 175980
+			},
+			"text": "ん 持ってきたよいっ"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,980",
+				"to": "00:02:59,960"
+			},
+			"offsets": {
+				"from": 175980,
+				"to": 179960
+			},
+			"text": "ん 持ってきたよいっ"
+		}
+	]
+}

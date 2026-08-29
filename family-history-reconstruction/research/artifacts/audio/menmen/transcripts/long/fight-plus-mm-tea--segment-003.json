@@ -1,0 +1,945 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " of shit that you can"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:03,660"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 3660
+			},
+			"text": " you think that I"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,660",
+				"to": "00:00:06,080"
+			},
+			"offsets": {
+				"from": 3660,
+				"to": 6080
+			},
+			"text": " deserve to be bitch"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,080",
+				"to": "00:00:08,460"
+			},
+			"offsets": {
+				"from": 6080,
+				"to": 8460
+			},
+			"text": " or fucking because that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,460",
+				"to": "00:00:10,260"
+			},
+			"offsets": {
+				"from": 8460,
+				"to": 10260
+			},
+			"text": " your way"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,260",
+				"to": "00:00:10,760"
+			},
+			"offsets": {
+				"from": 10260,
+				"to": 10760
+			},
+			"text": " of thinking"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,760",
+				"to": "00:00:14,420"
+			},
+			"offsets": {
+				"from": 10760,
+				"to": 14420
+			},
+			"text": " you are provoking me"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,420",
+				"to": "00:00:16,060"
+			},
+			"offsets": {
+				"from": 14420,
+				"to": 16060
+			},
+			"text": " for me to"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,060",
+				"to": "00:00:18,000"
+			},
+			"offsets": {
+				"from": 16060,
+				"to": 18000
+			},
+			"text": " start doing the same that you are doing to me"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,000",
+				"to": "00:00:20,040"
+			},
+			"offsets": {
+				"from": 18000,
+				"to": 20040
+			},
+			"text": " right because yes"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,040",
+				"to": "00:00:22,340"
+			},
+			"offsets": {
+				"from": 20040,
+				"to": 22340
+			},
+			"text": " if you have made a mistake I never"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,340",
+				"to": "00:00:24,640"
+			},
+			"offsets": {
+				"from": 22340,
+				"to": 24640
+			},
+			"text": " have told you hey this is a"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,640",
+				"to": "00:00:26,040"
+			},
+			"offsets": {
+				"from": 24640,
+				"to": 26040
+			},
+			"text": " F"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,040",
+				"to": "00:00:27,140"
+			},
+			"offsets": {
+				"from": 26040,
+				"to": 27140
+			},
+			"text": " word blah blah blah"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,140",
+				"to": "00:00:37,500"
+			},
+			"offsets": {
+				"from": 27140,
+				"to": 37500
+			},
+			"text": " I haven't changed my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,500",
+				"to": "00:00:39,520"
+			},
+			"offsets": {
+				"from": 37500,
+				"to": 39520
+			},
+			"text": " like I've been"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,520",
+				"to": "00:00:42,260"
+			},
+			"offsets": {
+				"from": 39520,
+				"to": 42260
+			},
+			"text": " me, Taiki, mom we've been telling"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,260",
+				"to": "00:00:43,600"
+			},
+			"offsets": {
+				"from": 42260,
+				"to": 43600
+			},
+			"text": " you the same thing over and over"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,600",
+				"to": "00:00:45,720"
+			},
+			"offsets": {
+				"from": 43600,
+				"to": 45720
+			},
+			"text": " and then you ask"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,720",
+				"to": "00:00:49,620"
+			},
+			"offsets": {
+				"from": 45720,
+				"to": 49620
+			},
+			"text": " that's exactly the issue dad"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,620",
+				"to": "00:00:51,200"
+			},
+			"offsets": {
+				"from": 49620,
+				"to": 51200
+			},
+			"text": " you're never going to change"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,200",
+				"to": "00:00:51,780"
+			},
+			"offsets": {
+				"from": 51200,
+				"to": 51780
+			},
+			"text": " that's exactly"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,780",
+				"to": "00:00:54,100"
+			},
+			"offsets": {
+				"from": 51780,
+				"to": 54100
+			},
+			"text": " what is it"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,100",
+				"to": "00:00:56,480"
+			},
+			"offsets": {
+				"from": 54100,
+				"to": 56480
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,480",
+				"to": "00:00:58,560"
+			},
+			"offsets": {
+				"from": 56480,
+				"to": 58560
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,560",
+				"to": "00:01:00,640"
+			},
+			"offsets": {
+				"from": 58560,
+				"to": 60640
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,640",
+				"to": "00:01:02,600"
+			},
+			"offsets": {
+				"from": 60640,
+				"to": 62600
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,600",
+				"to": "00:01:04,640"
+			},
+			"offsets": {
+				"from": 62600,
+				"to": 64640
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,640",
+				"to": "00:01:06,460"
+			},
+			"offsets": {
+				"from": 64640,
+				"to": 66460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,460",
+				"to": "00:01:08,460"
+			},
+			"offsets": {
+				"from": 66460,
+				"to": 68460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,460",
+				"to": "00:01:10,460"
+			},
+			"offsets": {
+				"from": 68460,
+				"to": 70460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,460",
+				"to": "00:01:12,460"
+			},
+			"offsets": {
+				"from": 70460,
+				"to": 72460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,460",
+				"to": "00:01:14,460"
+			},
+			"offsets": {
+				"from": 72460,
+				"to": 74460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,460",
+				"to": "00:01:16,460"
+			},
+			"offsets": {
+				"from": 74460,
+				"to": 76460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,460",
+				"to": "00:01:18,460"
+			},
+			"offsets": {
+				"from": 76460,
+				"to": 78460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,460",
+				"to": "00:01:20,460"
+			},
+			"offsets": {
+				"from": 78460,
+				"to": 80460
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:20,460",
+				"to": "00:01:22,840"
+			},
+			"offsets": {
+				"from": 80460,
+				"to": 82840
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,840",
+				"to": "00:01:24,920"
+			},
+			"offsets": {
+				"from": 82840,
+				"to": 84920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,920",
+				"to": "00:01:25,920"
+			},
+			"offsets": {
+				"from": 84920,
+				"to": 85920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,920",
+				"to": "00:01:26,920"
+			},
+			"offsets": {
+				"from": 85920,
+				"to": 86920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,920",
+				"to": "00:01:27,920"
+			},
+			"offsets": {
+				"from": 86920,
+				"to": 87920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,920",
+				"to": "00:01:28,920"
+			},
+			"offsets": {
+				"from": 87920,
+				"to": 88920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,920",
+				"to": "00:01:29,920"
+			},
+			"offsets": {
+				"from": 88920,
+				"to": 89920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,920",
+				"to": "00:01:30,920"
+			},
+			"offsets": {
+				"from": 89920,
+				"to": 90920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,920",
+				"to": "00:01:31,920"
+			},
+			"offsets": {
+				"from": 90920,
+				"to": 91920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,920",
+				"to": "00:01:32,920"
+			},
+			"offsets": {
+				"from": 91920,
+				"to": 92920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,920",
+				"to": "00:01:33,920"
+			},
+			"offsets": {
+				"from": 92920,
+				"to": 93920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,920",
+				"to": "00:01:34,920"
+			},
+			"offsets": {
+				"from": 93920,
+				"to": 94920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,920",
+				"to": "00:01:35,920"
+			},
+			"offsets": {
+				"from": 94920,
+				"to": 95920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,920",
+				"to": "00:01:36,920"
+			},
+			"offsets": {
+				"from": 95920,
+				"to": 96920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,920",
+				"to": "00:01:37,920"
+			},
+			"offsets": {
+				"from": 96920,
+				"to": 97920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,920",
+				"to": "00:01:38,920"
+			},
+			"offsets": {
+				"from": 97920,
+				"to": 98920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,920",
+				"to": "00:01:39,920"
+			},
+			"offsets": {
+				"from": 98920,
+				"to": 99920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,920",
+				"to": "00:01:40,920"
+			},
+			"offsets": {
+				"from": 99920,
+				"to": 100920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,920",
+				"to": "00:01:41,920"
+			},
+			"offsets": {
+				"from": 100920,
+				"to": 101920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,920",
+				"to": "00:01:42,920"
+			},
+			"offsets": {
+				"from": 101920,
+				"to": 102920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,920",
+				"to": "00:01:43,920"
+			},
+			"offsets": {
+				"from": 102920,
+				"to": 103920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,920",
+				"to": "00:01:44,920"
+			},
+			"offsets": {
+				"from": 103920,
+				"to": 104920
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,460",
+				"to": "00:02:20,440"
+			},
+			"offsets": {
+				"from": 110460,
+				"to": 140440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,440",
+				"to": "00:02:22,440"
+			},
+			"offsets": {
+				"from": 140440,
+				"to": 142440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,440",
+				"to": "00:02:23,440"
+			},
+			"offsets": {
+				"from": 142440,
+				"to": 143440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,440",
+				"to": "00:02:24,440"
+			},
+			"offsets": {
+				"from": 143440,
+				"to": 144440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,440",
+				"to": "00:02:25,440"
+			},
+			"offsets": {
+				"from": 144440,
+				"to": 145440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,440",
+				"to": "00:02:26,440"
+			},
+			"offsets": {
+				"from": 145440,
+				"to": 146440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,440",
+				"to": "00:02:27,440"
+			},
+			"offsets": {
+				"from": 146440,
+				"to": 147440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,440",
+				"to": "00:02:28,440"
+			},
+			"offsets": {
+				"from": 147440,
+				"to": 148440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,440",
+				"to": "00:02:29,440"
+			},
+			"offsets": {
+				"from": 148440,
+				"to": 149440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,440",
+				"to": "00:02:30,440"
+			},
+			"offsets": {
+				"from": 149440,
+				"to": 150440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,440",
+				"to": "00:02:31,440"
+			},
+			"offsets": {
+				"from": 150440,
+				"to": 151440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,440",
+				"to": "00:02:32,440"
+			},
+			"offsets": {
+				"from": 151440,
+				"to": 152440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,440",
+				"to": "00:02:33,440"
+			},
+			"offsets": {
+				"from": 152440,
+				"to": 153440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,440",
+				"to": "00:02:34,440"
+			},
+			"offsets": {
+				"from": 153440,
+				"to": 154440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,440",
+				"to": "00:02:35,440"
+			},
+			"offsets": {
+				"from": 154440,
+				"to": 155440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,440",
+				"to": "00:02:36,440"
+			},
+			"offsets": {
+				"from": 155440,
+				"to": 156440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,440",
+				"to": "00:02:37,440"
+			},
+			"offsets": {
+				"from": 156440,
+				"to": 157440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,440",
+				"to": "00:02:38,440"
+			},
+			"offsets": {
+				"from": 157440,
+				"to": 158440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,440",
+				"to": "00:02:39,440"
+			},
+			"offsets": {
+				"from": 158440,
+				"to": 159440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,440",
+				"to": "00:02:40,440"
+			},
+			"offsets": {
+				"from": 159440,
+				"to": 160440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,440",
+				"to": "00:02:41,440"
+			},
+			"offsets": {
+				"from": 160440,
+				"to": 161440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,440",
+				"to": "00:02:42,440"
+			},
+			"offsets": {
+				"from": 161440,
+				"to": 162440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,440",
+				"to": "00:02:43,440"
+			},
+			"offsets": {
+				"from": 162440,
+				"to": 163440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,440",
+				"to": "00:02:59,440"
+			},
+			"offsets": {
+				"from": 170440,
+				"to": 179440
+			},
+			"text": " I'm not going to change my position"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,440",
+				"to": "00:03:00,440"
+			},
+			"offsets": {
+				"from": 179440,
+				"to": 180440
+			},
+			"text": " I'm not going to change my position"
+		}
+	]
+}

@@ -1,0 +1,381 @@
+{
+ "schema_version": "1.0",
+ "source_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+ "source_folder": {
+  "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+  "provider_name": "Menmen memoir ",
+  "parent_ids": [
+   "0AO88quGCILnCUk9PVA"
+  ],
+  "created_time": "2024-12-25T01:18:52.270Z",
+  "modified_time": "2024-12-25T01:22:35.918Z",
+  "owner_emails": [
+   "yanairiki@gmail.com"
+  ]
+ },
+ "account_asserted": "yanairiki@gmail.com",
+ "image_count": 9,
+ "artifacts": [
+  {
+   "artifact_id": "gdrive-maternal-1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy",
+   "provider": "google_drive",
+   "provider_file_id": "1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "IMG_1932.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "bee373e84ddd896772826e5712fba862",
+   "created_time": "2024-12-25T01:20:29.284Z",
+   "modified_time": "2024-12-25T01:20:29.284Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy--img_1932.heic",
+   "bytes": 2102493,
+   "sha256": "84e3d1484bf9457e874b5fc9a0bafa60bf2e31d83e24ed1d8d719601783c0032",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.66826111111111,
+     "longitude": 139.77790833333336,
+     "altitude": 8.833793622897314
+    },
+    "rotation": 1,
+    "time": "2024:12:13 17:08:26",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.02,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 400,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy--img_1932.jpg",
+    "bytes": 3062608,
+    "sha256": "a6c9b49e19cbcf667bcd0c187ae27569a487d9527f81b940dc3c26187596f6a7",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi",
+   "provider": "google_drive",
+   "provider_file_id": "1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "IMG_1934.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "ed3d93a1833b9248dbf447dfd8ae6a75",
+   "created_time": "2024-12-25T01:22:15.981Z",
+   "modified_time": "2024-12-25T01:22:15.981Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi--img_1934.heic",
+   "bytes": 2989658,
+   "sha256": "7a558ef526dfd777188b5dda3c68445907936b59469e8c8d56e7317d90eba661",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.66823888888889,
+     "longitude": 139.77790833333336,
+     "altitude": 8.82984169115556
+    },
+    "rotation": 1,
+    "time": "2024:12:13 17:46:56",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.02,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 160,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi--img_1934.jpg",
+    "bytes": 4467516,
+    "sha256": "e085dee5ed669043eb11f8dea5fc1f9b7c5a3855e68d1228a603fbd54418a84f",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW",
+   "provider": "google_drive",
+   "provider_file_id": "1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "IMG_1937.PNG",
+   "mime_type": "image/png",
+   "provider_md5": "c171ca40e55407943ef785ef03842ac2",
+   "created_time": "2024-12-25T01:25:08.623Z",
+   "modified_time": "2024-12-25T01:25:08.623Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW--img_1937.png",
+   "bytes": 4163607,
+   "sha256": "b0448b2910f1d9a834476f00eeb6d98839f4d720270a23eef85f47629c423ab7",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "width": 1179,
+    "height": 2556,
+    "rotation": 0,
+    "time": "2024:12:13 17:54:43"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE",
+   "provider": "google_drive",
+   "provider_file_id": "1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "IMG_1940.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "015b58b1a57841b8f543e7f6cc1be09c",
+   "created_time": "2024-12-25T01:21:14.233Z",
+   "modified_time": "2024-12-25T01:21:14.233Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE--img_1940.heic",
+   "bytes": 2272508,
+   "sha256": "1ef85394c888ff7d0a5b1595fe545aca83dce19352634a67746b3bc1cc2c745f",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Spot",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.66824722222222,
+     "longitude": 139.77792222222223,
+     "altitude": 8.942278203723987
+    },
+    "rotation": 1,
+    "time": "2024:12:13 18:43:17",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.04,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 800,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE--img_1940.jpg",
+    "bytes": 3070345,
+    "sha256": "78a9a31fdbaa7b155fddae314ff01710b6ea3c6cbf547bfe236b0e59187877b2",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM",
+   "provider": "google_drive",
+   "provider_file_id": "1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "IMG_79FF80BA-ECEE-4B77-9AA0-8B20E404AF85.jpeg",
+   "mime_type": "image/jpeg",
+   "provider_md5": "9e6d01fff92a8b69103dcf3e76bc772f",
+   "created_time": "2024-12-25T01:20:52.335Z",
+   "modified_time": "2024-12-25T01:20:52.335Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM--img_79ff80ba-ecee-4b77-9aa0-8b20e404af85.jpeg",
+   "bytes": 2195818,
+   "sha256": "b427e429447db31b5a0888d30d116be91415c666887f73c284ba3008a4dcb6c4",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 4032,
+    "height": 3024,
+    "rotation": 0,
+    "time": "2024:12:13 17:57:59",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.01,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 125,
+    "exposureBias": 0
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ",
+   "provider": "google_drive",
+   "provider_file_id": "1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "Macarthur post card.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "9864ed7131be23b152a25c3d2971a0af",
+   "created_time": "2024-12-25T01:21:44.167Z",
+   "modified_time": "2024-12-25T01:32:38.329Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ--macarthur-post-card.heic",
+   "bytes": 2755716,
+   "sha256": "049138efcf45503378d1fdf44ddfbeff07539ef3da8d8b2cd6827f52631e5d82",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.668225,
+     "longitude": 139.77792222222223,
+     "altitude": 8.685484136117047
+    },
+    "rotation": 1,
+    "time": "2024:12:13 17:51:39",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.02,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 250,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ--macarthur-post-card.jpg",
+    "bytes": 4219755,
+    "sha256": "860059b37d2b12b93fcc11073073e8742438fd8cffc075db85a1cb659423f737",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd",
+   "provider": "google_drive",
+   "provider_file_id": "1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "Ojiichama death newspaper.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "ac17d1cd13c6c8185f0d9b90d0305422",
+   "created_time": "2024-12-25T01:24:16.605Z",
+   "modified_time": "2024-12-25T01:32:17.026Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd--ojiichama-death-newspaper.heic",
+   "bytes": 3343318,
+   "sha256": "70fdb5e25ea13cd179dbaf0c1c8aae1bb741dd53fb5b6b3d9de903601cd060a8",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.66823888888889,
+     "longitude": 139.77789444444446,
+     "altitude": 8.918040377847749
+    },
+    "rotation": 1,
+    "time": "2024:12:13 17:49:35",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.02,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 160,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd--ojiichama-death-newspaper.jpg",
+    "bytes": 5044796,
+    "sha256": "432d6b38059f68addb624e91cd483053309ff00b9f230fd1bb40bf55617d473a",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL",
+   "provider": "google_drive",
+   "provider_file_id": "1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "Ojiichama newspaper clipping.HEIC",
+   "mime_type": "image/heif",
+   "provider_md5": "39c440041d905e51a6dfa917f2b0e90f",
+   "created_time": "2024-12-25T01:23:31.692Z",
+   "modified_time": "2024-12-25T01:32:53.136Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL--ojiichama-newspaper-clipping.heic",
+   "bytes": 3125611,
+   "sha256": "2639aaea2d0bca75614964dabd7f074eb1141d973d1cd0a076ca5d26b6c9a309",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "flashUsed": false,
+    "meteringMode": "Pattern",
+    "sensor": "One-chip color area",
+    "exposureMode": "Auto",
+    "whiteBalance": "Auto",
+    "width": 5712,
+    "height": 4284,
+    "location": {
+     "latitude": 35.668236111111106,
+     "longitude": 139.77789444444446,
+     "altitude": 8.897298177083334
+    },
+    "rotation": 1,
+    "time": "2024:12:13 17:46:46",
+    "cameraMake": "Apple",
+    "cameraModel": "iPhone 15",
+    "exposureTime": 0.02,
+    "aperture": 1.6,
+    "focalLength": 5.96,
+    "isoSpeed": 160,
+    "exposureBias": 0
+   },
+   "derivative": {
+    "kind": "jpeg_display_derivative",
+    "repository_path": "research/artifacts/drive/maternal/derivatives/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL--ojiichama-newspaper-clipping.jpg",
+    "bytes": 4905823,
+    "sha256": "11ef2cc8036e4c2771af31875d04bd8ca8eb7ebe23d58b3c44f53cf016cfe93a",
+    "generated_by": "macOS sips"
+   }
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+   "provider": "google_drive",
+   "provider_file_id": "1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+   "provider_folder_id": "1ziMV_e_FXG3B8ifgIQTrU0HRFhwFRjYU",
+   "provider_name": "VERIFY SIDE family tree.png",
+   "mime_type": "image/png",
+   "provider_md5": "1a750afa999740143d9f58ace431fa23",
+   "created_time": "2024-12-25T01:27:39.948Z",
+   "modified_time": "2024-12-25T01:33:10.439Z",
+   "repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+   "bytes": 15163078,
+   "sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+   "access_class": "private_research_only",
+   "account_asserted": "yanairiki@gmail.com",
+   "image_media_metadata": {
+    "width": 4032,
+    "height": 3024,
+    "rotation": 0
+   }
+  }
+ ],
+ "redacted_extracts": [
+  {
+   "artifact_id": "gdrive-maternal-miki-parent-fields-redacted",
+   "repository_path": "research/artifacts/drive/maternal/miki-parent-fields.redacted.json",
+   "sha256": "cdbbb84ef4386e1ee1463f731e12d0f695ff2f2218ccab14e18295f8df9fb498",
+   "source_file_id": "1CeZn4ObwgfMlL0xVk-8BoKHI3E6Nxjwa"
+  }
+ ]
+}

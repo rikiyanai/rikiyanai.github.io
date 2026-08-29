@@ -1,0 +1,76 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,120"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2120
+			},
+			"text": "木曜日ダメだったんだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,120",
+				"to": "00:00:05,140"
+			},
+			"offsets": {
+				"from": 2120,
+				"to": 5140
+			},
+			"text": "パパに金曜日できるかどうか聞いてみた"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,140",
+				"to": "00:00:05,820"
+			},
+			"offsets": {
+				"from": 5140,
+				"to": 5820
+			},
+			"text": "金曜日ならいい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,820",
+				"to": "00:00:08,200"
+			},
+			"offsets": {
+				"from": 5820,
+				"to": 8200
+			},
+			"text": "OK ありがとう"
+		}
+	]
+}

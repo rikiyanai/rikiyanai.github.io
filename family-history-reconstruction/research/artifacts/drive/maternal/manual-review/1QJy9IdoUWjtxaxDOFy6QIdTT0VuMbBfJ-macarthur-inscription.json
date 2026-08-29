@@ -1,0 +1,43 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ-macarthur-inscription-manual-review",
+ "source_artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ",
+ "source_repository_path": "research/artifacts/drive/maternal/derivatives/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ--macarthur-post-card.jpg",
+ "source_sha256": "860059b37d2b12b93fcc11073073e8742438fd8cffc075db85a1cb659423f737",
+ "reviewed_at": "2026-08-25T19:05:00-04:00",
+ "review_method": "the tracked derivative was rotated 90 degrees upright and four progressively tighter crops were taken across the inscription; the crops are disposable instrumentation and the hashed source image remains the evidence owner",
+ "reviewer_type": "AI_agent_manual_visual_comparison",
+ "why_this_review_exists": "The artifact's machine OCR reads, in full, 'Pares'. It had no manual-review record of any kind, unlike the four other decisive images in this album, so a signed inscription sat in the corpus as an unreadable photograph for as long as the album has been tracked (FH-FL-0028).",
+ "subject_visible": "A formal black-and-white military portrait, three-quarter view, of an officer in a US Army service cap with heavy gold-braid visor decoration and US collar insignia. The sitter is recognisably General Douglas MacArthur and the signature agrees.",
+ "source_text_en": "To Ambassador Mats[…] / with the cordial regard of / his old friend. / Douglas MacArthur",
+ "line_by_line": [
+  {
+   "line": 1,
+   "reading": "To Ambassador Mats[…]",
+   "certainty": "partial",
+   "note": "'To Ambassador' is unambiguous. The surname begins with a capital and continues 'ats', then runs across the black lapel of the photograph where dark ink on dark tone becomes unreadable at this resolution. 'Matsui' is the obvious completion and matches the album it sits in, but the final letters are NOT legible and are not asserted here."
+  },
+  {
+   "line": 2,
+   "reading": "with the cordial regard of",
+   "certainty": "confident"
+  },
+  {
+   "line": 3,
+   "reading": "his old friend.",
+   "certainty": "confident",
+   "note": "Reads 'his', not 'her'. The recipient is male."
+  },
+  {
+   "line": 4,
+   "reading": "Douglas MacArthur",
+   "certainty": "confident",
+   "note": "Signature; the 'MacArthur' element wraps upward to the right of the first name."
+  }
+ ],
+ "claim_supported": "A photograph personally inscribed by Douglas MacArthur to a male ambassador whose surname begins 'Mats', describing himself as that man's old friend, is held in Yasuko Matsui's family album.",
+ "claim_not_supported": "That the recipient is P-008 Akira Matsui. The surname is not fully legible, no given name appears, the inscription carries no date, and album membership is provenance rather than identification. Akira Matsui was a career diplomat and Japan's ambassador to the UN, which makes him the natural candidate — but 'natural candidate' is not evidence, and Keishiro Matsui was also an ambassador, though he died in 1946.",
+ "falsifier": "A dated or fuller copy of the same inscription, an accession record, or an owner statement identifying the recipient. A higher-resolution capture of the original print would likely settle the surname on its own.",
+ "second_human_japanese_review": "not applicable — the inscription is in English",
+ "second_human_review": "pending"
+}

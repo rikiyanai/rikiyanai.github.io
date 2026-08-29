@@ -1,0 +1,19 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL-wife-eldest-son-manual-review",
+ "source_artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL",
+ "source_repository_path": "research/artifacts/drive/maternal/derivatives/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL--ojiichama-newspaper-clipping.jpg",
+ "source_sha256": "11ef2cc8036e4c2771af31875d04bd8ca8eb7ebe23d58b3c44f53cf016cfe93a",
+ "reviewed_at": "2026-08-24T16:31:27-04:00",
+ "review_method": "macOS Preview Live Text followed by bounded manual visual comparison against the tracked display derivative",
+ "reviewer_type": "AI_agent_manual_visual_comparison",
+ "source_context": "Japanese obituary clipping for Akira Matsui in the owner-identified Menmen/Yasuko family album",
+ "visible_passages": [
+  "清浦奎吾内閣（大正十三年）の外相、松井慶四郎男爵の長男に生まれ",
+  "妻の以都子（いつこ）さん（七八）の義兄にあたる東大名誉教授、山本達郎氏"
+ ],
+ "claim_supported": "The wider clipping describes Akira Matsui as Baron Keishiro Matsui's eldest son and directly names Akira's wife as Itsuko / 以都子.",
+ "claim_not_yet_supported": "The passages do not establish Itsuko's maiden surname, her parents, or the exact Hara Museum relationship. Publication title/date and a second Japanese-speaking human review remain open.",
+ "correction_scope": "An earlier bounded review correctly rejected an eldest-son rendering for a different sentence in a different clipping. This wider passage supplies the wording elsewhere; the earlier record remains unchanged and is not treated as erroneous transcription.",
+ "second_human_japanese_review": "pending"
+}

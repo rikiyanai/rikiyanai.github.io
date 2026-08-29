@@ -1,0 +1,54 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "ja",
+		"translate": true
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 30000
+			},
+			"text": "いえぇえー!おかしいぞ!じゃなくすっかりもエスペリメントになったわね。。だってせんしんとかいう学校にいれれてて、それじゃóstれ顆le murdererめに捧げて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,220",
+				"to": "00:01:00,000"
+			},
+			"offsets": {
+				"from": 30220,
+				"to": 60000
+			},
+			"text": "①:そこそこの中の2階の売占で待っててて言ってたんだよ①:どこそれ?①:教会の方だよ"
+		}
+	]
+}

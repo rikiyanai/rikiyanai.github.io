@@ -1,0 +1,33 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-imamura-parentage-manual-review",
+ "source_artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+ "source_repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+ "source_sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+ "reviewed_at": "2026-08-24T16:31:27-04:00",
+ "review_method": "macOS Preview Live Text followed by manual original-resolution visual comparison of the title, root box, connector, and numbered couple box 4; temporary crops were disposable instrumentation and the hashed source image remains the evidence owner",
+ "reviewer_type": "AI_agent_manual_visual_comparison",
+ "source_context": "photographed Japanese family-tree sheet in the owner-identified Menmen/Yasuko family album",
+ "visible_text": {
+  "title": "今村清之助系譜",
+  "root_name": "今村清之助",
+  "root_spouse_candidate": "（斉藤）家寿",
+  "couple_box_4": [
+   "松井慶四郎",
+   "照子"
+  ],
+  "legend": [
+   "●印は故人を示す",
+   "（年月日は命日）"
+  ]
+ },
+ "layout_observation": "A vertical connector descends from the top 今村清之助 root box to the horizontal descendant row containing numbered couple box 4, where 松井慶四郎 is paired with 照子.",
+ "claim_supported": "The family-held sheet represents Teruko / 照子 as belonging to Seinosuke Imamura's descendant line and pairs her with Keishiro Matsui. Together with the sheet title, this is direct family-tree evidence for the working identity Teruko Imamura / 今村照子 and a likely father-daughter edge from Seinosuke Imamura to Teruko.",
+ "claim_not_yet_supported": "The sheet has not received a second Japanese-speaking human review. Biological versus legal/adoptive parentage is not distinguished, and the root spouse candidate （斉藤）家寿 is not promoted because that reading is less secure.",
+ "related_provider_occurrence": {
+  "provider_file_id": "1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM",
+  "provider_name": "IMG_79FF80BA-ECEE-4B77-9AA0-8B20E404AF85.jpeg",
+  "relationship": "near-identical second Drive image of the same photographed sheet; independently hashed in the Drive manifest, not an independent evidence lineage"
+ },
+ "second_human_japanese_review": "pending"
+}

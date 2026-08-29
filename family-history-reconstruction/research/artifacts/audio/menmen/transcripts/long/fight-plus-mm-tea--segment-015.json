@@ -1,0 +1,329 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,680"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2680
+			},
+			"text": "これも入ってたよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,680",
+				"to": "00:00:03,240"
+			},
+			"offsets": {
+				"from": 2680,
+				"to": 3240
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:50,660"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 50660
+			},
+			"text": "何飲む?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,660",
+				"to": "00:00:53,760"
+			},
+			"offsets": {
+				"from": 50660,
+				"to": 53760
+			},
+			"text": "メメは?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,760",
+				"to": "00:00:55,940"
+			},
+			"offsets": {
+				"from": 53760,
+				"to": 55940
+			},
+			"text": "メメかくらせる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,940",
+				"to": "00:01:02,940"
+			},
+			"offsets": {
+				"from": 55940,
+				"to": 62940
+			},
+			"text": "メメかくらせる?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,940",
+				"to": "00:01:04,940"
+			},
+			"offsets": {
+				"from": 62940,
+				"to": 64940
+			},
+			"text": "ハウスブレンドのスモールで"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,940",
+				"to": "00:01:07,940"
+			},
+			"offsets": {
+				"from": 64940,
+				"to": 67940
+			},
+			"text": "ハウスブレンドはホットレーズがよろしいですか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,940",
+				"to": "00:01:08,940"
+			},
+			"offsets": {
+				"from": 67940,
+				"to": 68940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,940",
+				"to": "00:01:12,940"
+			},
+			"offsets": {
+				"from": 68940,
+				"to": 72940
+			},
+			"text": "これだけはホットレーズ?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,940",
+				"to": "00:01:14,940"
+			},
+			"offsets": {
+				"from": 72940,
+				"to": 74940
+			},
+			"text": "スモールでよろしいですか?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:14,940",
+				"to": "00:01:16,940"
+			},
+			"offsets": {
+				"from": 74940,
+				"to": 76940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,940",
+				"to": "00:01:18,940"
+			},
+			"offsets": {
+				"from": 76940,
+				"to": 78940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,940",
+				"to": "00:01:25,940"
+			},
+			"offsets": {
+				"from": 78940,
+				"to": 85940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,940",
+				"to": "00:01:27,940"
+			},
+			"offsets": {
+				"from": 85940,
+				"to": 87940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,940",
+				"to": "00:01:29,940"
+			},
+			"offsets": {
+				"from": 87940,
+				"to": 89940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,940",
+				"to": "00:01:30,940"
+			},
+			"offsets": {
+				"from": 89940,
+				"to": 90940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,940",
+				"to": "00:01:31,940"
+			},
+			"offsets": {
+				"from": 90940,
+				"to": 91940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,940",
+				"to": "00:01:32,940"
+			},
+			"offsets": {
+				"from": 91940,
+				"to": 92940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,940",
+				"to": "00:01:33,940"
+			},
+			"offsets": {
+				"from": 92940,
+				"to": 93940
+			},
+			"text": "はい"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,940",
+				"to": "00:01:39,940"
+			},
+			"offsets": {
+				"from": 93940,
+				"to": 99940
+			},
+			"text": "ちょっとデザート"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,940",
+				"to": "00:01:46,940"
+			},
+			"offsets": {
+				"from": 99940,
+				"to": 106940
+			},
+			"text": "あれも楽しかった?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,940",
+				"to": "00:01:47,940"
+			},
+			"offsets": {
+				"from": 106940,
+				"to": 107940
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,940",
+				"to": "00:01:48,940"
+			},
+			"offsets": {
+				"from": 107940,
+				"to": 108940
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,940",
+				"to": "00:02:18,920"
+			},
+			"offsets": {
+				"from": 108940,
+				"to": 138920
+			},
+			"text": "3.926円"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,940",
+				"to": "00:02:48,920"
+			},
+			"offsets": {
+				"from": 138940,
+				"to": 168920
+			},
+			"text": "3.926円"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,940",
+				"to": "00:02:58,940"
+			},
+			"offsets": {
+				"from": 168940,
+				"to": 178940
+			},
+			"text": "3.926円"
+		}
+	]
+}

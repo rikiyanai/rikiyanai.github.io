@@ -1,0 +1,5319 @@
+{
+ "schema_version": "1.0",
+ "source_audio": "research/artifacts/audio/menmen/tomoko-bachman.m4a",
+ "source_sha256": "b237e3af9e62e0b828959da4bfdba026c184f784bd9efb9ca107f874fcc12078",
+ "segment_seconds": 180,
+ "segment_count": 9,
+ "result": {
+  "language": "ja",
+  "language_mix": {
+   "ja": 9
+  }
+ },
+ "transcription": [
+  {
+   "timestamps": {
+    "from": "00:00:00,000",
+    "to": "00:00:06,740"
+   },
+   "offsets": {
+    "from": 0,
+    "to": 6740
+   },
+   "text": "集まったのは多分できないから",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:06,740",
+    "to": "00:00:12,960"
+   },
+   "offsets": {
+    "from": 6740,
+    "to": 12960
+   },
+   "text": "とにかくパンデミックのパンデミックで始まって",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:12,960",
+    "to": "00:00:17,100"
+   },
+   "offsets": {
+    "from": 12960,
+    "to": 17100
+   },
+   "text": "今だんだん大きくなっているこのグループに",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:17,100",
+    "to": "00:00:21,740"
+   },
+   "offsets": {
+    "from": 17100,
+    "to": 21740
+   },
+   "text": "でもあんまり楽器が弾ける人いないよね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:21,740",
+    "to": "00:00:26,540"
+   },
+   "offsets": {
+    "from": 21740,
+    "to": 26540
+   },
+   "text": "でも今年が少し増えるかな",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:26,540",
+    "to": "00:00:33,020"
+   },
+   "offsets": {
+    "from": 26540,
+    "to": 33020
+   },
+   "text": "今年が12になった",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:33,020",
+    "to": "00:00:38,080"
+   },
+   "offsets": {
+    "from": 33020,
+    "to": 38080
+   },
+   "text": "でも最後に1,000になる",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:38,080",
+    "to": "00:00:43,720"
+   },
+   "offsets": {
+    "from": 38080,
+    "to": 43720
+   },
+   "text": "1番目は6人だった",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:43,720",
+    "to": "00:00:51,540"
+   },
+   "offsets": {
+    "from": 43720,
+    "to": 51540
+   },
+   "text": "ピアノ、チェイノ、バイオリン、コンテスピナと",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:51,540",
+    "to": "00:00:58,020"
+   },
+   "offsets": {
+    "from": 51540,
+    "to": 58020
+   },
+   "text": "それからソプラノ1人",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:58,020",
+    "to": "00:01:00,020"
+   },
+   "offsets": {
+    "from": 58020,
+    "to": 60020
+   },
+   "text": "でも今年が",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:00,020",
+    "to": "00:01:06,080"
+   },
+   "offsets": {
+    "from": 60020,
+    "to": 66080
+   },
+   "text": "けいこさんも上手よね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:06,080",
+    "to": "00:01:09,960"
+   },
+   "offsets": {
+    "from": 66080,
+    "to": 69960
+   },
+   "text": "バイオリン2人",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:09,960",
+    "to": "00:01:16,960"
+   },
+   "offsets": {
+    "from": 69960,
+    "to": 76960
+   },
+   "text": "ケイコさんとも",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:16,960",
+    "to": "00:01:20,440"
+   },
+   "offsets": {
+    "from": 76960,
+    "to": 80440
+   },
+   "text": "それからフルト2人",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:20,440",
+    "to": "00:01:22,440"
+   },
+   "offsets": {
+    "from": 80440,
+    "to": 82440
+   },
+   "text": "それからセイド",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:22,440",
+    "to": "00:01:26,440"
+   },
+   "offsets": {
+    "from": 82440,
+    "to": 86440
+   },
+   "text": "この間の時に見た方ね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:26,440",
+    "to": "00:01:32,920"
+   },
+   "offsets": {
+    "from": 86440,
+    "to": 92920
+   },
+   "text": "ソプラノ3人",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:32,920",
+    "to": "00:01:34,920"
+   },
+   "offsets": {
+    "from": 92920,
+    "to": 94920
+   },
+   "text": "ソプラノ1人",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:34,920",
+    "to": "00:01:36,920"
+   },
+   "offsets": {
+    "from": 94920,
+    "to": 96920
+   },
+   "text": "4人だった",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:36,920",
+    "to": "00:01:42,920"
+   },
+   "offsets": {
+    "from": 96920,
+    "to": 102920
+   },
+   "text": "彼女たちは絶対大変",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:42,920",
+    "to": "00:01:49,400"
+   },
+   "offsets": {
+    "from": 102920,
+    "to": 109400
+   },
+   "text": "なんでかというと3年間でみんな",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:49,400",
+    "to": "00:01:51,400"
+   },
+   "offsets": {
+    "from": 109400,
+    "to": 111400
+   },
+   "text": "人生変わっている",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:51,400",
+    "to": "00:01:53,400"
+   },
+   "offsets": {
+    "from": 111400,
+    "to": 113400
+   },
+   "text": "本当?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:53,400",
+    "to": "00:01:54,400"
+   },
+   "offsets": {
+    "from": 113400,
+    "to": 114400
+   },
+   "text": "本当?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:54,400",
+    "to": "00:01:55,400"
+   },
+   "offsets": {
+    "from": 114400,
+    "to": 115400
+   },
+   "text": "そうね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:55,400",
+    "to": "00:01:56,400"
+   },
+   "offsets": {
+    "from": 115400,
+    "to": 116400
+   },
+   "text": "例えば",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:56,400",
+    "to": "00:01:57,880"
+   },
+   "offsets": {
+    "from": 116400,
+    "to": 117880
+   },
+   "text": "えっと",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:57,880",
+    "to": "00:01:58,880"
+   },
+   "offsets": {
+    "from": 117880,
+    "to": 118880
+   },
+   "text": "ミオさんね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:58,880",
+    "to": "00:01:59,880"
+   },
+   "offsets": {
+    "from": 118880,
+    "to": 119880
+   },
+   "text": "結婚しました",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:59,880",
+    "to": "00:02:02,880"
+   },
+   "offsets": {
+    "from": 119880,
+    "to": 122880
+   },
+   "text": "ピアノリストの",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:02,880",
+    "to": "00:02:04,880"
+   },
+   "offsets": {
+    "from": 122880,
+    "to": 124880
+   },
+   "text": "マサコさんも",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:04,880",
+    "to": "00:02:05,880"
+   },
+   "offsets": {
+    "from": 124880,
+    "to": 125880
+   },
+   "text": "結婚して",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:05,880",
+    "to": "00:02:07,880"
+   },
+   "offsets": {
+    "from": 125880,
+    "to": 127880
+   },
+   "text": "子供がいます",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:07,880",
+    "to": "00:02:09,880"
+   },
+   "offsets": {
+    "from": 127880,
+    "to": 129880
+   },
+   "text": "みんな",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:09,880",
+    "to": "00:02:10,880"
+   },
+   "offsets": {
+    "from": 129880,
+    "to": 130880
+   },
+   "text": "みんな",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:10,880",
+    "to": "00:02:12,880"
+   },
+   "offsets": {
+    "from": 130880,
+    "to": 132880
+   },
+   "text": "先日が半年",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:12,880",
+    "to": "00:02:15,880"
+   },
+   "offsets": {
+    "from": 132880,
+    "to": 135880
+   },
+   "text": "だんだん",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:15,880",
+    "to": "00:02:16,880"
+   },
+   "offsets": {
+    "from": 135880,
+    "to": 136880
+   },
+   "text": "聖書しない",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:16,880",
+    "to": "00:02:17,880"
+   },
+   "offsets": {
+    "from": 136880,
+    "to": 137880
+   },
+   "text": "って言うじゃない?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:17,880",
+    "to": "00:02:18,360"
+   },
+   "offsets": {
+    "from": 137880,
+    "to": 138360
+   },
+   "text": "そうね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:18,360",
+    "to": "00:02:19,360"
+   },
+   "offsets": {
+    "from": 138360,
+    "to": 139360
+   },
+   "text": "今ね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:19,360",
+    "to": "00:02:20,360"
+   },
+   "offsets": {
+    "from": 139360,
+    "to": 140360
+   },
+   "text": "今",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:20,360",
+    "to": "00:02:22,360"
+   },
+   "offsets": {
+    "from": 140360,
+    "to": 142360
+   },
+   "text": "晴れ咲く神様に",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:22,360",
+    "to": "00:02:24,360"
+   },
+   "offsets": {
+    "from": 142360,
+    "to": 144360
+   },
+   "text": "会ったりしてるのよね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:24,360",
+    "to": "00:02:24,960"
+   },
+   "offsets": {
+    "from": 144360,
+    "to": 144960
+   },
+   "text": "そう",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:24,960",
+    "to": "00:02:25,360"
+   },
+   "offsets": {
+    "from": 144960,
+    "to": 145360
+   },
+   "text": "だから",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:25,360",
+    "to": "00:02:26,360"
+   },
+   "offsets": {
+    "from": 145360,
+    "to": 146360
+   },
+   "text": "みんな",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:26,360",
+    "to": "00:02:27,560"
+   },
+   "offsets": {
+    "from": 146360,
+    "to": 147560
+   },
+   "text": "こういう",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:27,560",
+    "to": "00:02:29,000"
+   },
+   "offsets": {
+    "from": 147560,
+    "to": 149000
+   },
+   "text": "聖書で",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:29,000",
+    "to": "00:02:29,840"
+   },
+   "offsets": {
+    "from": 149000,
+    "to": 149840
+   },
+   "text": "人生が",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:29,840",
+    "to": "00:02:34,480"
+   },
+   "offsets": {
+    "from": 149840,
+    "to": 154480
+   },
+   "text": "とても喜んでいます",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:34,480",
+    "to": "00:02:48,520"
+   },
+   "offsets": {
+    "from": 154480,
+    "to": 168520
+   },
+   "text": "そうね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:48,520",
+    "to": "00:02:49,800"
+   },
+   "offsets": {
+    "from": 168520,
+    "to": 169800
+   },
+   "text": "竹下さんも",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:49,800",
+    "to": "00:02:50,560"
+   },
+   "offsets": {
+    "from": 169800,
+    "to": 170560
+   },
+   "text": "あの",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:50,560",
+    "to": "00:02:51,800"
+   },
+   "offsets": {
+    "from": 170560,
+    "to": 171800
+   },
+   "text": "ルイスのおかげで",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:51,800",
+    "to": "00:02:52,240"
+   },
+   "offsets": {
+    "from": 171800,
+    "to": 172240
+   },
+   "text": "あの",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:52,240",
+    "to": "00:02:53,960"
+   },
+   "offsets": {
+    "from": 172240,
+    "to": 173960
+   },
+   "text": "すっかりお友達になって",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:53,960",
+    "to": "00:02:57,240"
+   },
+   "offsets": {
+    "from": 173960,
+    "to": 177240
+   },
+   "text": "ルイスがいないときも車で送ってあげてるの",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:57,240",
+    "to": "00:02:58,040"
+   },
+   "offsets": {
+    "from": 177240,
+    "to": 178040
+   },
+   "text": "そうね",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:58,040",
+    "to": "00:03:00,040"
+   },
+   "offsets": {
+    "from": 178040,
+    "to": 180040
+   },
+   "text": "ちょっとこんな感覚しながらそんなに",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:03:00,000",
+    "to": "00:03:02,000"
+   },
+   "offsets": {
+    "from": 180000,
+    "to": 182000
+   },
+   "text": "遠くないですよね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:02,000",
+    "to": "00:03:05,000"
+   },
+   "offsets": {
+    "from": 182000,
+    "to": 185000
+   },
+   "text": "サプリセンターからだと、内側だとちょっと多いんだけど",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:05,000",
+    "to": "00:03:08,000"
+   },
+   "offsets": {
+    "from": 185000,
+    "to": 188000
+   },
+   "text": "中井いつも送ってあげて",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:28,000",
+    "to": "00:03:32,000"
+   },
+   "offsets": {
+    "from": 208000,
+    "to": 212000
+   },
+   "text": "ミキちゃんは何年もかけてないね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:32,000",
+    "to": "00:03:34,000"
+   },
+   "offsets": {
+    "from": 212000,
+    "to": 214000
+   },
+   "text": "全然来てね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:34,000",
+    "to": "00:03:38,000"
+   },
+   "offsets": {
+    "from": 214000,
+    "to": 218000
+   },
+   "text": "ミキちゃんは私がいた。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:38,000",
+    "to": "00:03:40,000"
+   },
+   "offsets": {
+    "from": 218000,
+    "to": 220000
+   },
+   "text": "でもまだ半年にならないよね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:40,000",
+    "to": "00:03:43,000"
+   },
+   "offsets": {
+    "from": 220000,
+    "to": 223000
+   },
+   "text": "ヤツコさんが元に行ったんですか?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:43,000",
+    "to": "00:03:47,000"
+   },
+   "offsets": {
+    "from": 223000,
+    "to": 227000
+   },
+   "text": "ミキちゃんは日本には来てないですけど。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:47,000",
+    "to": "00:03:50,000"
+   },
+   "offsets": {
+    "from": 227000,
+    "to": 230000
+   },
+   "text": "何年前だっけ?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:50,000",
+    "to": "00:03:52,000"
+   },
+   "offsets": {
+    "from": 230000,
+    "to": 232000
+   },
+   "text": "いつだったのね。みんなで行ってしまった。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:56,000",
+    "to": "00:04:02,000"
+   },
+   "offsets": {
+    "from": 236000,
+    "to": 242000
+   },
+   "text": "ミキちゃんは今はグリーンカードを取っているメリカードを取っている。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:02,000",
+    "to": "00:04:04,000"
+   },
+   "offsets": {
+    "from": 242000,
+    "to": 244000
+   },
+   "text": "ミキちゃんはどう取ったの?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:04,000",
+    "to": "00:04:06,000"
+   },
+   "offsets": {
+    "from": 244000,
+    "to": 246000
+   },
+   "text": "ミキちゃんはもうダメだと思うのよ。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:06,000",
+    "to": "00:04:10,000"
+   },
+   "offsets": {
+    "from": 246000,
+    "to": 250000
+   },
+   "text": "ミキちゃんは6月で丸1年経ってあったからね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:10,000",
+    "to": "00:04:14,000"
+   },
+   "offsets": {
+    "from": 250000,
+    "to": 254000
+   },
+   "text": "ミキちゃんはもう一度やり直さなきゃダメだって書いてある。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:14,000",
+    "to": "00:04:16,000"
+   },
+   "offsets": {
+    "from": 254000,
+    "to": 256000
+   },
+   "text": "ミキちゃんは本当に?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:16,000",
+    "to": "00:04:20,000"
+   },
+   "offsets": {
+    "from": 256000,
+    "to": 260000
+   },
+   "text": "ミキちゃんはやっぱり同じくらい待つでしょって書いてあるの。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:20,000",
+    "to": "00:04:24,000"
+   },
+   "offsets": {
+    "from": 260000,
+    "to": 264000
+   },
+   "text": "ミキちゃんは今、ビザをルイスがたくさん取ってくださったからね。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:24,000",
+    "to": "00:04:27,000"
+   },
+   "offsets": {
+    "from": 264000,
+    "to": 267000
+   },
+   "text": "ミキちゃんはビザがあるから。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:27,000",
+    "to": "00:04:31,000"
+   },
+   "offsets": {
+    "from": 267000,
+    "to": 271000
+   },
+   "text": "ミキちゃんはもう本当に私長くいないと思うから。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:31,000",
+    "to": "00:04:37,000"
+   },
+   "offsets": {
+    "from": 271000,
+    "to": 277000
+   },
+   "text": "ミキちゃんはもうそろそろ天国行っちゃうんじゃないかって。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:37,000",
+    "to": "00:04:43,000"
+   },
+   "offsets": {
+    "from": 277000,
+    "to": 283000
+   },
+   "text": "ミキちゃんは天国行けないでいつまでも途中でふさっかってどうしよう。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:43,000",
+    "to": "00:04:45,000"
+   },
+   "offsets": {
+    "from": 283000,
+    "to": 285000
+   },
+   "text": "どうしよう。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:13,000",
+    "to": "00:05:15,000"
+   },
+   "offsets": {
+    "from": 313000,
+    "to": 315000
+   },
+   "text": "どうしよう。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:43,000",
+    "to": "00:05:50,000"
+   },
+   "offsets": {
+    "from": 343000,
+    "to": 350000
+   },
+   "text": "私の方が最近はもうちょっと私はできないとかいうのかな。本当はそうなのよ。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:50,000",
+    "to": "00:05:52,000"
+   },
+   "offsets": {
+    "from": 350000,
+    "to": 352000
+   },
+   "text": "どうしよう。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:52,000",
+    "to": "00:05:54,000"
+   },
+   "offsets": {
+    "from": 352000,
+    "to": 354000
+   },
+   "text": "80代じゃ。",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:54,000",
+    "to": "00:05:59,960"
+   },
+   "offsets": {
+    "from": 354000,
+    "to": 359960
+   },
+   "text": "毎年やっぱり一人で全部アレンジしてアメリカ行かれるの?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:06:00,000",
+    "to": "00:06:09,000"
+   },
+   "offsets": {
+    "from": 360000,
+    "to": 369000
+   },
+   "text": "飛行機撮ったりとか、行くまでは大変なの。飛行機に乗るまでが。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:09,000",
+    "to": "00:06:17,000"
+   },
+   "offsets": {
+    "from": 369000,
+    "to": 377000
+   },
+   "text": "もちろん荷物もあるし、だからもう最後よってこの人に。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:17,000",
+    "to": "00:06:19,000"
+   },
+   "offsets": {
+    "from": 377000,
+    "to": 379000
+   },
+   "text": "時期には言わなかった、この人に。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:19,000",
+    "to": "00:06:28,000"
+   },
+   "offsets": {
+    "from": 379000,
+    "to": 388000
+   },
+   "text": "大使がそんなこと言わないで、俺のアメリカに住んで、最後に歓迎して、",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:28,000",
+    "to": "00:06:36,000"
+   },
+   "offsets": {
+    "from": 388000,
+    "to": 396000
+   },
+   "text": "人もいろいろ言ってくれる。大使がすごく言ってくれました。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:36,000",
+    "to": "00:06:40,000"
+   },
+   "offsets": {
+    "from": 396000,
+    "to": 400000
+   },
+   "text": "雨は全然、何でも言わない。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:40,000",
+    "to": "00:06:44,000"
+   },
+   "offsets": {
+    "from": 400000,
+    "to": 404000
+   },
+   "text": "「バイバイ」とか言って。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:44,000",
+    "to": "00:06:59,000"
+   },
+   "offsets": {
+    "from": 404000,
+    "to": 419000
+   },
+   "text": "「でも、日本にたって続いて、バレを鳴らしてたのね」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:59,000",
+    "to": "00:07:04,000"
+   },
+   "offsets": {
+    "from": 419000,
+    "to": 424000
+   },
+   "text": "「日本で、日本で、そのオプリンカーを毎週、一人でやって、",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:04,000",
+    "to": "00:07:09,000"
+   },
+   "offsets": {
+    "from": 424000,
+    "to": 429000
+   },
+   "text": "車で、一人で待ってなきゃ、あれになってた。",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:09,000",
+    "to": "00:07:12,000"
+   },
+   "offsets": {
+    "from": 429000,
+    "to": 432000
+   },
+   "text": "それ、続けてたの?」「続けてるの?」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:12,000",
+    "to": "00:07:15,000"
+   },
+   "offsets": {
+    "from": 432000,
+    "to": 435000
+   },
+   "text": "「バレは、ちょっと、プラダンスをやってるのね」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:15,000",
+    "to": "00:07:18,000"
+   },
+   "offsets": {
+    "from": 435000,
+    "to": 438000
+   },
+   "text": "「なんかね、ダンスがあるのね」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:18,000",
+    "to": "00:07:22,000"
+   },
+   "offsets": {
+    "from": 438000,
+    "to": 442000
+   },
+   "text": "「その、バレは、何やってるの?」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:22,000",
+    "to": "00:07:25,000"
+   },
+   "offsets": {
+    "from": 442000,
+    "to": 445000
+   },
+   "text": "「オプラに、なんてよ、普通の人も、",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:25,000",
+    "to": "00:07:29,000"
+   },
+   "offsets": {
+    "from": 445000,
+    "to": 449000
+   },
+   "text": "日本では、出たのよ」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:29,000",
+    "to": "00:07:31,000"
+   },
+   "offsets": {
+    "from": 449000,
+    "to": 451000
+   },
+   "text": "「バレの、バレ」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:31,000",
+    "to": "00:07:34,000"
+   },
+   "offsets": {
+    "from": 451000,
+    "to": 454000
+   },
+   "text": "「あれ、どこでやったんだっけ、あの、舞台でやったときは?」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:34,000",
+    "to": "00:07:35,000"
+   },
+   "offsets": {
+    "from": 454000,
+    "to": 455000
+   },
+   "text": "「どん?」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:35,000",
+    "to": "00:07:56,000"
+   },
+   "offsets": {
+    "from": 455000,
+    "to": 476000
+   },
+   "text": "「日本で、日本で、アメリカ」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:56,000",
+    "to": "00:07:58,000"
+   },
+   "offsets": {
+    "from": 476000,
+    "to": 478000
+   },
+   "text": "「日本で?」",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:58,000",
+    "to": "00:08:05,000"
+   },
+   "offsets": {
+    "from": 478000,
+    "to": 485000
+   },
+   "text": "「うん、ルイさん、いなかったのよなぜか、それで、あの、ミッキちゃんが、アメリカを連れてって、あの、",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:05,000",
+    "to": "00:08:11,000"
+   },
+   "offsets": {
+    "from": 485000,
+    "to": 491000
+   },
+   "text": "着替えさせたりする、うてつとって、それを、私と一人で、座ってたの。それで、",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:11,000",
+    "to": "00:08:40,980"
+   },
+   "offsets": {
+    "from": 491000,
+    "to": 520980
+   },
+   "text": "よろしく~",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:40,980",
+    "to": "00:08:42,980"
+   },
+   "offsets": {
+    "from": 520980,
+    "to": 522980
+   },
+   "text": "お客様とかされたってね",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:42,980",
+    "to": "00:08:43,980"
+   },
+   "offsets": {
+    "from": 522980,
+    "to": 523980
+   },
+   "text": "もう分からないわけ",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:43,980",
+    "to": "00:08:44,980"
+   },
+   "offsets": {
+    "from": 523980,
+    "to": 524980
+   },
+   "text": "どこにいるのか",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:44,980",
+    "to": "00:08:47,980"
+   },
+   "offsets": {
+    "from": 524980,
+    "to": 527980
+   },
+   "text": "誰が先に見つけるかとか言って",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:47,980",
+    "to": "00:08:49,980"
+   },
+   "offsets": {
+    "from": 527980,
+    "to": 529980
+   },
+   "text": "分からないで",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:49,980",
+    "to": "00:08:52,980"
+   },
+   "offsets": {
+    "from": 529980,
+    "to": 532980
+   },
+   "text": "2プロフェッショナル",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:52,980",
+    "to": "00:08:54,980"
+   },
+   "offsets": {
+    "from": 532980,
+    "to": 534980
+   },
+   "text": "本当",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:09:00,000",
+    "to": "00:09:26,240"
+   },
+   "offsets": {
+    "from": 540000,
+    "to": 566240
+   },
+   "text": "その後アンミねやっぱりこう目とかあんな綺麗なあんな素敵な目なのにただでたいそれなのにお化粧してねもっとあの綺麗に綺麗にもっとなろうと思ったのかさでミキに怒られちゃったのまだダメだってまだお化粧なんかしたいって普段はいけませんとか言われて",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:26,240",
+    "to": "00:09:31,680"
+   },
+   "offsets": {
+    "from": 566240,
+    "to": 571680
+   },
+   "text": "しなくたってあんなに綺麗なんだからそうやね若いけどね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:31,680",
+    "to": "00:09:35,000"
+   },
+   "offsets": {
+    "from": 571680,
+    "to": 575000
+   },
+   "text": "ハニカだからさすごくかわいいのよ",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:35,000",
+    "to": "00:09:42,680"
+   },
+   "offsets": {
+    "from": 575000,
+    "to": 582680
+   },
+   "text": "リキもよ本当かっこいいからね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:42,680",
+    "to": "00:09:53,120"
+   },
+   "offsets": {
+    "from": 582680,
+    "to": 593120
+   },
+   "text": "リキももう何年も会ってないね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:53,120",
+    "to": "00:10:02,560"
+   },
+   "offsets": {
+    "from": 593120,
+    "to": 602560
+   },
+   "text": "リキも今3人の一番性が高いのちょっとだけどね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:02,560",
+    "to": "00:10:15,000"
+   },
+   "offsets": {
+    "from": 602560,
+    "to": 615000
+   },
+   "text": "リキも一生懸命勉強しててすごく大変なねあのなんかなんかなんか中の大学って大変なのね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:15,000",
+    "to": "00:10:20,440"
+   },
+   "offsets": {
+    "from": 615000,
+    "to": 620440
+   },
+   "text": "ステイツユニラシティっていうのはちょっとそこへ入っちゃったんですよ",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:20,440",
+    "to": "00:10:23,880"
+   },
+   "offsets": {
+    "from": 620440,
+    "to": 623880
+   },
+   "text": "入ったんですよ入ったすごいな",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:23,880",
+    "to": "00:10:24,880"
+   },
+   "offsets": {
+    "from": 623880,
+    "to": 624880
+   },
+   "text": "いくつも多かった",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:24,880",
+    "to": "00:10:27,880"
+   },
+   "offsets": {
+    "from": 624880,
+    "to": 627880
+   },
+   "text": "アミって同じところも多かったんだけどね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:27,880",
+    "to": "00:10:32,200"
+   },
+   "offsets": {
+    "from": 627880,
+    "to": 632200
+   },
+   "text": "でも結局そのステイツの方に入っちゃったから大変なの",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:32,200",
+    "to": "00:10:36,880"
+   },
+   "offsets": {
+    "from": 632200,
+    "to": 636880
+   },
+   "text": "下昇も高いしちょっと今ちょっと大変なの",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:36,880",
+    "to": "00:10:42,880"
+   },
+   "offsets": {
+    "from": 636880,
+    "to": 642880
+   },
+   "text": "でも一生懸命勉強してて随分できる",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:42,880",
+    "to": "00:10:46,320"
+   },
+   "offsets": {
+    "from": 642880,
+    "to": 646320
+   },
+   "text": "あの今全然困ってないみたいな",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:46,320",
+    "to": "00:10:48,720"
+   },
+   "offsets": {
+    "from": 646320,
+    "to": 648720
+   },
+   "text": "最初はなんかあの宿題とかね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:48,720",
+    "to": "00:10:51,680"
+   },
+   "offsets": {
+    "from": 648720,
+    "to": 651680
+   },
+   "text": "最近は何だかわからないぐらいだって言ってたの",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:51,680",
+    "to": "00:10:53,520"
+   },
+   "offsets": {
+    "from": 651680,
+    "to": 653520
+   },
+   "text": "今もう全然なのよ",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:53,520",
+    "to": "00:10:57,000"
+   },
+   "offsets": {
+    "from": 653520,
+    "to": 657000
+   },
+   "text": "最近だけお家に今帰ってるでしょ",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:57,000",
+    "to": "00:10:58,880"
+   },
+   "offsets": {
+    "from": 657000,
+    "to": 658880
+   },
+   "text": "話した電話で",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:58,880",
+    "to": "00:11:00,760"
+   },
+   "offsets": {
+    "from": 658880,
+    "to": 660760
+   },
+   "text": "うんそうそう昨日",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:00,760",
+    "to": "00:11:02,760"
+   },
+   "offsets": {
+    "from": 660760,
+    "to": 662760
+   },
+   "text": "この間ね帰ってきたのよね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:02,760",
+    "to": "00:11:03,440"
+   },
+   "offsets": {
+    "from": 662760,
+    "to": 663440
+   },
+   "text": "昨日",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:03,440",
+    "to": "00:11:04,880"
+   },
+   "offsets": {
+    "from": 663440,
+    "to": 664880
+   },
+   "text": "ああそうかいいな",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:04,880",
+    "to": "00:11:06,000"
+   },
+   "offsets": {
+    "from": 664880,
+    "to": 666000
+   },
+   "text": "今",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:06,000",
+    "to": "00:11:06,880"
+   },
+   "offsets": {
+    "from": 666000,
+    "to": 666880
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:06,880",
+    "to": "00:11:08,360"
+   },
+   "offsets": {
+    "from": 666880,
+    "to": 668360
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:08,360",
+    "to": "00:11:09,480"
+   },
+   "offsets": {
+    "from": 668360,
+    "to": 669480
+   },
+   "text": "冬休み",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:09,480",
+    "to": "00:11:09,880"
+   },
+   "offsets": {
+    "from": 669480,
+    "to": 669880
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:09,880",
+    "to": "00:11:11,920"
+   },
+   "offsets": {
+    "from": 669880,
+    "to": 671920
+   },
+   "text": "でもそれないといけんとこでいいの?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:11,920",
+    "to": "00:11:14,920"
+   },
+   "offsets": {
+    "from": 671920,
+    "to": 674920
+   },
+   "text": "もうちょっと寮じゃなきゃいけないのよアメリカ大学って",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:14,920",
+    "to": "00:11:15,560"
+   },
+   "offsets": {
+    "from": 674920,
+    "to": 675560
+   },
+   "text": "そうなの?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:15,560",
+    "to": "00:11:17,400"
+   },
+   "offsets": {
+    "from": 675560,
+    "to": 677400
+   },
+   "text": "うん大体のところがそうなの",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:17,400",
+    "to": "00:11:18,080"
+   },
+   "offsets": {
+    "from": 677400,
+    "to": 678080
+   },
+   "text": "そうなの?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:18,080",
+    "to": "00:11:18,800"
+   },
+   "offsets": {
+    "from": 678080,
+    "to": 678800
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:18,800",
+    "to": "00:11:20,000"
+   },
+   "offsets": {
+    "from": 678800,
+    "to": 680000
+   },
+   "text": "アミもよ",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:20,000",
+    "to": "00:11:20,800"
+   },
+   "offsets": {
+    "from": 680000,
+    "to": 680800
+   },
+   "text": "そう",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:20,800",
+    "to": "00:11:22,440"
+   },
+   "offsets": {
+    "from": 680800,
+    "to": 682440
+   },
+   "text": "だからミキちゃん一人だからね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:22,440",
+    "to": "00:11:25,560"
+   },
+   "offsets": {
+    "from": 682440,
+    "to": 685560
+   },
+   "text": "だから私2ヶ月もいたんだけど",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:25,560",
+    "to": "00:11:26,120"
+   },
+   "offsets": {
+    "from": 685560,
+    "to": 686120
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:26,120",
+    "to": "00:11:26,960"
+   },
+   "offsets": {
+    "from": 686120,
+    "to": 686960
+   },
+   "text": "お前だろう",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:26,960",
+    "to": "00:11:27,960"
+   },
+   "offsets": {
+    "from": 686960,
+    "to": 687960
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:27,960",
+    "to": "00:11:28,960"
+   },
+   "offsets": {
+    "from": 687960,
+    "to": 688960
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:28,960",
+    "to": "00:11:30,560"
+   },
+   "offsets": {
+    "from": 688960,
+    "to": 690560
+   },
+   "text": "でもミキも忙しくって",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:30,560",
+    "to": "00:11:32,000"
+   },
+   "offsets": {
+    "from": 690560,
+    "to": 692000
+   },
+   "text": "私はいつも俺その",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:32,000",
+    "to": "00:11:34,560"
+   },
+   "offsets": {
+    "from": 692000,
+    "to": 694560
+   },
+   "text": "俺その番ばっかりなのって",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:34,560",
+    "to": "00:11:37,560"
+   },
+   "offsets": {
+    "from": 694560,
+    "to": 697560
+   },
+   "text": "ミキミキさんも全然いないんだもんってね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:37,560",
+    "to": "00:11:39,560"
+   },
+   "offsets": {
+    "from": 697560,
+    "to": 699560
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:39,560",
+    "to": "00:11:43,440"
+   },
+   "offsets": {
+    "from": 699560,
+    "to": 703440
+   },
+   "text": "ミキは何でしょうし",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:43,440",
+    "to": "00:11:45,160"
+   },
+   "offsets": {
+    "from": 703440,
+    "to": 705160
+   },
+   "text": "もうアミたられることしてるの?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:45,160",
+    "to": "00:11:47,280"
+   },
+   "offsets": {
+    "from": 705160,
+    "to": 707280
+   },
+   "text": "なんか商売も始めちゃったし",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:47,280",
+    "to": "00:11:48,720"
+   },
+   "offsets": {
+    "from": 707280,
+    "to": 708720
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:48,720",
+    "to": "00:11:50,720"
+   },
+   "offsets": {
+    "from": 708720,
+    "to": 710720
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:50,720",
+    "to": "00:11:51,720"
+   },
+   "offsets": {
+    "from": 710720,
+    "to": 711720
+   },
+   "text": "すごいね",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:51,720",
+    "to": "00:11:53,720"
+   },
+   "offsets": {
+    "from": 711720,
+    "to": 713720
+   },
+   "text": "うん",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:53,720",
+    "to": "00:11:56,080"
+   },
+   "offsets": {
+    "from": 713720,
+    "to": 716080
+   },
+   "text": "キリコさんとかに",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:56,080",
+    "to": "00:11:57,040"
+   },
+   "offsets": {
+    "from": 716080,
+    "to": 717040
+   },
+   "text": "タカゴさんか",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:57,040",
+    "to": "00:11:59,960"
+   },
+   "offsets": {
+    "from": 717040,
+    "to": 719960
+   },
+   "text": "たかこさんに使われてるのよね、なんだかね。",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:12:00,000",
+    "to": "00:12:07,000"
+   },
+   "offsets": {
+    "from": 720000,
+    "to": 727000
+   },
+   "text": "ちょっとあんまりやりすぎなくてもいいのにってよく言うんだけど。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:07,000",
+    "to": "00:12:21,000"
+   },
+   "offsets": {
+    "from": 727000,
+    "to": 741000
+   },
+   "text": "でも一回私も会ったのね、そのたかこさんっていう方。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:21,000",
+    "to": "00:12:26,000"
+   },
+   "offsets": {
+    "from": 741000,
+    "to": 746000
+   },
+   "text": "それで思ってたよりずっとなんていうか、感じが良かった。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:26,000",
+    "to": "00:12:33,000"
+   },
+   "offsets": {
+    "from": 746000,
+    "to": 753000
+   },
+   "text": "もっと怖い人かと思ったら、ちょっと少し見て、会ったら全然違ってびっくりして。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:33,000",
+    "to": "00:12:41,000"
+   },
+   "offsets": {
+    "from": 753000,
+    "to": 761000
+   },
+   "text": "そうかと思ってたらやっぱりミキさんがね、一緒にいろいろやってるんだなっていう気がする。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:41,000",
+    "to": "00:12:52,000"
+   },
+   "offsets": {
+    "from": 761000,
+    "to": 772000
+   },
+   "text": "お家に来たのよ、みんな。時々やるでしょ、お花だ、お花の時。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:52,000",
+    "to": "00:13:21,980"
+   },
+   "offsets": {
+    "from": 772000,
+    "to": 801980
+   },
+   "text": "おめでとうございます。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:22,000",
+    "to": "00:13:29,000"
+   },
+   "offsets": {
+    "from": 802000,
+    "to": 809000
+   },
+   "text": "私はね、10本ぐらいで電話。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:29,000",
+    "to": "00:13:33,000"
+   },
+   "offsets": {
+    "from": 809000,
+    "to": 813000
+   },
+   "text": "でも、一緒に行って。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:33,000",
+    "to": "00:13:36,000"
+   },
+   "offsets": {
+    "from": 813000,
+    "to": 816000
+   },
+   "text": "でも、待っててもいいわよ。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:36,000",
+    "to": "00:13:45,000"
+   },
+   "offsets": {
+    "from": 816000,
+    "to": 825000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:45,000",
+    "to": "00:13:52,000"
+   },
+   "offsets": {
+    "from": 825000,
+    "to": 832000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:52,000",
+    "to": "00:13:56,000"
+   },
+   "offsets": {
+    "from": 832000,
+    "to": 836000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:56,000",
+    "to": "00:14:03,000"
+   },
+   "offsets": {
+    "from": 836000,
+    "to": 843000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:03,000",
+    "to": "00:14:10,000"
+   },
+   "offsets": {
+    "from": 843000,
+    "to": 850000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:10,000",
+    "to": "00:14:15,000"
+   },
+   "offsets": {
+    "from": 850000,
+    "to": 855000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:15,000",
+    "to": "00:14:22,000"
+   },
+   "offsets": {
+    "from": 855000,
+    "to": 862000
+   },
+   "text": "私は、私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:22,000",
+    "to": "00:14:27,000"
+   },
+   "offsets": {
+    "from": 862000,
+    "to": 867000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:27,000",
+    "to": "00:14:29,000"
+   },
+   "offsets": {
+    "from": 867000,
+    "to": 869000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:29,000",
+    "to": "00:14:31,000"
+   },
+   "offsets": {
+    "from": 869000,
+    "to": 871000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:31,000",
+    "to": "00:14:33,000"
+   },
+   "offsets": {
+    "from": 871000,
+    "to": 873000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:33,000",
+    "to": "00:14:35,000"
+   },
+   "offsets": {
+    "from": 873000,
+    "to": 875000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:35,000",
+    "to": "00:14:37,000"
+   },
+   "offsets": {
+    "from": 875000,
+    "to": 877000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:37,000",
+    "to": "00:14:39,000"
+   },
+   "offsets": {
+    "from": 877000,
+    "to": 879000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:39,000",
+    "to": "00:14:41,000"
+   },
+   "offsets": {
+    "from": 879000,
+    "to": 881000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:41,000",
+    "to": "00:14:43,000"
+   },
+   "offsets": {
+    "from": 881000,
+    "to": 883000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:43,000",
+    "to": "00:14:45,000"
+   },
+   "offsets": {
+    "from": 883000,
+    "to": 885000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:45,000",
+    "to": "00:14:47,000"
+   },
+   "offsets": {
+    "from": 885000,
+    "to": 887000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:47,000",
+    "to": "00:14:49,000"
+   },
+   "offsets": {
+    "from": 887000,
+    "to": 889000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:49,000",
+    "to": "00:14:51,000"
+   },
+   "offsets": {
+    "from": 889000,
+    "to": 891000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:51,000",
+    "to": "00:14:53,000"
+   },
+   "offsets": {
+    "from": 891000,
+    "to": 893000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:53,000",
+    "to": "00:14:55,000"
+   },
+   "offsets": {
+    "from": 893000,
+    "to": 895000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:55,000",
+    "to": "00:14:57,000"
+   },
+   "offsets": {
+    "from": 895000,
+    "to": 897000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:57,000",
+    "to": "00:14:59,000"
+   },
+   "offsets": {
+    "from": 897000,
+    "to": 899000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:59,000",
+    "to": "00:15:01,000"
+   },
+   "offsets": {
+    "from": 899000,
+    "to": 901000
+   },
+   "text": "私たちがもう取り付けられている。",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:15:00,000",
+    "to": "00:15:02,000"
+   },
+   "offsets": {
+    "from": 900000,
+    "to": 902000
+   },
+   "text": "ん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:30,000",
+    "to": "00:15:34,000"
+   },
+   "offsets": {
+    "from": 930000,
+    "to": 934000
+   },
+   "text": "飲み出すと飲まないとやっぱり寝られなくなっちゃう",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:34,000",
+    "to": "00:15:36,000"
+   },
+   "offsets": {
+    "from": 934000,
+    "to": 936000
+   },
+   "text": "本当に良くない",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:36,000",
+    "to": "00:15:43,000"
+   },
+   "offsets": {
+    "from": 936000,
+    "to": 943000
+   },
+   "text": "夜中に目覚めちゃおう?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:43,000",
+    "to": "00:15:47,000"
+   },
+   "offsets": {
+    "from": 943000,
+    "to": 947000
+   },
+   "text": "ちょっとあと寝られないのよね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:58,000",
+    "to": "00:16:01,000"
+   },
+   "offsets": {
+    "from": 958000,
+    "to": 961000
+   },
+   "text": "メメなんて、大気もそうだって言うんだけど",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:01,000",
+    "to": "00:16:02,000"
+   },
+   "offsets": {
+    "from": 961000,
+    "to": 962000
+   },
+   "text": "なんか",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:02,000",
+    "to": "00:16:08,000"
+   },
+   "offsets": {
+    "from": 962000,
+    "to": 968000
+   },
+   "text": "CDでね、自動的に電気がちゃんと切れるのもあるのね、プレイヤーが",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:08,000",
+    "to": "00:16:12,000"
+   },
+   "offsets": {
+    "from": 968000,
+    "to": 972000
+   },
+   "text": "それをCDを結構ガンガンかけて",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:12,000",
+    "to": "00:16:14,000"
+   },
+   "offsets": {
+    "from": 972000,
+    "to": 974000
+   },
+   "text": "それで明るくしてあって",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:14,000",
+    "to": "00:16:18,000"
+   },
+   "offsets": {
+    "from": 974000,
+    "to": 978000
+   },
+   "text": "あの廊下の方の電気がつけてあって",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:18,000",
+    "to": "00:16:22,000"
+   },
+   "offsets": {
+    "from": 978000,
+    "to": 982000
+   },
+   "text": "メメも真っ暗でも静かっていう風に狙わせないの",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:22,000",
+    "to": "00:16:25,000"
+   },
+   "offsets": {
+    "from": 982000,
+    "to": 985000
+   },
+   "text": "それ、さっきさんもそうだって言うから",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:25,000",
+    "to": "00:16:27,000"
+   },
+   "offsets": {
+    "from": 985000,
+    "to": 987000
+   },
+   "text": "ガンガンガンを見つけた",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:27,000",
+    "to": "00:16:29,000"
+   },
+   "offsets": {
+    "from": 987000,
+    "to": 989000
+   },
+   "text": "そっか",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:29,000",
+    "to": "00:16:32,000"
+   },
+   "offsets": {
+    "from": 989000,
+    "to": 992000
+   },
+   "text": "リスカ、ハワイに行った時に",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:32,000",
+    "to": "00:16:34,000"
+   },
+   "offsets": {
+    "from": 992000,
+    "to": 994000
+   },
+   "text": "なんか、あの",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:34,000",
+    "to": "00:16:35,000"
+   },
+   "offsets": {
+    "from": 994000,
+    "to": 995000
+   },
+   "text": "ハワイじゃないか",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:35,000",
+    "to": "00:16:36,000"
+   },
+   "offsets": {
+    "from": 995000,
+    "to": 996000
+   },
+   "text": "あの",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:36,000",
+    "to": "00:16:38,000"
+   },
+   "offsets": {
+    "from": 996000,
+    "to": 998000
+   },
+   "text": "ウチだったかもしれない",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:38,000",
+    "to": "00:16:40,000"
+   },
+   "offsets": {
+    "from": 998000,
+    "to": 1000000
+   },
+   "text": "どこだか忘れてたんだけど",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:40,000",
+    "to": "00:16:42,000"
+   },
+   "offsets": {
+    "from": 1000000,
+    "to": 1002000
+   },
+   "text": "大気がそこに寝てるの",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:42,000",
+    "to": "00:16:43,000"
+   },
+   "offsets": {
+    "from": 1002000,
+    "to": 1003000
+   },
+   "text": "5番町かもしれない",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:43,000",
+    "to": "00:16:45,000"
+   },
+   "offsets": {
+    "from": 1003000,
+    "to": 1005000
+   },
+   "text": "上が5番町にいた頃に",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:45,000",
+    "to": "00:16:47,000"
+   },
+   "offsets": {
+    "from": 1005000,
+    "to": 1007000
+   },
+   "text": "大気のお部屋がなかったんだよね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:47,000",
+    "to": "00:16:48,000"
+   },
+   "offsets": {
+    "from": 1007000,
+    "to": 1008000
+   },
+   "text": "かわいと",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:48,000",
+    "to": "00:16:50,000"
+   },
+   "offsets": {
+    "from": 1008000,
+    "to": 1010000
+   },
+   "text": "みんなが食事したまんまそこで",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:50,000",
+    "to": "00:16:51,000"
+   },
+   "offsets": {
+    "from": 1010000,
+    "to": 1011000
+   },
+   "text": "わわわ",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:51,000",
+    "to": "00:16:53,000"
+   },
+   "offsets": {
+    "from": 1011000,
+    "to": 1013000
+   },
+   "text": "騒いでる時に大気だけもう",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:53,000",
+    "to": "00:16:55,000"
+   },
+   "offsets": {
+    "from": 1013000,
+    "to": 1015000
+   },
+   "text": "お休みとか言って",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:55,000",
+    "to": "00:16:57,000"
+   },
+   "offsets": {
+    "from": 1015000,
+    "to": 1017000
+   },
+   "text": "寝られないそうだったんだけど",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:57,000",
+    "to": "00:16:59,000"
+   },
+   "offsets": {
+    "from": 1017000,
+    "to": 1019000
+   },
+   "text": "しばらくしてよく寝ちゃったのね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:59,000",
+    "to": "00:17:00,000"
+   },
+   "offsets": {
+    "from": 1019000,
+    "to": 1020000
+   },
+   "text": "それでやっぱりそういう風に",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:00,000",
+    "to": "00:17:03,000"
+   },
+   "offsets": {
+    "from": 1020000,
+    "to": 1023000
+   },
+   "text": "うるさくて明るい方が寝られるっていうのよ",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:03,000",
+    "to": "00:17:05,000"
+   },
+   "offsets": {
+    "from": 1023000,
+    "to": 1025000
+   },
+   "text": "それ、メメそれよく分かるの?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:05,000",
+    "to": "00:17:06,000"
+   },
+   "offsets": {
+    "from": 1025000,
+    "to": 1026000
+   },
+   "text": "メメってそうなのよ",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:06,000",
+    "to": "00:17:08,000"
+   },
+   "offsets": {
+    "from": 1026000,
+    "to": 1028000
+   },
+   "text": "変でしょ",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:08,000",
+    "to": "00:17:09,000"
+   },
+   "offsets": {
+    "from": 1028000,
+    "to": 1029000
+   },
+   "text": "うるさくなったの?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:09,000",
+    "to": "00:17:10,000"
+   },
+   "offsets": {
+    "from": 1029000,
+    "to": 1030000
+   },
+   "text": "うるさくなったら",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:10,000",
+    "to": "00:17:12,000"
+   },
+   "offsets": {
+    "from": 1030000,
+    "to": 1032000
+   },
+   "text": "車で一番寝やすいかな",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:12,000",
+    "to": "00:17:13,000"
+   },
+   "offsets": {
+    "from": 1032000,
+    "to": 1033000
+   },
+   "text": "うん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:13,000",
+    "to": "00:17:14,000"
+   },
+   "offsets": {
+    "from": 1033000,
+    "to": 1034000
+   },
+   "text": "うん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:14,000",
+    "to": "00:17:19,000"
+   },
+   "offsets": {
+    "from": 1034000,
+    "to": 1039000
+   },
+   "text": "うん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:19,000",
+    "to": "00:17:20,000"
+   },
+   "offsets": {
+    "from": 1039000,
+    "to": 1040000
+   },
+   "text": "ダメですね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:20,000",
+    "to": "00:17:21,000"
+   },
+   "offsets": {
+    "from": 1040000,
+    "to": 1041000
+   },
+   "text": "なんか動いてる",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:21,000",
+    "to": "00:17:23,000"
+   },
+   "offsets": {
+    "from": 1041000,
+    "to": 1043000
+   },
+   "text": "そう",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:23,000",
+    "to": "00:17:25,000"
+   },
+   "offsets": {
+    "from": 1043000,
+    "to": 1045000
+   },
+   "text": "5番町にちょっといたもんね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:25,000",
+    "to": "00:17:28,000"
+   },
+   "offsets": {
+    "from": 1045000,
+    "to": 1048000
+   },
+   "text": "アリシアもいたのよね",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:28,000",
+    "to": "00:17:30,000"
+   },
+   "offsets": {
+    "from": 1048000,
+    "to": 1050000
+   },
+   "text": "うん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:30,000",
+    "to": "00:17:31,000"
+   },
+   "offsets": {
+    "from": 1050000,
+    "to": 1051000
+   },
+   "text": "よく覚えてる",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:31,000",
+    "to": "00:17:35,000"
+   },
+   "offsets": {
+    "from": 1051000,
+    "to": 1055000
+   },
+   "text": "いつもアリシアに会った?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:35,000",
+    "to": "00:17:36,000"
+   },
+   "offsets": {
+    "from": 1055000,
+    "to": 1056000
+   },
+   "text": "あの",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:36,000",
+    "to": "00:17:37,000"
+   },
+   "offsets": {
+    "from": 1056000,
+    "to": 1057000
+   },
+   "text": "最近というか",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:37,000",
+    "to": "00:17:38,000"
+   },
+   "offsets": {
+    "from": 1057000,
+    "to": 1058000
+   },
+   "text": "全然",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:38,000",
+    "to": "00:17:39,000"
+   },
+   "offsets": {
+    "from": 1058000,
+    "to": 1059000
+   },
+   "text": "もう4年",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:39,000",
+    "to": "00:17:40,000"
+   },
+   "offsets": {
+    "from": 1059000,
+    "to": 1060000
+   },
+   "text": "今後",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:40,000",
+    "to": "00:17:41,000"
+   },
+   "offsets": {
+    "from": 1060000,
+    "to": 1061000
+   },
+   "text": "何か",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:41,000",
+    "to": "00:17:42,000"
+   },
+   "offsets": {
+    "from": 1061000,
+    "to": 1062000
+   },
+   "text": "何か",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:42,000",
+    "to": "00:17:43,000"
+   },
+   "offsets": {
+    "from": 1062000,
+    "to": 1063000
+   },
+   "text": "何か",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:43,000",
+    "to": "00:17:44,000"
+   },
+   "offsets": {
+    "from": 1063000,
+    "to": 1064000
+   },
+   "text": "何か",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:44,000",
+    "to": "00:17:47,000"
+   },
+   "offsets": {
+    "from": 1064000,
+    "to": 1067000
+   },
+   "text": "ホットフローリーじゃん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:47,000",
+    "to": "00:17:48,000"
+   },
+   "offsets": {
+    "from": 1067000,
+    "to": 1068000
+   },
+   "text": "出られなかったみたいな",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:48,000",
+    "to": "00:17:49,000"
+   },
+   "offsets": {
+    "from": 1068000,
+    "to": 1069000
+   },
+   "text": "うん",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:49,000",
+    "to": "00:17:56,000"
+   },
+   "offsets": {
+    "from": 1069000,
+    "to": 1076000
+   },
+   "text": "毎年",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:56,000",
+    "to": "00:17:57,000"
+   },
+   "offsets": {
+    "from": 1076000,
+    "to": 1077000
+   },
+   "text": "スピード",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:57,000",
+    "to": "00:17:58,000"
+   },
+   "offsets": {
+    "from": 1077000,
+    "to": 1078000
+   },
+   "text": "はい",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:58,000",
+    "to": "00:17:59,000"
+   },
+   "offsets": {
+    "from": 1078000,
+    "to": 1079000
+   },
+   "text": "はい",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:59,000",
+    "to": "00:18:00,000"
+   },
+   "offsets": {
+    "from": 1079000,
+    "to": 1080000
+   },
+   "text": "はい",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:18:00,000",
+    "to": "00:18:07,000"
+   },
+   "offsets": {
+    "from": 1080000,
+    "to": 1087000
+   },
+   "text": "2人もいるんだっけ",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:07,000",
+    "to": "00:18:12,000"
+   },
+   "offsets": {
+    "from": 1087000,
+    "to": 1092000
+   },
+   "text": "1人?",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:12,000",
+    "to": "00:18:14,000"
+   },
+   "offsets": {
+    "from": 1092000,
+    "to": 1094000
+   },
+   "text": "面白いよく知らないけど",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:14,000",
+    "to": "00:18:16,000"
+   },
+   "offsets": {
+    "from": 1094000,
+    "to": 1096000
+   },
+   "text": "すごいです",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:23,000",
+    "to": "00:18:31,000"
+   },
+   "offsets": {
+    "from": 1103000,
+    "to": 1111000
+   },
+   "text": "アミとタイキがエコエに入った時に",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:31,000",
+    "to": "00:18:35,000"
+   },
+   "offsets": {
+    "from": 1111000,
+    "to": 1115000
+   },
+   "text": "いろんな先生がいらっしゃって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:35,000",
+    "to": "00:18:39,000"
+   },
+   "offsets": {
+    "from": 1115000,
+    "to": 1119000
+   },
+   "text": "1人の先生だけがアリシアみたいに",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:39,000",
+    "to": "00:18:42,000"
+   },
+   "offsets": {
+    "from": 1119000,
+    "to": 1122000
+   },
+   "text": "アフリカのカーだったのね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:42,000",
+    "to": "00:18:46,000"
+   },
+   "offsets": {
+    "from": 1122000,
+    "to": 1126000
+   },
+   "text": "タイキもアミもその先生が一番好きでね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:46,000",
+    "to": "00:18:49,000"
+   },
+   "offsets": {
+    "from": 1126000,
+    "to": 1129000
+   },
+   "text": "先生とっても不思議があってね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:49,000",
+    "to": "00:18:53,000"
+   },
+   "offsets": {
+    "from": 1129000,
+    "to": 1133000
+   },
+   "text": "その子たちは自分が来てくれるんだって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:53,000",
+    "to": "00:18:55,000"
+   },
+   "offsets": {
+    "from": 1133000,
+    "to": 1135000
+   },
+   "text": "私に好きになったって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:55,000",
+    "to": "00:18:59,000"
+   },
+   "offsets": {
+    "from": 1135000,
+    "to": 1139000
+   },
+   "text": "そうよね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:18:59,000",
+    "to": "00:19:05,000"
+   },
+   "offsets": {
+    "from": 1139000,
+    "to": 1145000
+   },
+   "text": "だからやっぱり小さい時からそういうの見てるのって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:05,000",
+    "to": "00:19:07,000"
+   },
+   "offsets": {
+    "from": 1145000,
+    "to": 1147000
+   },
+   "text": "すごくいいと思う",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:07,000",
+    "to": "00:19:09,000"
+   },
+   "offsets": {
+    "from": 1147000,
+    "to": 1149000
+   },
+   "text": "リキちゃんだってそうよね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:09,000",
+    "to": "00:19:12,000"
+   },
+   "offsets": {
+    "from": 1149000,
+    "to": 1152000
+   },
+   "text": "小さい時からいろいろんな日本人",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:12,000",
+    "to": "00:19:15,000"
+   },
+   "offsets": {
+    "from": 1152000,
+    "to": 1155000
+   },
+   "text": "アジア人の顔してる人とかいろんな人がいて",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:15,000",
+    "to": "00:19:17,000"
+   },
+   "offsets": {
+    "from": 1155000,
+    "to": 1157000
+   },
+   "text": "それ不思議じゃないじゃない?",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:17,000",
+    "to": "00:19:19,000"
+   },
+   "offsets": {
+    "from": 1157000,
+    "to": 1159000
+   },
+   "text": "だけど",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:19,000",
+    "to": "00:19:21,000"
+   },
+   "offsets": {
+    "from": 1159000,
+    "to": 1161000
+   },
+   "text": "メメンなんてやっぱりずっと",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:21,000",
+    "to": "00:19:25,000"
+   },
+   "offsets": {
+    "from": 1161000,
+    "to": 1165000
+   },
+   "text": "日本人しか見てなかったからね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:25,000",
+    "to": "00:19:27,000"
+   },
+   "offsets": {
+    "from": 1165000,
+    "to": 1167000
+   },
+   "text": "変なさは思えなかったけど",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:27,000",
+    "to": "00:19:28,000"
+   },
+   "offsets": {
+    "from": 1167000,
+    "to": 1168000
+   },
+   "text": "まあそうした",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:28,000",
+    "to": "00:19:29,000"
+   },
+   "offsets": {
+    "from": 1168000,
+    "to": 1169000
+   },
+   "text": "コリウムも",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:29,000",
+    "to": "00:19:33,000"
+   },
+   "offsets": {
+    "from": 1169000,
+    "to": 1173000
+   },
+   "text": "フランクで学校行ってたことに",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:33,000",
+    "to": "00:19:35,000"
+   },
+   "offsets": {
+    "from": 1173000,
+    "to": 1175000
+   },
+   "text": "あったり",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:35,000",
+    "to": "00:19:37,000"
+   },
+   "offsets": {
+    "from": 1175000,
+    "to": 1177000
+   },
+   "text": "最初にフランクに住まって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:37,000",
+    "to": "00:19:39,000"
+   },
+   "offsets": {
+    "from": 1177000,
+    "to": 1179000
+   },
+   "text": "生まれたから外国人っていうのも",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:39,000",
+    "to": "00:19:41,000"
+   },
+   "offsets": {
+    "from": 1179000,
+    "to": 1181000
+   },
+   "text": "知らなかったから",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:41,000",
+    "to": "00:19:43,000"
+   },
+   "offsets": {
+    "from": 1181000,
+    "to": 1183000
+   },
+   "text": "新婦様やっぱり",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:43,000",
+    "to": "00:19:47,000"
+   },
+   "offsets": {
+    "from": 1183000,
+    "to": 1187000
+   },
+   "text": "新婦様はドイツ人の新婦様とか",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:47,000",
+    "to": "00:19:49,000"
+   },
+   "offsets": {
+    "from": 1187000,
+    "to": 1189000
+   },
+   "text": "だったのね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:49,000",
+    "to": "00:19:53,000"
+   },
+   "offsets": {
+    "from": 1189000,
+    "to": 1193000
+   },
+   "text": "精神です",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:53,000",
+    "to": "00:19:55,000"
+   },
+   "offsets": {
+    "from": 1193000,
+    "to": 1195000
+   },
+   "text": "野間田さん",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:55,000",
+    "to": "00:19:57,000"
+   },
+   "offsets": {
+    "from": 1195000,
+    "to": 1197000
+   },
+   "text": "ああそうな",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:57,000",
+    "to": "00:19:59,000"
+   },
+   "offsets": {
+    "from": 1197000,
+    "to": 1199000
+   },
+   "text": "精神の人",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:19:59,000",
+    "to": "00:20:01,000"
+   },
+   "offsets": {
+    "from": 1199000,
+    "to": 1201000
+   },
+   "text": "英語はちゃんとした",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:01,000",
+    "to": "00:20:03,000"
+   },
+   "offsets": {
+    "from": 1201000,
+    "to": 1203000
+   },
+   "text": "アイリシューとか",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:03,000",
+    "to": "00:20:03,000"
+   },
+   "offsets": {
+    "from": 1203000,
+    "to": 1203000
+   },
+   "text": "ね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:03,000",
+    "to": "00:20:05,000"
+   },
+   "offsets": {
+    "from": 1203000,
+    "to": 1205000
+   },
+   "text": "どなたは知ってらっしゃる?",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:05,000",
+    "to": "00:20:07,000"
+   },
+   "offsets": {
+    "from": 1205000,
+    "to": 1207000
+   },
+   "text": "今いらっしゃるんでしょう",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:07,000",
+    "to": "00:20:09,000"
+   },
+   "offsets": {
+    "from": 1207000,
+    "to": 1209000
+   },
+   "text": "そうなんでしょ",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:09,000",
+    "to": "00:20:11,000"
+   },
+   "offsets": {
+    "from": 1209000,
+    "to": 1211000
+   },
+   "text": "いっぱい言われたけど",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:11,000",
+    "to": "00:20:13,000"
+   },
+   "offsets": {
+    "from": 1211000,
+    "to": 1213000
+   },
+   "text": "まだ吉川とか覚えてる?",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:13,000",
+    "to": "00:20:14,000"
+   },
+   "offsets": {
+    "from": 1213000,
+    "to": 1214000
+   },
+   "text": "あ、その",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:14,000",
+    "to": "00:20:15,000"
+   },
+   "offsets": {
+    "from": 1214000,
+    "to": 1215000
+   },
+   "text": "学校行ってたじゃないけど",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:15,000",
+    "to": "00:20:17,000"
+   },
+   "offsets": {
+    "from": 1215000,
+    "to": 1217000
+   },
+   "text": "校長さんもだったから",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:17,000",
+    "to": "00:20:19,000"
+   },
+   "offsets": {
+    "from": 1217000,
+    "to": 1219000
+   },
+   "text": "怖い",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:19,000",
+    "to": "00:20:21,000"
+   },
+   "offsets": {
+    "from": 1219000,
+    "to": 1221000
+   },
+   "text": "怖いまだ吉川",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:21,000",
+    "to": "00:20:25,000"
+   },
+   "offsets": {
+    "from": 1221000,
+    "to": 1225000
+   },
+   "text": "その時いらっしゃった",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:25,000",
+    "to": "00:20:27,000"
+   },
+   "offsets": {
+    "from": 1225000,
+    "to": 1227000
+   },
+   "text": "クエンティっていう",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:27,000",
+    "to": "00:20:29,000"
+   },
+   "offsets": {
+    "from": 1227000,
+    "to": 1229000
+   },
+   "text": "クエンティだった方ね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:29,000",
+    "to": "00:20:31,000"
+   },
+   "offsets": {
+    "from": 1229000,
+    "to": 1231000
+   },
+   "text": "あの方はすごく私が好きで",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:31,000",
+    "to": "00:20:33,000"
+   },
+   "offsets": {
+    "from": 1231000,
+    "to": 1233000
+   },
+   "text": "私がね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:33,000",
+    "to": "00:20:35,000"
+   },
+   "offsets": {
+    "from": 1233000,
+    "to": 1235000
+   },
+   "text": "こっちがね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:35,000",
+    "to": "00:20:37,000"
+   },
+   "offsets": {
+    "from": 1235000,
+    "to": 1237000
+   },
+   "text": "すごく好きで",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:37,000",
+    "to": "00:20:39,000"
+   },
+   "offsets": {
+    "from": 1237000,
+    "to": 1239000
+   },
+   "text": "だけど英語ばっかり以上",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:39,000",
+    "to": "00:20:41,000"
+   },
+   "offsets": {
+    "from": 1239000,
+    "to": 1241000
+   },
+   "text": "話してくださるから",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:41,000",
+    "to": "00:20:43,000"
+   },
+   "offsets": {
+    "from": 1241000,
+    "to": 1243000
+   },
+   "text": "それは嫌で逃げてたのよ",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:43,000",
+    "to": "00:20:45,000"
+   },
+   "offsets": {
+    "from": 1243000,
+    "to": 1245000
+   },
+   "text": "分かんないから",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:45,000",
+    "to": "00:20:47,000"
+   },
+   "offsets": {
+    "from": 1245000,
+    "to": 1247000
+   },
+   "text": "困ってそれ",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:47,000",
+    "to": "00:20:49,000"
+   },
+   "offsets": {
+    "from": 1247000,
+    "to": 1249000
+   },
+   "text": "だけどあの",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:49,000",
+    "to": "00:20:49,000"
+   },
+   "offsets": {
+    "from": 1249000,
+    "to": 1249000
+   },
+   "text": "アメリカに",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:49,000",
+    "to": "00:20:51,000"
+   },
+   "offsets": {
+    "from": 1249000,
+    "to": 1251000
+   },
+   "text": "ニューヨークに行ってからね",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:51,000",
+    "to": "00:20:53,000"
+   },
+   "offsets": {
+    "from": 1251000,
+    "to": 1253000
+   },
+   "text": "長いお手紙書いたの",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:53,000",
+    "to": "00:20:54,000"
+   },
+   "offsets": {
+    "from": 1253000,
+    "to": 1254000
+   },
+   "text": "すごく喜んで",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:54,000",
+    "to": "00:20:56,000"
+   },
+   "offsets": {
+    "from": 1254000,
+    "to": 1256000
+   },
+   "text": "すごい長い返事くださって",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:56,000",
+    "to": "00:20:58,000"
+   },
+   "offsets": {
+    "from": 1256000,
+    "to": 1258000
+   },
+   "text": "オスエリアにいらっしゃってたの",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:58,000",
+    "to": "00:20:59,000"
+   },
+   "offsets": {
+    "from": 1258000,
+    "to": 1259000
+   },
+   "text": "そうなんで",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:20:59,000",
+    "to": "00:21:00,000"
+   },
+   "offsets": {
+    "from": 1259000,
+    "to": 1260000
+   },
+   "text": "全然",
+   "source_segment_index": 6
+  },
+  {
+   "timestamps": {
+    "from": "00:21:00,000",
+    "to": "00:21:09,500"
+   },
+   "offsets": {
+    "from": 1260000,
+    "to": 1269500
+   },
+   "text": "それじゃだけど自分はアイリスで、イントンさんはまだシェルドンって言うか、お世話だったんだ。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:09,500",
+    "to": "00:21:11,500"
+   },
+   "offsets": {
+    "from": 1269500,
+    "to": 1271500
+   },
+   "text": "お世話だったんだ。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:11,500",
+    "to": "00:21:14,500"
+   },
+   "offsets": {
+    "from": 1271500,
+    "to": 1274500
+   },
+   "text": "だから、レベルはまだ前やって、トイトニー。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:14,500",
+    "to": "00:21:17,500"
+   },
+   "offsets": {
+    "from": 1274500,
+    "to": 1277500
+   },
+   "text": "あ、そうじゃない。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:17,500",
+    "to": "00:21:19,500"
+   },
+   "offsets": {
+    "from": 1277500,
+    "to": 1279500
+   },
+   "text": "あ、そうですか。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:19,500",
+    "to": "00:21:21,500"
+   },
+   "offsets": {
+    "from": 1279500,
+    "to": 1281500
+   },
+   "text": "これとか思って。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:21,500",
+    "to": "00:21:23,500"
+   },
+   "offsets": {
+    "from": 1281500,
+    "to": 1283500
+   },
+   "text": "まだ長居と。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:23,500",
+    "to": "00:21:31,500"
+   },
+   "offsets": {
+    "from": 1283500,
+    "to": 1291500
+   },
+   "text": "あの、えっと、お前後さんが今、トイトニーさんが一緒なのよ。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:31,500",
+    "to": "00:21:32,500"
+   },
+   "offsets": {
+    "from": 1291500,
+    "to": 1292500
+   },
+   "text": "あ、そう?",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:32,500",
+    "to": "00:21:34,500"
+   },
+   "offsets": {
+    "from": 1292500,
+    "to": 1294500
+   },
+   "text": "長居さんって言うんだけどね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:34,500",
+    "to": "00:21:37,500"
+   },
+   "offsets": {
+    "from": 1294500,
+    "to": 1297500
+   },
+   "text": "あ、そうなの?",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:37,500",
+    "to": "00:21:41,500"
+   },
+   "offsets": {
+    "from": 1297500,
+    "to": 1301500
+   },
+   "text": "そうやって、バラセータバタできだなってね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:41,500",
+    "to": "00:21:46,500"
+   },
+   "offsets": {
+    "from": 1301500,
+    "to": 1306500
+   },
+   "text": "その方、私で2年くらい若いと思う。だけど、ずっとやっぱり嬉しいんだったみたいな。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:46,500",
+    "to": "00:21:48,500"
+   },
+   "offsets": {
+    "from": 1306500,
+    "to": 1308500
+   },
+   "text": "うんうんうん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:48,500",
+    "to": "00:21:50,500"
+   },
+   "offsets": {
+    "from": 1308500,
+    "to": 1310500
+   },
+   "text": "まだ福岡とか。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:50,500",
+    "to": "00:21:52,500"
+   },
+   "offsets": {
+    "from": 1310500,
+    "to": 1312500
+   },
+   "text": "あ、面白いね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:52,500",
+    "to": "00:21:59,500"
+   },
+   "offsets": {
+    "from": 1312500,
+    "to": 1319500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:21:59,500",
+    "to": "00:22:01,500"
+   },
+   "offsets": {
+    "from": 1319500,
+    "to": 1321500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:01,500",
+    "to": "00:22:08,500"
+   },
+   "offsets": {
+    "from": 1321500,
+    "to": 1328500
+   },
+   "text": "そう、だから、リキちゃんたちなんて、人が、フランス語だったら少し困るかもしれないけど、",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:08,500",
+    "to": "00:22:15,500"
+   },
+   "offsets": {
+    "from": 1328500,
+    "to": 1335500
+   },
+   "text": "人言語とか、何かでちょっと分かる言葉で話してきても、全然困らないじゃない。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:15,500",
+    "to": "00:22:19,500"
+   },
+   "offsets": {
+    "from": 1335500,
+    "to": 1339500
+   },
+   "text": "もう、自分らしいよ。ちゃんと自分はいるからだけど、",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:19,500",
+    "to": "00:22:25,500"
+   },
+   "offsets": {
+    "from": 1339500,
+    "to": 1345500
+   },
+   "text": "メンバーなんて、やっぱり英語で話されると、すごく、すごい困って、いつも逃げ回ってたの。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:25,500",
+    "to": "00:22:27,500"
+   },
+   "offsets": {
+    "from": 1345500,
+    "to": 1347500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:27,500",
+    "to": "00:22:29,500"
+   },
+   "offsets": {
+    "from": 1347500,
+    "to": 1349500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:29,500",
+    "to": "00:22:31,500"
+   },
+   "offsets": {
+    "from": 1349500,
+    "to": 1351500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:31,500",
+    "to": "00:22:35,500"
+   },
+   "offsets": {
+    "from": 1351500,
+    "to": 1355500
+   },
+   "text": "まあ、いや、ちょっと、早く言っちゃって。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:35,500",
+    "to": "00:22:37,500"
+   },
+   "offsets": {
+    "from": 1355500,
+    "to": 1357500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:37,500",
+    "to": "00:22:38,500"
+   },
+   "offsets": {
+    "from": 1357500,
+    "to": 1358500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:38,500",
+    "to": "00:22:39,500"
+   },
+   "offsets": {
+    "from": 1358500,
+    "to": 1359500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:39,500",
+    "to": "00:22:40,500"
+   },
+   "offsets": {
+    "from": 1359500,
+    "to": 1360500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:40,500",
+    "to": "00:22:41,500"
+   },
+   "offsets": {
+    "from": 1360500,
+    "to": 1361500
+   },
+   "text": "うん。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:41,500",
+    "to": "00:22:46,500"
+   },
+   "offsets": {
+    "from": 1361500,
+    "to": 1366500
+   },
+   "text": "なんていらっしゃらないわね。お手紙書きたいんだけど。もう。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:46,500",
+    "to": "00:22:50,500"
+   },
+   "offsets": {
+    "from": 1366500,
+    "to": 1370500
+   },
+   "text": "全然聞かないもんね。そうね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:22:50,500",
+    "to": "00:23:00,500"
+   },
+   "offsets": {
+    "from": 1370500,
+    "to": 1380500
+   },
+   "text": "でも私もフランスであの、おつとめしてた頃に書いたのよ。お手紙。それで返事してくださって。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:00,500",
+    "to": "00:23:07,500"
+   },
+   "offsets": {
+    "from": 1380500,
+    "to": 1387500
+   },
+   "text": "でもどう言ったって、もう何年?40年くらい。大事なんだ。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:07,500",
+    "to": "00:23:14,500"
+   },
+   "offsets": {
+    "from": 1387500,
+    "to": 1394500
+   },
+   "text": "私は老朽生だって、もう全部。94だからね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:14,500",
+    "to": "00:23:19,500"
+   },
+   "offsets": {
+    "from": 1394500,
+    "to": 1399500
+   },
+   "text": "それも。あと、あと、スラファイルの。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:19,500",
+    "to": "00:23:24,500"
+   },
+   "offsets": {
+    "from": 1399500,
+    "to": 1404500
+   },
+   "text": "どなたかのおばさまとか、まだ長見ね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:24,500",
+    "to": "00:23:31,500"
+   },
+   "offsets": {
+    "from": 1404500,
+    "to": 1411500
+   },
+   "text": "面白い。日本人なんだけど、私たちは老朽生のおばさまとか。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:31,500",
+    "to": "00:23:36,500"
+   },
+   "offsets": {
+    "from": 1411500,
+    "to": 1416500
+   },
+   "text": "そういう方が何人かいたわね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:36,500",
+    "to": "00:23:41,500"
+   },
+   "offsets": {
+    "from": 1416500,
+    "to": 1421500
+   },
+   "text": "すごい。俺になりましたもんね。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:41,500",
+    "to": "00:23:57,500"
+   },
+   "offsets": {
+    "from": 1421500,
+    "to": 1437500
+   },
+   "text": "もう真っ暗と。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:23:57,500",
+    "to": "00:23:59,500"
+   },
+   "offsets": {
+    "from": 1437500,
+    "to": 1439500
+   },
+   "text": "やっぱり。",
+   "source_segment_index": 7
+  },
+  {
+   "timestamps": {
+    "from": "00:24:00,000",
+    "to": "00:24:06,000"
+   },
+   "offsets": {
+    "from": 1440000,
+    "to": 1446000
+   },
+   "text": "一番短いって",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:06,000",
+    "to": "00:24:10,000"
+   },
+   "offsets": {
+    "from": 1446000,
+    "to": 1450000
+   },
+   "text": "今日から明日はね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:10,000",
+    "to": "00:24:12,000"
+   },
+   "offsets": {
+    "from": 1450000,
+    "to": 1452000
+   },
+   "text": "そうか",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:12,000",
+    "to": "00:24:16,000"
+   },
+   "offsets": {
+    "from": 1452000,
+    "to": 1456000
+   },
+   "text": "一番暗いからね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:16,000",
+    "to": "00:24:18,000"
+   },
+   "offsets": {
+    "from": 1456000,
+    "to": 1458000
+   },
+   "text": "なってなってね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:18,000",
+    "to": "00:24:20,000"
+   },
+   "offsets": {
+    "from": 1458000,
+    "to": 1460000
+   },
+   "text": "終わったらまだね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:20,000",
+    "to": "00:24:22,000"
+   },
+   "offsets": {
+    "from": 1460000,
+    "to": 1462000
+   },
+   "text": "一番暗くて",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:22,000",
+    "to": "00:24:24,000"
+   },
+   "offsets": {
+    "from": 1462000,
+    "to": 1464000
+   },
+   "text": "8時半もある",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:24,000",
+    "to": "00:24:26,000"
+   },
+   "offsets": {
+    "from": 1464000,
+    "to": 1466000
+   },
+   "text": "そうよね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:30,000",
+    "to": "00:24:36,000"
+   },
+   "offsets": {
+    "from": 1470000,
+    "to": 1476000
+   },
+   "text": "2時頃まで明るいの",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:36,000",
+    "to": "00:24:40,000"
+   },
+   "offsets": {
+    "from": 1476000,
+    "to": 1480000
+   },
+   "text": "夏は反対なのね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:40,000",
+    "to": "00:24:42,000"
+   },
+   "offsets": {
+    "from": 1480000,
+    "to": 1482000
+   },
+   "text": "もう4時ぐらいになる",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:42,000",
+    "to": "00:24:48,000"
+   },
+   "offsets": {
+    "from": 1482000,
+    "to": 1488000
+   },
+   "text": "もう3時ぐらいからね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:48,000",
+    "to": "00:24:50,000"
+   },
+   "offsets": {
+    "from": 1488000,
+    "to": 1490000
+   },
+   "text": "そうね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:50,000",
+    "to": "00:24:54,000"
+   },
+   "offsets": {
+    "from": 1490000,
+    "to": 1494000
+   },
+   "text": "イギリスだった頃は",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:54,000",
+    "to": "00:24:56,000"
+   },
+   "offsets": {
+    "from": 1494000,
+    "to": 1496000
+   },
+   "text": "飲んだけど",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:56,000",
+    "to": "00:24:58,000"
+   },
+   "offsets": {
+    "from": 1496000,
+    "to": 1498000
+   },
+   "text": "まだね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:24:58,000",
+    "to": "00:25:00,000"
+   },
+   "offsets": {
+    "from": 1498000,
+    "to": 1500000
+   },
+   "text": "寝てきちゃかったけどさ",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:00,000",
+    "to": "00:25:02,000"
+   },
+   "offsets": {
+    "from": 1500000,
+    "to": 1502000
+   },
+   "text": "暗くなってくれ帰ってくるんだから",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:02,000",
+    "to": "00:25:04,000"
+   },
+   "offsets": {
+    "from": 1502000,
+    "to": 1504000
+   },
+   "text": "本当ですか",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:04,000",
+    "to": "00:25:14,000"
+   },
+   "offsets": {
+    "from": 1504000,
+    "to": 1514000
+   },
+   "text": "ねえこうちゃん本当に立派に同じになっちゃった",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:14,000",
+    "to": "00:25:16,000"
+   },
+   "offsets": {
+    "from": 1514000,
+    "to": 1516000
+   },
+   "text": "もう",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:16,000",
+    "to": "00:25:18,000"
+   },
+   "offsets": {
+    "from": 1516000,
+    "to": 1518000
+   },
+   "text": "大変に満ちちゃったんだもんね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:18,000",
+    "to": "00:25:20,000"
+   },
+   "offsets": {
+    "from": 1518000,
+    "to": 1520000
+   },
+   "text": "本当すごいね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:20,000",
+    "to": "00:25:24,000"
+   },
+   "offsets": {
+    "from": 1520000,
+    "to": 1524000
+   },
+   "text": "でもこの間の話をもった",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:24,000",
+    "to": "00:25:26,000"
+   },
+   "offsets": {
+    "from": 1524000,
+    "to": 1526000
+   },
+   "text": "あきこさんに聞けようか",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:26,000",
+    "to": "00:25:28,000"
+   },
+   "offsets": {
+    "from": 1526000,
+    "to": 1528000
+   },
+   "text": "なんか世界一周でもないけど",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:28,000",
+    "to": "00:25:30,000"
+   },
+   "offsets": {
+    "from": 1528000,
+    "to": 1530000
+   },
+   "text": "どっか旅行してらっしゃったでしょ",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:30,000",
+    "to": "00:25:32,000"
+   },
+   "offsets": {
+    "from": 1530000,
+    "to": 1532000
+   },
+   "text": "あきこさんと2人で",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:32,000",
+    "to": "00:25:34,000"
+   },
+   "offsets": {
+    "from": 1532000,
+    "to": 1534000
+   },
+   "text": "知らない?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:34,000",
+    "to": "00:25:38,000"
+   },
+   "offsets": {
+    "from": 1534000,
+    "to": 1538000
+   },
+   "text": "私その話をあきこさんに聞けなきゃと思ってたの",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:38,000",
+    "to": "00:25:40,000"
+   },
+   "offsets": {
+    "from": 1538000,
+    "to": 1540000
+   },
+   "text": "どこ行ったんだよ",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:40,000",
+    "to": "00:25:42,000"
+   },
+   "offsets": {
+    "from": 1540000,
+    "to": 1542000
+   },
+   "text": "なんかいろんなとこ行った",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:42,000",
+    "to": "00:25:44,000"
+   },
+   "offsets": {
+    "from": 1542000,
+    "to": 1544000
+   },
+   "text": "ミッキーにもアメリカから電話",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:44,000",
+    "to": "00:25:48,000"
+   },
+   "offsets": {
+    "from": 1544000,
+    "to": 1548000
+   },
+   "text": "同じアメリカの中で電話かかってきたって言ってた",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:48,000",
+    "to": "00:25:50,000"
+   },
+   "offsets": {
+    "from": 1548000,
+    "to": 1550000
+   },
+   "text": "うん",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:50,000",
+    "to": "00:25:52,000"
+   },
+   "offsets": {
+    "from": 1550000,
+    "to": 1552000
+   },
+   "text": "一つおくらは?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:52,000",
+    "to": "00:25:54,000"
+   },
+   "offsets": {
+    "from": 1552000,
+    "to": 1554000
+   },
+   "text": "えっと一つおくらは?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:54,000",
+    "to": "00:25:55,000"
+   },
+   "offsets": {
+    "from": 1554000,
+    "to": 1555000
+   },
+   "text": "今日、あれ?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:55,000",
+    "to": "00:25:58,000"
+   },
+   "offsets": {
+    "from": 1555000,
+    "to": 1558000
+   },
+   "text": "今年の始めか?去年の終わりか?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:25:58,000",
+    "to": "00:26:00,000"
+   },
+   "offsets": {
+    "from": 1558000,
+    "to": 1560000
+   },
+   "text": "まだ1年経ってないと思う",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:26:00,000",
+    "to": "00:26:02,000"
+   },
+   "offsets": {
+    "from": 1560000,
+    "to": 1562000
+   },
+   "text": "今もう12月だからね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:26:02,000",
+    "to": "00:26:04,000"
+   },
+   "offsets": {
+    "from": 1562000,
+    "to": 1564000
+   },
+   "text": "そうね",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:26:04,000",
+    "to": "00:26:06,000"
+   },
+   "offsets": {
+    "from": 1564000,
+    "to": 1566000
+   },
+   "text": "あ、何?",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:26:06,000",
+    "to": "00:26:08,000"
+   },
+   "offsets": {
+    "from": 1566000,
+    "to": 1568000
+   },
+   "text": "どうぞどうぞ",
+   "source_segment_index": 8
+  },
+  {
+   "timestamps": {
+    "from": "00:26:08,000",
+    "to": "00:26:10,000"
+   },
+   "offsets": {
+    "from": 1568000,
+    "to": 1570000
+   },
+   "text": "それをちょっと見ていきましょう",
+   "source_segment_index": 8
+  }
+ ]
+}

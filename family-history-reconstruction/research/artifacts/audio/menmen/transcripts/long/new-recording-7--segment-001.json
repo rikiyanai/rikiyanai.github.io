@@ -1,0 +1,362 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7000
+			},
+			"text": " I could have been feeling with minimal nutrition."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 25000
+			},
+			"text": " So I will be able to see how at this moment you are still having all this stress."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 29000,
+				"to": 34000
+			},
+			"text": " Okay, what's the next item?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:35,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 35000
+			},
+			"text": " What else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,000",
+				"to": "00:00:41,000"
+			},
+			"offsets": {
+				"from": 35000,
+				"to": 41000
+			},
+			"text": " The next item is that they gave you this present."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,000",
+				"to": "00:00:52,000"
+			},
+			"offsets": {
+				"from": 41000,
+				"to": 52000
+			},
+			"text": " Like all we see, prepare some presents for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,000",
+				"to": "00:00:55,000"
+			},
+			"offsets": {
+				"from": 52000,
+				"to": 55000
+			},
+			"text": " For Taiji and me, she has this envelope."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,000",
+				"to": "00:00:58,000"
+			},
+			"offsets": {
+				"from": 55000,
+				"to": 58000
+			},
+			"text": " Your grandfather also has this envelope."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 58000,
+				"to": 65000
+			},
+			"text": " So they are asking me, hey, is it okay to take this to him?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:09,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 69000
+			},
+			"text": " I feel that I cannot do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,000",
+				"to": "00:01:18,000"
+			},
+			"offsets": {
+				"from": 69000,
+				"to": 78000
+			},
+			"text": " I feel that I need to see you and receive that from you."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,000",
+				"to": "00:01:22,000"
+			},
+			"offsets": {
+				"from": 78000,
+				"to": 82000
+			},
+			"text": " And I hope that I am fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,000",
+				"to": "00:01:24,000"
+			},
+			"offsets": {
+				"from": 82000,
+				"to": 84000
+			},
+			"text": " Okay, what's the next item?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,000",
+				"to": "00:01:36,000"
+			},
+			"offsets": {
+				"from": 84000,
+				"to": 96000
+			},
+			"text": " The next item is something more personal."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,000",
+				"to": "00:01:39,000"
+			},
+			"offsets": {
+				"from": 96000,
+				"to": 99000
+			},
+			"text": " I would like to notify you that I got the message."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,000",
+				"to": "00:01:49,000"
+			},
+			"offsets": {
+				"from": 99000,
+				"to": 109000
+			},
+			"text": " Be sure that I understand what you are trying to tell you."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 109000,
+				"to": 111000
+			},
+			"text": " Be sure."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:53,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 113000
+			},
+			"text": " Which is what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,000",
+				"to": "00:02:03,000"
+			},
+			"offsets": {
+				"from": 113000,
+				"to": 123000
+			},
+			"text": " What if you are that you want to die, that you are a pig, that you are a person that don't necessarily be able to help you."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,000",
+				"to": "00:02:12,000"
+			},
+			"offsets": {
+				"from": 123000,
+				"to": 132000
+			},
+			"text": " And should be able to donate to help some other people rather than wasting my time."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,000",
+				"to": "00:02:17,000"
+			},
+			"offsets": {
+				"from": 136000,
+				"to": 137000
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,000",
+				"to": "00:02:18,000"
+			},
+			"offsets": {
+				"from": 137000,
+				"to": 138000
+			},
+			"text": " I got it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,000",
+				"to": "00:02:19,000"
+			},
+			"offsets": {
+				"from": 138000,
+				"to": 139000
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,000",
+				"to": "00:02:20,000"
+			},
+			"offsets": {
+				"from": 139000,
+				"to": 140000
+			},
+			"text": " What else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,000",
+				"to": "00:02:34,000"
+			},
+			"offsets": {
+				"from": 140000,
+				"to": 154000
+			},
+			"text": " The other one is that I know that you insist in your, in your collaborative, your darse is getting, it's getting a lot like, like champs."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,000",
+				"to": "00:02:43,000"
+			},
+			"offsets": {
+				"from": 154000,
+				"to": 163000
+			},
+			"text": " You know, from now, the moral is around Trump because he is getting that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 163000,
+				"to": 165000
+			},
+			"text": " And that is against opening."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,000",
+				"to": "00:02:48,000"
+			},
+			"offsets": {
+				"from": 165000,
+				"to": 168000
+			},
+			"text": " Who can deny that he is not an imposter?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,000",
+				"to": "00:02:52,000"
+			},
+			"offsets": {
+				"from": 168000,
+				"to": 172000
+			},
+			"text": " Who can not deny that he is a billionaire?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 172000,
+				"to": 180000
+			},
+			"text": " But now all the billionaires are using this."
+		}
+	]
+}

@@ -1,0 +1,637 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:25,360"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 25360
+			},
+			"text": " Good evening."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:34,900"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 34900
+			},
+			"text": " \"Yeah\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,900",
+				"to": "00:00:41,660"
+			},
+			"offsets": {
+				"from": 34900,
+				"to": 41660
+			},
+			"text": " \"Yes, mom doesn't change Shit in me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,660",
+				"to": "00:00:42,800"
+			},
+			"offsets": {
+				"from": 41660,
+				"to": 42800
+			},
+			"text": " \"Bye.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,800",
+				"to": "00:00:46,860"
+			},
+			"offsets": {
+				"from": 42800,
+				"to": 46860
+			},
+			"text": " \" 익λα Hey, meet up.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,860",
+				"to": "00:00:49,320"
+			},
+			"offsets": {
+				"from": 46860,
+				"to": 49320
+			},
+			"text": " \"I got a weird knee sign.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,320",
+				"to": "00:00:53,080"
+			},
+			"offsets": {
+				"from": 49320,
+				"to": 53080
+			},
+			"text": " \"Yes, mommy has a weird Şeyia to be good.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:03,620"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 63620
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,620",
+				"to": "00:01:05,620"
+			},
+			"offsets": {
+				"from": 63620,
+				"to": 65620
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,620",
+				"to": "00:01:08,060"
+			},
+			"offsets": {
+				"from": 65620,
+				"to": 68060
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,060",
+				"to": "00:01:09,960"
+			},
+			"offsets": {
+				"from": 68060,
+				"to": 69960
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,960",
+				"to": "00:01:13,140"
+			},
+			"offsets": {
+				"from": 69960,
+				"to": 73140
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,140",
+				"to": "00:01:16,020"
+			},
+			"offsets": {
+				"from": 73140,
+				"to": 76020
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,020",
+				"to": "00:01:18,820"
+			},
+			"offsets": {
+				"from": 76020,
+				"to": 78820
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,820",
+				"to": "00:01:21,820"
+			},
+			"offsets": {
+				"from": 78820,
+				"to": 81820
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,820",
+				"to": "00:01:26,280"
+			},
+			"offsets": {
+				"from": 81820,
+				"to": 86280
+			},
+			"text": " \"Yes, mommy has a weird feeling.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,280",
+				"to": "00:01:30,500"
+			},
+			"offsets": {
+				"from": 86280,
+				"to": 90500
+			},
+			"text": " \"I remember there was a tree in the old place.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,500",
+				"to": "00:01:33,620"
+			},
+			"offsets": {
+				"from": 90500,
+				"to": 93620
+			},
+			"text": " \"I forgot to go to the old place.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,620",
+				"to": "00:01:35,620"
+			},
+			"offsets": {
+				"from": 93620,
+				"to": 95620
+			},
+			"text": " \"Oh, yes.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,620",
+				"to": "00:01:49,040"
+			},
+			"offsets": {
+				"from": 95620,
+				"to": 109040
+			},
+			"text": " \"The old place in the old place is really small.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,040",
+				"to": "00:01:54,040"
+			},
+			"offsets": {
+				"from": 109040,
+				"to": 114040
+			},
+			"text": " \"I was a little old when I was there.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,040",
+				"to": "00:02:01,040"
+			},
+			"offsets": {
+				"from": 114040,
+				"to": 121040
+			},
+			"text": " \"Hot? I remember there was a mall that was like a mall.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,040",
+				"to": "00:02:02,700"
+			},
+			"offsets": {
+				"from": 121040,
+				"to": 122700
+			},
+			"text": " \"There was a Lego house.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,700",
+				"to": "00:02:04,260"
+			},
+			"offsets": {
+				"from": 122700,
+				"to": 124260
+			},
+			"text": " \"Morl like that?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,260",
+				"to": "00:02:09,760"
+			},
+			"offsets": {
+				"from": 124260,
+				"to": 129760
+			},
+			"text": " \"Yes, there were lots of outlets and Lego house.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,760",
+				"to": "00:02:11,760"
+			},
+			"offsets": {
+				"from": 129760,
+				"to": 131760
+			},
+			"text": " \"And there were a car to rent.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,760",
+				"to": "00:02:14,220"
+			},
+			"offsets": {
+				"from": 131760,
+				"to": 134220
+			},
+			"text": " \"Oh, that's where it was.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,220",
+				"to": "00:02:16,800"
+			},
+			"offsets": {
+				"from": 134220,
+				"to": 136800
+			},
+			"text": " \"Print Hotel?\" \"It's different.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,800",
+				"to": "00:02:19,860"
+			},
+			"offsets": {
+				"from": 136800,
+				"to": 139860
+			},
+			"text": " \"Who?\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,860",
+				"to": "00:02:26,860"
+			},
+			"offsets": {
+				"from": 141860,
+				"to": 146860
+			},
+			"text": " \"Oh, yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,860",
+				"to": "00:02:28,860"
+			},
+			"offsets": {
+				"from": 146860,
+				"to": 148860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,860",
+				"to": "00:02:30,860"
+			},
+			"offsets": {
+				"from": 148860,
+				"to": 150860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,860",
+				"to": "00:02:31,860"
+			},
+			"offsets": {
+				"from": 150860,
+				"to": 151860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,860",
+				"to": "00:02:32,860"
+			},
+			"offsets": {
+				"from": 151860,
+				"to": 152860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:32,860",
+				"to": "00:02:33,860"
+			},
+			"offsets": {
+				"from": 152860,
+				"to": 153860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,860",
+				"to": "00:02:34,860"
+			},
+			"offsets": {
+				"from": 153860,
+				"to": 154860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,860",
+				"to": "00:02:36,860"
+			},
+			"offsets": {
+				"from": 154860,
+				"to": 156860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,860",
+				"to": "00:02:38,860"
+			},
+			"offsets": {
+				"from": 156860,
+				"to": 158860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,860",
+				"to": "00:02:40,860"
+			},
+			"offsets": {
+				"from": 158860,
+				"to": 160860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,860",
+				"to": "00:02:41,860"
+			},
+			"offsets": {
+				"from": 160860,
+				"to": 161860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,860",
+				"to": "00:02:42,860"
+			},
+			"offsets": {
+				"from": 161860,
+				"to": 162860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,860",
+				"to": "00:02:44,860"
+			},
+			"offsets": {
+				"from": 162860,
+				"to": 164860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,860",
+				"to": "00:02:45,860"
+			},
+			"offsets": {
+				"from": 164860,
+				"to": 165860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:45,860",
+				"to": "00:02:46,860"
+			},
+			"offsets": {
+				"from": 165860,
+				"to": 166860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,860",
+				"to": "00:02:47,860"
+			},
+			"offsets": {
+				"from": 166860,
+				"to": 167860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,860",
+				"to": "00:02:48,860"
+			},
+			"offsets": {
+				"from": 167860,
+				"to": 168860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,860",
+				"to": "00:02:49,860"
+			},
+			"offsets": {
+				"from": 168860,
+				"to": 169860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,860",
+				"to": "00:02:51,860"
+			},
+			"offsets": {
+				"from": 169860,
+				"to": 171860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,860",
+				"to": "00:02:52,860"
+			},
+			"offsets": {
+				"from": 171860,
+				"to": 172860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,860",
+				"to": "00:02:53,860"
+			},
+			"offsets": {
+				"from": 172860,
+				"to": 173860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,860",
+				"to": "00:02:54,860"
+			},
+			"offsets": {
+				"from": 173860,
+				"to": 174860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,860",
+				"to": "00:02:56,860"
+			},
+			"offsets": {
+				"from": 174860,
+				"to": 176860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,860",
+				"to": "00:02:58,860"
+			},
+			"offsets": {
+				"from": 176860,
+				"to": 178860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,860",
+				"to": "00:02:59,860"
+			},
+			"offsets": {
+				"from": 178860,
+				"to": 179860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,860",
+				"to": "00:03:00,860"
+			},
+			"offsets": {
+				"from": 179860,
+				"to": 180860
+			},
+			"text": " \"Yes, Prince Hotel is near the neighborhood.\""
+		}
+	]
+}

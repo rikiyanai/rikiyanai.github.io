@@ -1,0 +1,296 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,880",
+				"to": "00:00:10,240"
+			},
+			"offsets": {
+				"from": 880,
+				"to": 10240
+			},
+			"text": " Painting from broad areas into smaller areas, into details."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,240",
+				"to": "00:00:25,320"
+			},
+			"offsets": {
+				"from": 10240,
+				"to": 25320
+			},
+			"text": " So you start painting to be very dark and bright, and then modulate, modulate the colors."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,320",
+				"to": "00:00:30,220"
+			},
+			"offsets": {
+				"from": 25320,
+				"to": 30220
+			},
+			"text": " When you said darker greens, you said, or shades of cave, everything, anything?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,220",
+				"to": "00:00:30,720"
+			},
+			"offsets": {
+				"from": 30220,
+				"to": 30720
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,720",
+				"to": "00:00:45,720"
+			},
+			"offsets": {
+				"from": 30720,
+				"to": 45720
+			},
+			"text": " The theory is, um, um, do it in, you know, Rich, why don't you take the glass from, from out there?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,720",
+				"to": "00:00:46,720"
+			},
+			"offsets": {
+				"from": 45720,
+				"to": 46720
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,720",
+				"to": "00:00:49,320"
+			},
+			"offsets": {
+				"from": 46720,
+				"to": 49320
+			},
+			"text": " This guy is, he's a bastard in the back."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,320",
+				"to": "00:00:52,920"
+			},
+			"offsets": {
+				"from": 49320,
+				"to": 52920
+			},
+			"text": " He wouldn't want to talk to me when he was a man."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,920",
+				"to": "00:00:53,920"
+			},
+			"offsets": {
+				"from": 52920,
+				"to": 53920
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,920",
+				"to": "00:01:11,920"
+			},
+			"offsets": {
+				"from": 53920,
+				"to": 71920
+			},
+			"text": " We, we can check it out afterwards, but this, this store closes very early, so we have to go there."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,920",
+				"to": "00:01:12,920"
+			},
+			"offsets": {
+				"from": 71920,
+				"to": 72920
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,920",
+				"to": "00:01:18,920"
+			},
+			"offsets": {
+				"from": 72920,
+				"to": 78920
+			},
+			"text": " And the, and the reason why I want to start it here, and we're coming there, is because"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,920",
+				"to": "00:01:24,920"
+			},
+			"offsets": {
+				"from": 78920,
+				"to": 84920
+			},
+			"text": " if you want to do all these activities, and, um, you can just do all these activities, and"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,920",
+				"to": "00:01:30,920"
+			},
+			"offsets": {
+				"from": 84920,
+				"to": 90920
+			},
+			"text": " most of my budget will go to getting to Airbnb, and the occasional rental car for when you go,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,920",
+				"to": "00:01:37,920"
+			},
+			"offsets": {
+				"from": 90920,
+				"to": 97920
+			},
+			"text": " see the, and see the building that's, and the community is going to, like, I want to stay as much as possible, and, if I can, I'll just, if I can."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,920",
+				"to": "00:01:44,920"
+			},
+			"offsets": {
+				"from": 97920,
+				"to": 104920
+			},
+			"text": " I'll just, if I can, I'll just, if I can, I'll just, if I can, I'll just, if I can, I'll just use this thing."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,920",
+				"to": "00:01:45,920"
+			},
+			"offsets": {
+				"from": 104920,
+				"to": 105920
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,920",
+				"to": "00:01:48,920"
+			},
+			"offsets": {
+				"from": 105920,
+				"to": 108920
+			},
+			"text": " I mean, that's fine, right? I'm not in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,920",
+				"to": "00:01:51,920"
+			},
+			"offsets": {
+				"from": 108920,
+				"to": 111920
+			},
+			"text": " I'm not in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,920",
+				"to": "00:01:56,920"
+			},
+			"offsets": {
+				"from": 111920,
+				"to": 116920
+			},
+			"text": " I'm not in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,920",
+				"to": "00:01:57,920"
+			},
+			"offsets": {
+				"from": 116920,
+				"to": 117920
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,920",
+				"to": "00:02:00,920"
+			},
+			"offsets": {
+				"from": 117920,
+				"to": 120920
+			},
+			"text": " I'm not in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,920",
+				"to": "00:02:03,920"
+			},
+			"offsets": {
+				"from": 120920,
+				"to": 123920
+			},
+			"text": " I'm not in the room."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,920",
+				"to": "00:02:05,520"
+			},
+			"offsets": {
+				"from": 123920,
+				"to": 125520
+			},
+			"text": " I'm not in the room."
+		}
+	]
+}

@@ -1,0 +1,395 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7000
+			},
+			"text": " Okay, go ahead."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 25000
+			},
+			"text": " Even if you feel like he's late, because there's nobody to take a decision for you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 25000,
+				"to": 32000
+			},
+			"text": " in any case we have to do some procedures."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:37,000"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 37000
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,000",
+				"to": "00:00:45,000"
+			},
+			"offsets": {
+				"from": 37000,
+				"to": 45000
+			},
+			"text": " There are some things that relate to you, but there are some things that relate to us as a family,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 45000,
+				"to": 48000
+			},
+			"text": " and relate to this family where we are."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:53,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 53000
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,000",
+				"to": "00:01:03,000"
+			},
+			"offsets": {
+				"from": 53000,
+				"to": 63000
+			},
+			"text": " And you are very good at helping people, starting things like what you already said before."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,000",
+				"to": "00:01:06,000"
+			},
+			"offsets": {
+				"from": 63000,
+				"to": 66000
+			},
+			"text": " I am telling you, hey, you need me."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,000",
+				"to": "00:01:08,000"
+			},
+			"offsets": {
+				"from": 66000,
+				"to": 68000
+			},
+			"text": " How can I help you?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,000",
+				"to": "00:01:10,000"
+			},
+			"offsets": {
+				"from": 68000,
+				"to": 70000
+			},
+			"text": " No, it's too late."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,000",
+				"to": "00:01:25,000"
+			},
+			"offsets": {
+				"from": 70000,
+				"to": 85000
+			},
+			"text": " It requires a lot of energy to do, just to overcome such an atomic bomb that you're struggling."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,000",
+				"to": "00:01:40,000"
+			},
+			"offsets": {
+				"from": 85000,
+				"to": 100000
+			},
+			"text": " And then you tell me, hey, send me an email."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,000",
+				"to": "00:01:42,000"
+			},
+			"offsets": {
+				"from": 100000,
+				"to": 102000
+			},
+			"text": " Why write it down here?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,000",
+				"to": "00:01:45,000"
+			},
+			"offsets": {
+				"from": 102000,
+				"to": 105000
+			},
+			"text": " I am the one who has to be speaking."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,000",
+				"to": "00:01:47,000"
+			},
+			"offsets": {
+				"from": 105000,
+				"to": 107000
+			},
+			"text": " You said you have to tell me something important."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,000",
+				"to": "00:01:52,000"
+			},
+			"offsets": {
+				"from": 107000,
+				"to": 112000
+			},
+			"text": " I have to tell you a lot of things important, but..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,000",
+				"to": "00:01:53,000"
+			},
+			"offsets": {
+				"from": 112000,
+				"to": 113000
+			},
+			"text": " I am the one who has to be shut down."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,000",
+				"to": "00:01:54,000"
+			},
+			"offsets": {
+				"from": 113000,
+				"to": 114000
+			},
+			"text": " Okay, go on."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:02:03,000"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 123000
+			},
+			"text": " I am trying my best to listen, but you're perseverating on this initial reaction that I had."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,000",
+				"to": "00:02:06,000"
+			},
+			"offsets": {
+				"from": 123000,
+				"to": 126000
+			},
+			"text": " So, can you actually tell me what the important thing is?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:07,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 127000
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,000",
+				"to": "00:02:08,000"
+			},
+			"offsets": {
+				"from": 127000,
+				"to": 128000
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:08,000",
+				"to": "00:02:09,000"
+			},
+			"offsets": {
+				"from": 128000,
+				"to": 129000
+			},
+			"text": " I just want to..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:19,000"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 139000
+			},
+			"text": " For information, you know this pattern that you have to be in the whole night."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,000",
+				"to": "00:02:22,000"
+			},
+			"offsets": {
+				"from": 139000,
+				"to": 142000
+			},
+			"text": " And after one a.m. that I..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 153000
+			},
+			"text": " That you are supposed that I am sleeping, you are going out and buying all these types of food that I understand to eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:49,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 169000
+			},
+			"text": " If you want to eat, I rather prefer that we have this wonderful soup, or even bell, or anything"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 169000,
+				"to": 170000
+			},
+			"text": " that you can eat, you can eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:51,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 171000
+			},
+			"text": " You can eat food."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,000",
+				"to": "00:02:53,000"
+			},
+			"offsets": {
+				"from": 171000,
+				"to": 173000
+			},
+			"text": " Food, so you can eat."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,000",
+				"to": "00:02:55,000"
+			},
+			"offsets": {
+				"from": 173000,
+				"to": 175000
+			},
+			"text": " Rather than getting the..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,000",
+				"to": "00:02:56,000"
+			},
+			"offsets": {
+				"from": 175000,
+				"to": 176000
+			},
+			"text": " Other words."
+		}
+	]
+}

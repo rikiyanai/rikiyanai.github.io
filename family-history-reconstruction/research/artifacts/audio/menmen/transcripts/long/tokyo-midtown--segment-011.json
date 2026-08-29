@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:08,100"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 8100
+			},
+			"text": "なんでパンチャーっていつも目赤かったんだろう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,100",
+				"to": "00:00:09,940"
+			},
+			"offsets": {
+				"from": 8100,
+				"to": 9940
+			},
+			"text": "なんかすごいさ疲れてる感じ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:46,820"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 46820
+			},
+			"text": "誰だろう"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:13,920"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 73920
+			},
+			"text": "じゃあ中入るそろそろ"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,920",
+				"to": "00:01:23,200"
+			},
+			"offsets": {
+				"from": 73920,
+				"to": 83200
+			},
+			"text": "これ700円だったんでよくない"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:36,360"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 96360
+			},
+			"text": "メンメン電話見てみて送ったから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,360",
+				"to": "00:01:41,640"
+			},
+			"offsets": {
+				"from": 96360,
+				"to": 101640
+			},
+			"text": "今もう見られるはずなんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,640",
+				"to": "00:01:46,200"
+			},
+			"offsets": {
+				"from": 101640,
+				"to": 106200
+			},
+			"text": "ちゃんと届いたかどうか確認したいから"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:08,560"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 128560
+			},
+			"text": "どう見られる?"
+		}
+	]
+}
