@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:09,240"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 9240
+			},
+			"text": " dream or not. Because his aunt T insists that he has a beautiful, beautiful, beautiful,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,240",
+				"to": "00:00:15,000"
+			},
+			"offsets": {
+				"from": 9240,
+				"to": 15000
+			},
+			"text": " beautiful company which is everything in the state and everybody."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 15000,
+				"to": 17000
+			},
+			"text": " Ok, what else?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:33,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 33000
+			},
+			"text": " So, you, but he persists in his vision, you are insisting that you have to go to hell, you have to kill yourself,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,000",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 33000,
+				"to": 38000
+			},
+			"text": " there are a lot of things you pick up that narrative."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:53,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 53000
+			},
+			"text": " Step by step, you are dragging yourself and the people around you to that reality, because"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,000",
+				"to": "00:01:04,000"
+			},
+			"offsets": {
+				"from": 53000,
+				"to": 64000
+			},
+			"text": " there's no reality yet. But you are envisioning your funeral. You are envisioning your kid"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,000",
+				"to": "00:01:13,000"
+			},
+			"offsets": {
+				"from": 64000,
+				"to": 73000
+			},
+			"text": " and you are looking to your aunt, totally destroyed, you are dis-destroyed, you are acquainted,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,000",
+				"to": "00:01:30,000"
+			},
+			"offsets": {
+				"from": 73000,
+				"to": 90000
+			},
+			"text": " totally destroyed. But that's your vision. That's what you see, you visualize, you look for."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:35,000"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 95000
+			},
+			"text": " No matter what is going there, you are learning."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,000",
+				"to": "00:01:39,000"
+			},
+			"offsets": {
+				"from": 95000,
+				"to": 99000
+			},
+			"text": " Ok, what's next?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,000",
+				"to": "00:01:45,000"
+			},
+			"offsets": {
+				"from": 99000,
+				"to": 105000
+			},
+			"text": " The next is, the next narrative is the opposite."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,000",
+				"to": "00:02:06,000"
+			},
+			"offsets": {
+				"from": 105000,
+				"to": 126000
+			},
+			"text": " You see a guy who is, who is totally fake, insisting to everybody that is in today's room and everybody now is making a difference. Or not?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:27,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 147000
+			},
+			"text": " Ok, what's next? Is that it? Or do you have anything else to say?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,000",
+				"to": "00:02:37,000"
+			},
+			"offsets": {
+				"from": 147000,
+				"to": 157000
+			},
+			"text": " No, no, it's different. On the other hand, there are, uh, I think that we are doing a problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,000",
+				"to": "00:02:44,000"
+			},
+			"offsets": {
+				"from": 157000,
+				"to": 164000
+			},
+			"text": " Thank you, I look like it's both of you, you know, right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,000",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 164000,
+				"to": 166000
+			},
+			"text": " Huh? You don't know."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,000",
+				"to": "00:02:48,000"
+			},
+			"offsets": {
+				"from": 166000,
+				"to": 168000
+			},
+			"text": " Oh, sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,000",
+				"to": "00:02:56,000"
+			},
+			"offsets": {
+				"from": 168000,
+				"to": 176000
+			},
+			"text": " No, it's like one with, like that. I saw your little time grateful, could you see me and you're 18 minutes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,000",
+				"to": "00:02:59,000"
+			},
+			"offsets": {
+				"from": 176000,
+				"to": 179000
+			},
+			"text": " It's fine, it's fine. It's only 64, it's only 64."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,000",
+				"to": "00:03:00,040"
+			},
+			"offsets": {
+				"from": 179000,
+				"to": 180040
+			},
+			"text": " No, I'm sorry."
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+ "schema_version": "1.0",
+ "count": 9,
+ "artifacts": [
+  {
+   "artifact_id": "gdrive-maternal-1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy-ocr",
+   "source_artifact_id": "gdrive-maternal-1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy--img_1932.jpg",
+   "source_sha256": "a6c9b49e19cbcf667bcd0c187ae27569a487d9527f81b940dc3c26187596f6a7",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1uaWOR1gyMn9RcU0nTgck6QnlyokSPWGy.txt",
+   "sha256": "3c757dbd7df01aa0cfafb3c6ae25f857662a8f5b8448155613cda234bdb7d419",
+   "characters": 16,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi-ocr",
+   "source_artifact_id": "gdrive-maternal-1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi--img_1934.jpg",
+   "source_sha256": "e085dee5ed669043eb11f8dea5fc1f9b7c5a3855e68d1228a603fbd54418a84f",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1Q9MjyEsljKsZbfuaxggQohsvP7nj4szi.txt",
+   "sha256": "4a63a5c5e5204f0ea497fef71d4b28fd3520a9427563e98b9a91b8a5e8685a8d",
+   "characters": 210,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW-ocr",
+   "source_artifact_id": "gdrive-maternal-1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW",
+   "source_repository_path": "research/artifacts/drive/maternal/originals/1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW--img_1937.png",
+   "source_sha256": "b0448b2910f1d9a834476f00eeb6d98839f4d720270a23eef85f47629c423ab7",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1Xvi4-p0fO0cfAWyapBlC6EtISauTMVOW.txt",
+   "sha256": "450c47bf58e4462b45f658631a3c43e233d0382bf47b943302a50bea63895405",
+   "characters": 2548,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE-ocr",
+   "source_artifact_id": "gdrive-maternal-1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE--img_1940.jpg",
+   "source_sha256": "78a9a31fdbaa7b155fddae314ff01710b6ea3c6cbf547bfe236b0e59187877b2",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1bSq1IQlWxg3MzM8k3G6vIbSkh_QrE3SE.txt",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "no_text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM-ocr",
+   "source_artifact_id": "gdrive-maternal-1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM",
+   "source_repository_path": "research/artifacts/drive/maternal/originals/1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM--img_79ff80ba-ecee-4b77-9aa0-8b20e404af85.jpeg",
+   "source_sha256": "b427e429447db31b5a0888d30d116be91415c666887f73c284ba3008a4dcb6c4",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM.txt",
+   "sha256": "f43a2afae9c0592b59d1a93f4260470aeb502d8703e9513c41fad5af4688c76f",
+   "characters": 42,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ-ocr",
+   "source_artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ--macarthur-post-card.jpg",
+   "source_sha256": "860059b37d2b12b93fcc11073073e8742438fd8cffc075db85a1cb659423f737",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ.txt",
+   "sha256": "b502c9b6542615b0b01815b93f5d932785610cd22d5f3c884f93a548561c1de3",
+   "characters": 6,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd-ocr",
+   "source_artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd--ojiichama-death-newspaper.jpg",
+   "source_sha256": "432d6b38059f68addb624e91cd483053309ff00b9f230fd1bb40bf55617d473a",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd.txt",
+   "sha256": "0536cf2c354cede2ec174ba36115a57c86b0951aece38a0b263ae7e92c9d6a58",
+   "characters": 13,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL-ocr",
+   "source_artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL--ojiichama-newspaper-clipping.jpg",
+   "source_sha256": "11ef2cc8036e4c2771af31875d04bd8ca8eb7ebe23d58b3c44f53cf016cfe93a",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL.txt",
+   "sha256": "14b054ddfcac21ef0bf5b86f0fda1fec77a233a2e1d4a843939a2b07f60ea2e8",
+   "characters": 846,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-ocr",
+   "source_artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+   "source_repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+   "source_sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+   "repository_path": "research/artifacts/drive/maternal/ocr/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3.txt",
+   "sha256": "5ca92a25d3e229eb1ade700a712a2b5d22725d0e5758c65ff7430d16e2fea2e6",
+   "characters": 46,
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "status": "text_detected",
+   "review_status": "machine_ocr_unverified"
+  }
+ ]
+}

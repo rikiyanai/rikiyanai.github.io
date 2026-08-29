@@ -1,0 +1,119 @@
+{
+ "schema_version": "1.0",
+ "access_class": "private_research_only",
+ "observed_at": "2026-08-24",
+ "question_id": "Q-MAT-4",
+ "note": "One record per consulted public source. A URL record preserves the consulted occurrence and claim boundary; it is not a local snapshot of the source bytes. Multiple pages from one author/site share one evidence lineage.",
+ "artifacts": [
+  {
+   "evidence_id": "public-hara-museum-kunizo-residence-1938",
+   "title": "Hara Museum collection exhibition press release",
+   "publisher": "Hara Museum / Arc-en-Ciel Foundation",
+   "source_url": "https://www.haramuseum.or.jp/jp/wp-content/uploads/2018/08/jp_hara_MyFavorite_171206.pdf",
+   "source_class": "official_institutional_history",
+   "lineage_id": "LINEAGE-HARA-MUSEUM",
+   "information": "The museum building in Gotenyama was constructed in 1938 as businessman Kunizo Hara's residence.",
+   "evidence_assessment": "Direct for Kunizo Hara's Gotenyama property/residence context; not evidence that Itsuko was his daughter or that she lived there.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "public-shinagawa-former-hara-residence",
+   "title": "Hara Museum facility record",
+   "publisher": "Shinagawa City",
+   "source_url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-bunka/shisetsu-bunka-bunka-sonota/hpg000000329.html",
+   "source_class": "official_municipal_record",
+   "lineage_id": "LINEAGE-SHINAGAWA-CITY",
+   "information": "The museum reused the former Hara residence built in 1938 at Kitashinagawa 4-7-25, with access from the Gotenyama bus stop.",
+   "evidence_assessment": "Direct for building date and municipal location; does not name Kunizo in the descriptive body and does not prove kinship.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "public-docomomo-hara-residence-gotenyama",
+   "title": "Hara Residence / current Hara Museum",
+   "publisher": "DOCOMOMO Japan",
+   "source_url": "https://docomomojapan.com/structure/38/?lang=ja",
+   "source_class": "architectural_heritage_record",
+   "lineage_id": "LINEAGE-DOCOMOMO-JAPAN",
+   "information": "The residence was built in 1938 in Gotenyama for businessman Kunizo Hara.",
+   "evidence_assessment": "Independent direct support for the property/context claim; no Itsuko kinship information.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "public-takasago-history-matsui-itsuko-1973",
+   "title": "Takasago Thermal Engineering 100-year history, data volume",
+   "publisher": "Takasago Thermal Engineering Co., Ltd.",
+   "source_url": "https://www.tte-net.com/100th/history/pdf/takasago100_shiryou-3.pdf",
+   "source_class": "official_corporate_history",
+   "lineage_id": "LINEAGE-TAKASAGO-CORPORATE-HISTORY",
+   "information": "The 1973 shareholder table lists Matsui Itsuko / 松井以都子 with 354,500 shares alongside several Hara-named shareholders; the chronology identifies Kunizo Hara as company founder and records his 1958 death.",
+   "evidence_assessment": "Direct for the married-name occurrence and corporate association; indirect only for Hara-family affiliation and not proof of parentage or marriage.",
+   "snapshot_status": "url_and_pdftotext_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "public-shibusawa-kunizo-biographical-context",
+   "title": "Takasago Thermal Engineering Co., Ltd. 70-year history catalog record",
+   "publisher": "Shibusawa Shashi Database",
+   "source_url": "https://shashi.shibusawa.or.jp/details_basic.php?sid=670",
+   "source_class": "institutional_corporate_history_catalog",
+   "lineage_id": "LINEAGE-SHIBUSAWA-SHASHI",
+   "information": "The catalog description identifies Kunizo Hara as 1883-1958 and as the founder of Takasago Kogyo in 1916.",
+   "evidence_assessment": "Direct for public biographical context; no evidence for the Itsuko parent-child edge.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "public-ndl-kazoku-meibo-1940-matsui-lead",
+   "title": "Kazoku Meibo, surveyed 20 May 1940",
+   "publisher": "Kazoku Kaikan; digitized by the National Diet Library",
+   "source_url": "https://ndlsearch.ndl.go.jp/books/R100000039-I1916345",
+   "source_class": "near_primary_contemporary_directory",
+   "lineage_id": "LINEAGE-NDL-KAZOKU-MEIBO-1940",
+   "information": "A targeted public-source audit reported a Matsui household entry naming wife 以都子 with a Taisho 5 birth year.",
+   "evidence_assessment": "Promising near-primary spouse lead only. Root confirmed the volume and scanned its 170 IIIF pages with Japanese OCR but did not independently recover the decisive entry; page number and visual reading remain required. It supplies no maiden surname or parentage.",
+   "snapshot_status": "catalog_and_iiif_manifest_verified; decisive_page_unverified; source bytes not committed"
+  },
+  {
+   "evidence_id": "secondary-ameblo-hara-kunizo-lineage",
+   "title": "Hara Rokuro / Kunizo Hara lineage article",
+   "publisher": "Kindai Meishi Kakei Taikan (Ameblo author)",
+   "source_url": "https://ameblo.jp/derbaumkuchen/entry-12021940328.html",
+   "source_class": "secondary_genealogy",
+   "lineage_id": "LINEAGE-DERBAUMKUCHEN-BLOG",
+   "information": "Calls Itsuko / 以都子 Kunizo Hara's third daughter and says she married Akira, eldest son of Baron Keishiro Matsui.",
+   "evidence_assessment": "Discovery lead; same author/lineage as the Matsui article and contradicted by that article's fifth-daughter wording.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "secondary-ameblo-matsui-akira-lineage",
+   "title": "Keishiro and Akira Matsui lineage article",
+   "publisher": "Kindai Meishi Kakei Taikan (Ameblo author)",
+   "source_url": "https://ameblo.jp/derbaumkuchen/entry-12076243236.html",
+   "source_class": "secondary_genealogy",
+   "lineage_id": "LINEAGE-DERBAUMKUCHEN-BLOG",
+   "information": "Names Akira's wife as Itsuko / 以都子, born 1916 in Tokyo, and calls her Kunizo Hara's fifth daughter.",
+   "evidence_assessment": "Discovery lead; not independent from the Hara article and internally contradicted on daughter ordinal.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "secondary-easthall-matsui-lineage",
+   "title": "Matsui family lineage page",
+   "publisher": "easthall.blog.jp",
+   "source_url": "https://easthall.blog.jp/archives/33471692.html",
+   "source_class": "secondary_genealogy",
+   "lineage_id": "LINEAGE-EASTHALL-BLOG",
+   "information": "Names Akira's wife as Hara Itsuko / 原以都子, born 1916, and describes her as Kunizo Hara's daughter.",
+   "evidence_assessment": "Independent modern secondary repetition, but not primary proof and no daughter ordinal is established.",
+   "snapshot_status": "url_and_bounded_manual_read_only; source bytes not committed"
+  },
+  {
+   "evidence_id": "catalog-cinii-hara-kunizo-biography-1960",
+   "title": "Hara Kunizo",
+   "publisher": "Edited by Bon Shiraishi; published by Taki Hara; cataloged by CiNii Books",
+   "source_url": "https://cir.nii.ac.jp/crid/1971993809797774593",
+   "source_class": "library_catalog_source_lead",
+   "lineage_id": "LINEAGE-HARA-FAMILY-BIOGRAPHY-1960",
+   "information": "Catalog record for a 1960 family-published biography of Kunizo Hara.",
+   "evidence_assessment": "High-value finite proof lane; the catalog proves the book exists, not that its unseen contents name Itsuko.",
+   "snapshot_status": "catalog_record_verified; book_contents_uninspected"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "artifact_id": "gdrive-maternal-miki-parent-fields-redacted",
+ "source": {
+  "provider": "google_drive",
+  "provider_file_id": "1CeZn4ObwgfMlL0xVk-8BoKHI3E6Nxjwa",
+  "provider_name": "Application MIKI May 2015 b1.b2 visa 2113 LINDEN LANE.docx",
+  "provider_md5": "6be62276798a92a6dc79fbfed2927ed5",
+  "source_sha256": "6bcd9987495e438893b55dbacbf62c2578d81700476b91033798445490e3cc23",
+  "source_bytes": 24360,
+  "account_asserted": "yanairiki@gmail.com",
+  "raw_repository_path": null,
+  "raw_retention": "external Drive only; raw form excluded from Git because it contains high-risk identifiers"
+ },
+ "extraction": {
+  "method": "allowlisted OOXML text fields",
+  "subject_name": "YANAI, MIKI",
+  "subject_native_name": "柳井美紀",
+  "father_surname": "YANAI",
+  "father_given_name": "SHUNJI",
+  "father_date_of_birth": "10 JANUARY 1934",
+  "mother_surname": "YANAI",
+  "mother_given_name": "YASUKO",
+  "mother_date_of_birth": "18 OCTOBER 1941",
+  "spouse_full_name": "HERNANDEZ SITU, LUIS AMADEO"
+ },
+ "access_class": "private_research_only_redacted"
+}

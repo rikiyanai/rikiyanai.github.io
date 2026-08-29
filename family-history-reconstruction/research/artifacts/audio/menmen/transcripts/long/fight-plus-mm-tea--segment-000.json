@@ -1,0 +1,1341 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,260"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4260
+			},
+			"text": " Stop it. I don't want to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,260",
+				"to": "00:00:06,220"
+			},
+			"offsets": {
+				"from": 4260,
+				"to": 6220
+			},
+			"text": " Don't ever fucking tell me that I don't do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,220",
+				"to": "00:00:07,700"
+			},
+			"offsets": {
+				"from": 6220,
+				"to": 7700
+			},
+			"text": " I don't know. I'm sorry."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,700",
+				"to": "00:00:09,060"
+			},
+			"offsets": {
+				"from": 7700,
+				"to": 9060
+			},
+			"text": " Thank you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,060",
+				"to": "00:00:22,340"
+			},
+			"offsets": {
+				"from": 9060,
+				"to": 22340
+			},
+			"text": " I'm the one that suggested it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,340",
+				"to": "00:00:23,340"
+			},
+			"offsets": {
+				"from": 22340,
+				"to": 23340
+			},
+			"text": " No more, TVG."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,340",
+				"to": "00:00:24,840"
+			},
+			"offsets": {
+				"from": 23340,
+				"to": 24840
+			},
+			"text": " No, seriously. I'm the one that suggested it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,840",
+				"to": "00:00:25,820"
+			},
+			"offsets": {
+				"from": 24840,
+				"to": 25820
+			},
+			"text": " No more. No more."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,820",
+				"to": "00:00:27,560"
+			},
+			"offsets": {
+				"from": 25820,
+				"to": 27560
+			},
+			"text": " Have you seen my eyes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,560",
+				"to": "00:00:28,140"
+			},
+			"offsets": {
+				"from": 27560,
+				"to": 28140
+			},
+			"text": " Huh?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,140",
+				"to": "00:00:29,340"
+			},
+			"offsets": {
+				"from": 28140,
+				"to": 29340
+			},
+			"text": " Have you seen my eyes?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,380",
+				"to": "00:00:30,200"
+			},
+			"offsets": {
+				"from": 29380,
+				"to": 30200
+			},
+			"text": " That's not my problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,200",
+				"to": "00:00:31,060"
+			},
+			"offsets": {
+				"from": 30200,
+				"to": 31060
+			},
+			"text": " It's not your problem."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,060",
+				"to": "00:00:32,460"
+			},
+			"offsets": {
+				"from": 31060,
+				"to": 32460
+			},
+			"text": " That's why I'm telling you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,460",
+				"to": "00:00:33,440"
+			},
+			"offsets": {
+				"from": 32460,
+				"to": 33440
+			},
+			"text": " Stop it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,440",
+				"to": "00:00:34,560"
+			},
+			"offsets": {
+				"from": 33440,
+				"to": 34560
+			},
+			"text": " You're the one with the anger issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,560",
+				"to": "00:00:35,020"
+			},
+			"offsets": {
+				"from": 34560,
+				"to": 35020
+			},
+			"text": " Stop it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,020",
+				"to": "00:00:37,080"
+			},
+			"offsets": {
+				"from": 35020,
+				"to": 37080
+			},
+			"text": " No, seriously."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,080",
+				"to": "00:00:38,440"
+			},
+			"offsets": {
+				"from": 37080,
+				"to": 38440
+			},
+			"text": " Ricky, please."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,440",
+				"to": "00:00:40,240"
+			},
+			"offsets": {
+				"from": 38440,
+				"to": 40240
+			},
+			"text": " I don't want to discuss this."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,240",
+				"to": "00:00:40,720"
+			},
+			"offsets": {
+				"from": 40240,
+				"to": 40720
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,720",
+				"to": "00:00:41,320"
+			},
+			"offsets": {
+				"from": 40720,
+				"to": 41320
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,320",
+				"to": "00:00:42,780"
+			},
+			"offsets": {
+				"from": 41320,
+				"to": 42780
+			},
+			"text": " That's exactly the fucking issue."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,780",
+				"to": "00:00:44,780"
+			},
+			"offsets": {
+				"from": 42780,
+				"to": 44780
+			},
+			"text": " And not only do you not want to discuss it,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,780",
+				"to": "00:00:47,080"
+			},
+			"offsets": {
+				"from": 44780,
+				"to": 47080
+			},
+			"text": " you don't even bother to look at all the work that I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,080",
+				"to": "00:00:49,440"
+			},
+			"offsets": {
+				"from": 47080,
+				"to": 49440
+			},
+			"text": " Ricky, I don't..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,440",
+				"to": "00:00:51,940"
+			},
+			"offsets": {
+				"from": 49440,
+				"to": 51940
+			},
+			"text": " I think that that's unfair."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,940",
+				"to": "00:00:53,120"
+			},
+			"offsets": {
+				"from": 51940,
+				"to": 53120
+			},
+			"text": " No, it's not."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,120",
+				"to": "00:00:54,380"
+			},
+			"offsets": {
+				"from": 53120,
+				"to": 54380
+			},
+			"text": " Okay, this is unfair."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,380",
+				"to": "00:00:55,460"
+			},
+			"offsets": {
+				"from": 54380,
+				"to": 55460
+			},
+			"text": " Talk to mom."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,460",
+				"to": "00:00:55,660"
+			},
+			"offsets": {
+				"from": 55460,
+				"to": 55660
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,660",
+				"to": "00:00:58,760"
+			},
+			"offsets": {
+				"from": 55660,
+				"to": 58760
+			},
+			"text": " No, Ricky, I don't..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,760",
+				"to": "00:01:00,740"
+			},
+			"offsets": {
+				"from": 58760,
+				"to": 60740
+			},
+			"text": " I don't want to..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,740",
+				"to": "00:01:01,900"
+			},
+			"offsets": {
+				"from": 60740,
+				"to": 61900
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,900",
+				"to": "00:01:05,200"
+			},
+			"offsets": {
+				"from": 61900,
+				"to": 65200
+			},
+			"text": " That's exactly the kind of attitude."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,200",
+				"to": "00:01:08,420"
+			},
+			"offsets": {
+				"from": 65200,
+				"to": 68420
+			},
+			"text": " And then three weeks later, you come to..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,420",
+				"to": "00:01:09,680"
+			},
+			"offsets": {
+				"from": 68420,
+				"to": 69680
+			},
+			"text": " I'm sorry, man."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,680",
+				"to": "00:01:11,480"
+			},
+			"offsets": {
+				"from": 69680,
+				"to": 71480
+			},
+			"text": " I'm not supposed to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,480",
+				"to": "00:01:12,140"
+			},
+			"offsets": {
+				"from": 71480,
+				"to": 72140
+			},
+			"text": " Huh?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,140",
+				"to": "00:01:16,640"
+			},
+			"offsets": {
+				"from": 72140,
+				"to": 76640
+			},
+			"text": " I have a lot of things to do."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,640",
+				"to": "00:01:17,980"
+			},
+			"offsets": {
+				"from": 76640,
+				"to": 77980
+			},
+			"text": " I have a lot of responsibilities."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,980",
+				"to": "00:01:19,220"
+			},
+			"offsets": {
+				"from": 77980,
+				"to": 79220
+			},
+			"text": " I don't want to get..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:19,220",
+				"to": "00:01:22,320"
+			},
+			"offsets": {
+				"from": 79220,
+				"to": 82320
+			},
+			"text": " No, this is bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,820",
+				"to": "00:01:24,140"
+			},
+			"offsets": {
+				"from": 82820,
+				"to": 84140
+			},
+			"text": " Okay, for you it's bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,140",
+				"to": "00:01:25,000"
+			},
+			"offsets": {
+				"from": 84140,
+				"to": 85000
+			},
+			"text": " It is bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,000",
+				"to": "00:01:26,860"
+			},
+			"offsets": {
+				"from": 85000,
+				"to": 86860
+			},
+			"text": " Okay, for you it's bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,860",
+				"to": "00:01:30,100"
+			},
+			"offsets": {
+				"from": 86860,
+				"to": 90100
+			},
+			"text": " So you're like, oh, I want you to do the accounting."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,100",
+				"to": "00:01:31,340"
+			},
+			"offsets": {
+				"from": 90100,
+				"to": 91340
+			},
+			"text": " I'm not gonna..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,340",
+				"to": "00:01:32,540"
+			},
+			"offsets": {
+				"from": 91340,
+				"to": 92540
+			},
+			"text": " You're not gonna understand this."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,540",
+				"to": "00:01:33,480"
+			},
+			"offsets": {
+				"from": 92540,
+				"to": 93480
+			},
+			"text": " Blah, blah, blah, blah, blah, blah."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,480",
+				"to": "00:01:34,060"
+			},
+			"offsets": {
+				"from": 93480,
+				"to": 94060
+			},
+			"text": " Blah."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,060",
+				"to": "00:01:34,920"
+			},
+			"offsets": {
+				"from": 94060,
+				"to": 94920
+			},
+			"text": " As if..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,920",
+				"to": "00:01:36,800"
+			},
+			"offsets": {
+				"from": 94920,
+				"to": 96800
+			},
+			"text": " As if I haven't been doing..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,800",
+				"to": "00:01:37,440"
+			},
+			"offsets": {
+				"from": 96800,
+				"to": 97440
+			},
+			"text": " You know what?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,440",
+				"to": "00:01:38,380"
+			},
+			"offsets": {
+				"from": 97440,
+				"to": 98380
+			},
+			"text": " Huh?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,720",
+				"to": "00:01:40,280"
+			},
+			"offsets": {
+				"from": 98720,
+				"to": 100280
+			},
+			"text": " Stop and take it back."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,280",
+				"to": "00:01:43,400"
+			},
+			"offsets": {
+				"from": 100280,
+				"to": 103400
+			},
+			"text": " Because I don't want to continue this discussion."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,400",
+				"to": "00:01:46,540"
+			},
+			"offsets": {
+				"from": 103400,
+				"to": 106540
+			},
+			"text": " No, this is fucking bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,540",
+				"to": "00:01:47,040"
+			},
+			"offsets": {
+				"from": 106540,
+				"to": 107040
+			},
+			"text": " No, no, no."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,040",
+				"to": "00:01:48,320"
+			},
+			"offsets": {
+				"from": 107040,
+				"to": 108320
+			},
+			"text": " I can't fucking believe that you would..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,320",
+				"to": "00:01:50,800"
+			},
+			"offsets": {
+				"from": 108320,
+				"to": 110800
+			},
+			"text": " I can't even fucking believe that you would say it like that."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,800",
+				"to": "00:01:51,280"
+			},
+			"offsets": {
+				"from": 110800,
+				"to": 111280
+			},
+			"text": " I..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,280",
+				"to": "00:01:52,760"
+			},
+			"offsets": {
+				"from": 111280,
+				"to": 112760
+			},
+			"text": " It's fucking unbelievable."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,760",
+				"to": "00:01:54,380"
+			},
+			"offsets": {
+				"from": 112760,
+				"to": 114380
+			},
+			"text": " You know, we ended up..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,380",
+				"to": "00:01:56,860"
+			},
+			"offsets": {
+				"from": 114380,
+				"to": 116860
+			},
+			"text": " I knew that we started talking..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,860",
+				"to": "00:01:58,260"
+			},
+			"offsets": {
+				"from": 116860,
+				"to": 118260
+			},
+			"text": " And you ended up talking..."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,260",
+				"to": "00:01:58,920"
+			},
+			"offsets": {
+				"from": 118260,
+				"to": 118920
+			},
+			"text": " Talking bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,920",
+				"to": "00:02:00,640"
+			},
+			"offsets": {
+				"from": 118920,
+				"to": 120640
+			},
+			"text": " And that's what I do want."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,640",
+				"to": "00:02:01,520"
+			},
+			"offsets": {
+				"from": 120640,
+				"to": 121520
+			},
+			"text": " Yeah, you know why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,520",
+				"to": "00:02:02,660"
+			},
+			"offsets": {
+				"from": 121520,
+				"to": 122660
+			},
+			"text": " And I go to the..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,660",
+				"to": "00:02:04,060"
+			},
+			"offsets": {
+				"from": 122660,
+				"to": 124060
+			},
+			"text": " Tell me exactly why I'm mad."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,060",
+				"to": "00:02:04,820"
+			},
+			"offsets": {
+				"from": 124060,
+				"to": 124820
+			},
+			"text": " Tell me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,440",
+				"to": "00:02:06,700"
+			},
+			"offsets": {
+				"from": 125440,
+				"to": 126700
+			},
+			"text": " Tell me why I'm mad."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,700",
+				"to": "00:02:09,440"
+			},
+			"offsets": {
+				"from": 126700,
+				"to": 129440
+			},
+			"text": " Because you think that I don't mind..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,440",
+				"to": "00:02:12,420"
+			},
+			"offsets": {
+				"from": 129440,
+				"to": 132420
+			},
+			"text": " That I don't mind what you are doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,420",
+				"to": "00:02:12,980"
+			},
+			"offsets": {
+				"from": 132420,
+				"to": 132980
+			},
+			"text": " I..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,980",
+				"to": "00:02:14,680"
+			},
+			"offsets": {
+				"from": 132980,
+				"to": 134680
+			},
+			"text": " Of course, I do."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,680",
+				"to": "00:02:15,940"
+			},
+			"offsets": {
+				"from": 134680,
+				"to": 135940
+			},
+			"text": " No, you don't."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,940",
+				"to": "00:02:17,580"
+			},
+			"offsets": {
+				"from": 135940,
+				"to": 137580
+			},
+			"text": " Okay, but stop it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:17,580",
+				"to": "00:02:18,280"
+			},
+			"offsets": {
+				"from": 137580,
+				"to": 138280
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,280",
+				"to": "00:02:18,920"
+			},
+			"offsets": {
+				"from": 138280,
+				"to": 138920
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:18,920",
+				"to": "00:02:20,580"
+			},
+			"offsets": {
+				"from": 138920,
+				"to": 140580
+			},
+			"text": " Seriously."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:20,580",
+				"to": "00:02:21,780"
+			},
+			"offsets": {
+				"from": 140580,
+				"to": 141780
+			},
+			"text": " What is the point?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:21,780",
+				"to": "00:02:23,040"
+			},
+			"offsets": {
+				"from": 141780,
+				"to": 143040
+			},
+			"text": " Okay, I don't mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,040",
+				"to": "00:02:25,360"
+			},
+			"offsets": {
+				"from": 143040,
+				"to": 145360
+			},
+			"text": " That's what I want me to tell you."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:25,360",
+				"to": "00:02:26,040"
+			},
+			"offsets": {
+				"from": 145360,
+				"to": 146040
+			},
+			"text": " Don't mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,040",
+				"to": "00:02:27,320"
+			},
+			"offsets": {
+				"from": 146040,
+				"to": 147320
+			},
+			"text": " Go to your business."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,320",
+				"to": "00:02:29,640"
+			},
+			"offsets": {
+				"from": 147320,
+				"to": 149640
+			},
+			"text": " Do it in the way that you want."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,640",
+				"to": "00:02:30,320"
+			},
+			"offsets": {
+				"from": 149640,
+				"to": 150320
+			},
+			"text": " Period."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,320",
+				"to": "00:02:32,900"
+			},
+			"offsets": {
+				"from": 150320,
+				"to": 152900
+			},
+			"text": " But I cannot risk my health."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:34,140",
+				"to": "00:02:35,460"
+			},
+			"offsets": {
+				"from": 154140,
+				"to": 155460
+			},
+			"text": " You're risking your own health."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:35,460",
+				"to": "00:02:36,000"
+			},
+			"offsets": {
+				"from": 155460,
+				"to": 156000
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,000",
+				"to": "00:02:37,920"
+			},
+			"offsets": {
+				"from": 156000,
+				"to": 157920
+			},
+			"text": " I am risking my own health..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,920",
+				"to": "00:02:39,280"
+			},
+			"offsets": {
+				"from": 157920,
+				"to": 159280
+			},
+			"text": " With this nonsense."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,280",
+				"to": "00:02:40,680"
+			},
+			"offsets": {
+				"from": 159280,
+				"to": 160680
+			},
+			"text": " It's not nonsense."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,680",
+				"to": "00:02:41,900"
+			},
+			"offsets": {
+				"from": 160680,
+				"to": 161900
+			},
+			"text": " You know why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,900",
+				"to": "00:02:46,820"
+			},
+			"offsets": {
+				"from": 161900,
+				"to": 166820
+			},
+			"text": " You don't even glance..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,820",
+				"to": "00:02:48,120"
+			},
+			"offsets": {
+				"from": 166820,
+				"to": 168120
+			},
+			"text": " At the spreadsheets that I make."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,120",
+				"to": "00:02:48,880"
+			},
+			"offsets": {
+				"from": 168120,
+				"to": 168880
+			},
+			"text": " Vicky."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,880",
+				"to": "00:02:50,880"
+			},
+			"offsets": {
+				"from": 168880,
+				"to": 170880
+			},
+			"text": " And then you come and preach..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,880",
+				"to": "00:02:52,680"
+			},
+			"offsets": {
+				"from": 170880,
+				"to": 172680
+			},
+			"text": " Vicky, you are..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,680",
+				"to": "00:02:53,260"
+			},
+			"offsets": {
+				"from": 172680,
+				"to": 173260
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,260",
+				"to": "00:02:54,260"
+			},
+			"offsets": {
+				"from": 173260,
+				"to": 174260
+			},
+			"text": " You are..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,260",
+				"to": "00:02:54,780"
+			},
+			"offsets": {
+				"from": 174260,
+				"to": 174780
+			},
+			"text": " Like, look how much..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,780",
+				"to": "00:02:55,400"
+			},
+			"offsets": {
+				"from": 174780,
+				"to": 175400
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,400",
+				"to": "00:02:55,600"
+			},
+			"offsets": {
+				"from": 175400,
+				"to": 175600
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,600",
+				"to": "00:02:55,820"
+			},
+			"offsets": {
+				"from": 175600,
+				"to": 175820
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,820",
+				"to": "00:02:56,240"
+			},
+			"offsets": {
+				"from": 175820,
+				"to": 176240
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,240",
+				"to": "00:02:56,280"
+			},
+			"offsets": {
+				"from": 176240,
+				"to": 176280
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,280",
+				"to": "00:02:56,420"
+			},
+			"offsets": {
+				"from": 176280,
+				"to": 176420
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,420",
+				"to": "00:02:56,480"
+			},
+			"offsets": {
+				"from": 176420,
+				"to": 176480
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,480",
+				"to": "00:02:56,540"
+			},
+			"offsets": {
+				"from": 176480,
+				"to": 176540
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,540",
+				"to": "00:02:56,680"
+			},
+			"offsets": {
+				"from": 176540,
+				"to": 176680
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,680",
+				"to": "00:02:56,960"
+			},
+			"offsets": {
+				"from": 176680,
+				"to": 176960
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,960",
+				"to": "00:02:57,320"
+			},
+			"offsets": {
+				"from": 176960,
+				"to": 177320
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,320",
+				"to": "00:02:58,000"
+			},
+			"offsets": {
+				"from": 177320,
+				"to": 178000
+			},
+			"text": " Just..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,000",
+				"to": "00:02:58,780"
+			},
+			"offsets": {
+				"from": 178000,
+				"to": 178780
+			},
+			"text": " And I don't understand..."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,780",
+				"to": "00:02:59,160"
+			},
+			"offsets": {
+				"from": 178780,
+				"to": 179160
+			},
+			"text": " Exactly."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:59,160",
+				"to": "00:02:59,940"
+			},
+			"offsets": {
+				"from": 179160,
+				"to": 179940
+			},
+			"text": " You know why?"
+		}
+	]
+}

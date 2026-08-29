@@ -1,0 +1,19 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "owner-report-hara-museum-through-maternal-great-grandmother-2026-08-24",
+ "access_class": "private_research_only",
+ "source_type": "owner_report",
+ "observed_at": "2026-08-24",
+ "reported_by": "repository owner",
+ "information": "The Hara Museum is related to the owner's family specifically through the owner's maternal great-grandmother, represented by the working P-009 / Itsuko Hara line.",
+ "information_origin": "family_knowledge_reported_by_descendant",
+ "evidence_assessment": "Direct evidence of the owner's family knowledge and branch attribution. It does not by itself establish the legal or biological relationship between P-009 and Kunizo Hara, residence in the 1938 house, ownership, inheritance, or the exact mechanism of connection to the museum.",
+ "relationship_to_questions": [
+  "Q-MAT-1",
+  "Q-MAT-4"
+ ],
+ "integrity": {
+  "raw_external_artifact": "NONE: direct owner clarification in the active project conversation",
+  "hash": "NONE: no independent source bytes"
+ }
+}

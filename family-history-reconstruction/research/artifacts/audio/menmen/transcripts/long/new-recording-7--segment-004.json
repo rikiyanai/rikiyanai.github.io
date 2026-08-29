@@ -1,0 +1,384 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,880"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2880
+			},
+			"text": " I have to give you information. I will do it for you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,880",
+				"to": "00:00:03,620"
+			},
+			"offsets": {
+				"from": 2880,
+				"to": 3620
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,620",
+				"to": "00:00:13,900"
+			},
+			"offsets": {
+				"from": 3620,
+				"to": 13900
+			},
+			"text": " I can do it. I just haven't done it because it takes more than like three hours."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,900",
+				"to": "00:00:17,440"
+			},
+			"offsets": {
+				"from": 13900,
+				"to": 17440
+			},
+			"text": " I will do it. I have so many things to do, but Ricky..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,440",
+				"to": "00:00:18,840"
+			},
+			"offsets": {
+				"from": 17440,
+				"to": 18840
+			},
+			"text": " I said I would do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,840",
+				"to": "00:00:20,160"
+			},
+			"offsets": {
+				"from": 18840,
+				"to": 20160
+			},
+			"text": " But do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,160",
+				"to": "00:00:20,980"
+			},
+			"offsets": {
+				"from": 20160,
+				"to": 20980
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,980",
+				"to": "00:00:25,060"
+			},
+			"offsets": {
+				"from": 20980,
+				"to": 25060
+			},
+			"text": " It's just one week and we were supposed to do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,060",
+				"to": "00:00:26,180"
+			},
+			"offsets": {
+				"from": 25060,
+				"to": 26180
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,180",
+				"to": "00:00:27,660"
+			},
+			"offsets": {
+				"from": 26180,
+				"to": 27660
+			},
+			"text": " You are going to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,280",
+				"to": "00:00:30,480"
+			},
+			"offsets": {
+				"from": 28280,
+				"to": 30480
+			},
+			"text": " You already said, no, I don't want to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,480",
+				"to": "00:00:31,860"
+			},
+			"offsets": {
+				"from": 30480,
+				"to": 31860
+			},
+			"text": " I want to pay a new ticket."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,860",
+				"to": "00:00:32,260"
+			},
+			"offsets": {
+				"from": 31860,
+				"to": 32260
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,260",
+				"to": "00:00:34,080"
+			},
+			"offsets": {
+				"from": 32260,
+				"to": 34080
+			},
+			"text": " If you have money, do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,080",
+				"to": "00:00:36,700"
+			},
+			"offsets": {
+				"from": 34080,
+				"to": 36700
+			},
+			"text": " Because you..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,700",
+				"to": "00:00:38,380"
+			},
+			"offsets": {
+				"from": 36700,
+				"to": 38380
+			},
+			"text": " Okay. I'll send you the information."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,380",
+				"to": "00:00:41,380"
+			},
+			"offsets": {
+				"from": 38380,
+				"to": 41380
+			},
+			"text": " Yeah. You think that money..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,380",
+				"to": "00:00:43,680"
+			},
+			"offsets": {
+				"from": 41380,
+				"to": 43680
+			},
+			"text": " How much do you have from your money?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,680",
+				"to": "00:00:48,380"
+			},
+			"offsets": {
+				"from": 43680,
+				"to": 48380
+			},
+			"text": " By this time, I think that it's all and so on."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,380",
+				"to": "00:00:48,780"
+			},
+			"offsets": {
+				"from": 48380,
+				"to": 48780
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,780",
+				"to": "00:00:49,560"
+			},
+			"offsets": {
+				"from": 48780,
+				"to": 49560
+			},
+			"text": " Right?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:49,560",
+				"to": "00:00:54,120"
+			},
+			"offsets": {
+				"from": 49560,
+				"to": 54120
+			},
+			"text": " Well, look. I wanted to set up a high-saving EELs account."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,120",
+				"to": "00:00:56,700"
+			},
+			"offsets": {
+				"from": 54120,
+				"to": 56700
+			},
+			"text": " We tried and then it fell through."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:57,060",
+				"to": "00:01:01,440"
+			},
+			"offsets": {
+				"from": 57060,
+				"to": 61440
+			},
+			"text": " Just things kept happening and then it was all gone before I even knew it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,440",
+				"to": "00:01:03,920"
+			},
+			"offsets": {
+				"from": 61440,
+				"to": 63920
+			},
+			"text": " It's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,920",
+				"to": "00:01:04,700"
+			},
+			"offsets": {
+				"from": 63920,
+				"to": 64700
+			},
+			"text": " It's whatever."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,060",
+				"to": "00:01:57,020"
+			},
+			"offsets": {
+				"from": 87060,
+				"to": 117020
+			},
+			"text": " The most important message that I just want to know what happened after we came from,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,020",
+				"to": "00:02:26,980"
+			},
+			"offsets": {
+				"from": 117020,
+				"to": 146980
+			},
+			"text": " and then I'll be back in the morning. This was Friday night. I don't remember. You were tired, right? And we came here, I also was very tired. I had a conversation by phone. You were waiting here for probably 10 minutes until I arrived. Oh yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,980",
+				"to": "00:02:40,980"
+			},
+			"offsets": {
+				"from": 146980,
+				"to": 160980
+			},
+			"text": " I guess I went to bed. You were supposed to explain it because you were very tired. I don't know what happened that night."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,980",
+				"to": "00:02:44,980"
+			},
+			"offsets": {
+				"from": 160980,
+				"to": 164980
+			},
+			"text": " I couldn't tell you. I remember. I was like, I can't remember."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,980",
+				"to": "00:02:58,980"
+			},
+			"offsets": {
+				"from": 164980,
+				"to": 178980
+			},
+			"text": " You were all night after because next morning, there were happy. You can see. You can see me."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,980",
+				"to": "00:03:00,040"
+			},
+			"offsets": {
+				"from": 178980,
+				"to": 180040
+			},
+			"text": " Thank you."
+		}
+	]
+}

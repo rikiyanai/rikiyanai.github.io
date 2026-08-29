@@ -1,0 +1,945 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,020"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3020
+			},
+			"text": " Because you don't even take the time to bother to look at the lines."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,020",
+				"to": "00:00:08,680"
+			},
+			"offsets": {
+				"from": 3020,
+				"to": 8680
+			},
+			"text": " I, I, you said, Ricky, I am not excusing you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,680",
+				"to": "00:00:11,400"
+			},
+			"offsets": {
+				"from": 8680,
+				"to": 11400
+			},
+			"text": " Well, you act like one."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,400",
+				"to": "00:00:12,780"
+			},
+			"offsets": {
+				"from": 11400,
+				"to": 12780
+			},
+			"text": " You act like one a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,780",
+				"to": "00:00:15,680"
+			},
+			"offsets": {
+				"from": 12780,
+				"to": 15680
+			},
+			"text": " But I know finance."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,680",
+				"to": "00:00:17,360"
+			},
+			"offsets": {
+				"from": 15680,
+				"to": 17360
+			},
+			"text": " I know accounting."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,360",
+				"to": "00:00:20,940"
+			},
+			"offsets": {
+				"from": 17360,
+				"to": 20940
+			},
+			"text": " Well, then, well, then, why don't you understand what I'm fucking doing?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,940",
+				"to": "00:00:21,940"
+			},
+			"offsets": {
+				"from": 20940,
+				"to": 21940
+			},
+			"text": " My mom does."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,940",
+				"to": "00:00:23,620"
+			},
+			"offsets": {
+				"from": 21940,
+				"to": 23620
+			},
+			"text": " My mom understands completely."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,620",
+				"to": "00:00:25,540"
+			},
+			"offsets": {
+				"from": 23620,
+				"to": 25540
+			},
+			"text": " You are, you are connecting."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,540",
+				"to": "00:00:27,840"
+			},
+			"offsets": {
+				"from": 25540,
+				"to": 27840
+			},
+			"text": " You are connecting this."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,840",
+				"to": "00:00:29,320"
+			},
+			"offsets": {
+				"from": 27840,
+				"to": 29320
+			},
+			"text": " And, uh, that's fine."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,440",
+				"to": "00:00:35,340"
+			},
+			"offsets": {
+				"from": 29440,
+				"to": 35340
+			},
+			"text": " I mean, I don't, don't, don't say, I don't say, uh, I don't say it's wrong."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,340",
+				"to": "00:00:36,600"
+			},
+			"offsets": {
+				"from": 35340,
+				"to": 36600
+			},
+			"text": " I don't say, do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,600",
+				"to": "00:00:38,700"
+			},
+			"offsets": {
+				"from": 36600,
+				"to": 38700
+			},
+			"text": " What is the point?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,700",
+				"to": "00:00:39,180"
+			},
+			"offsets": {
+				"from": 38700,
+				"to": 39180
+			},
+			"text": " Do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,180",
+				"to": "00:00:41,320"
+			},
+			"offsets": {
+				"from": 39180,
+				"to": 41320
+			},
+			"text": " The point is that you're coming and telling me."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,320",
+				"to": "00:00:42,760"
+			},
+			"offsets": {
+				"from": 41320,
+				"to": 42760
+			},
+			"text": " No, I am telling you."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,760",
+				"to": "00:00:46,720"
+			},
+			"offsets": {
+				"from": 42760,
+				"to": 46720
+			},
+			"text": " To do things that, that I'm, I'm actually doing and that I have been doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,720",
+				"to": "00:00:48,860"
+			},
+			"offsets": {
+				"from": 46720,
+				"to": 48860
+			},
+			"text": " And that I was the one that tried to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,860",
+				"to": "00:00:51,460"
+			},
+			"offsets": {
+				"from": 48860,
+				"to": 51460
+			},
+			"text": " I'm the one that tried to set up the family financials."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:51,460",
+				"to": "00:00:53,740"
+			},
+			"offsets": {
+				"from": 51460,
+				"to": 53740
+			},
+			"text": " And then, and then you don't give a fuck."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:53,740",
+				"to": "00:00:55,260"
+			},
+			"offsets": {
+				"from": 53740,
+				"to": 55260
+			},
+			"text": " You don't, you don't even glance."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:55,260",
+				"to": "00:00:58,960"
+			},
+			"offsets": {
+				"from": 55260,
+				"to": 58960
+			},
+			"text": " And then you come and tell me and preach about, oh, you should do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,960",
+				"to": "00:00:59,740"
+			},
+			"offsets": {
+				"from": 58960,
+				"to": 59740
+			},
+			"text": " You should do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,740",
+				"to": "00:01:02,580"
+			},
+			"offsets": {
+				"from": 59740,
+				"to": 62580
+			},
+			"text": " As if I haven't been doing exactly that."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:02,580",
+				"to": "00:01:04,100"
+			},
+			"offsets": {
+				"from": 62580,
+				"to": 64100
+			},
+			"text": " And I've been trying to get you to do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,100",
+				"to": "00:01:04,520"
+			},
+			"offsets": {
+				"from": 64100,
+				"to": 64520
+			},
+			"text": " You are."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,520",
+				"to": "00:01:06,360"
+			},
+			"offsets": {
+				"from": 64520,
+				"to": 66360
+			},
+			"text": " Like, what the fuck are you talking about?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,360",
+				"to": "00:01:06,920"
+			},
+			"offsets": {
+				"from": 66360,
+				"to": 66920
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,920",
+				"to": "00:01:07,820"
+			},
+			"offsets": {
+				"from": 66920,
+				"to": 67820
+			},
+			"text": " What the fuck?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:07,820",
+				"to": "00:01:08,920"
+			},
+			"offsets": {
+				"from": 67820,
+				"to": 68920
+			},
+			"text": " I'm talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:08,920",
+				"to": "00:01:11,240"
+			},
+			"offsets": {
+				"from": 68920,
+				"to": 71240
+			},
+			"text": " You are full of hatred."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:11,240",
+				"to": "00:01:13,800"
+			},
+			"offsets": {
+				"from": 71240,
+				"to": 73800
+			},
+			"text": " Full of bad."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,800",
+				"to": "00:01:16,420"
+			},
+			"offsets": {
+				"from": 73800,
+				"to": 76420
+			},
+			"text": " That's what I am talking about."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,420",
+				"to": "00:01:17,040"
+			},
+			"offsets": {
+				"from": 76420,
+				"to": 77040
+			},
+			"text": " Are you serious?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,040",
+				"to": "00:01:17,220"
+			},
+			"offsets": {
+				"from": 77040,
+				"to": 77220
+			},
+			"text": " Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,220",
+				"to": "00:01:18,760"
+			},
+			"offsets": {
+				"from": 77220,
+				"to": 78760
+			},
+			"text": " Totally serious."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,760",
+				"to": "00:01:20,560"
+			},
+			"offsets": {
+				"from": 78760,
+				"to": 80560
+			},
+			"text": " Totally serious."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,340",
+				"to": "00:01:24,840"
+			},
+			"offsets": {
+				"from": 84340,
+				"to": 84840
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,840",
+				"to": "00:01:24,840"
+			},
+			"offsets": {
+				"from": 84840,
+				"to": 84840
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:24,840",
+				"to": "00:01:27,440"
+			},
+			"offsets": {
+				"from": 84840,
+				"to": 87440
+			},
+			"text": " I mean, this is completely justified."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,440",
+				"to": "00:01:27,820"
+			},
+			"offsets": {
+				"from": 87440,
+				"to": 87820
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,820",
+				"to": "00:01:28,800"
+			},
+			"offsets": {
+				"from": 87820,
+				"to": 88800
+			},
+			"text": " I, I, I, I, you are."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:28,800",
+				"to": "00:01:32,040"
+			},
+			"offsets": {
+				"from": 88800,
+				"to": 92040
+			},
+			"text": " That's what, why, why am you taking me with this?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,040",
+				"to": "00:01:33,260"
+			},
+			"offsets": {
+				"from": 92040,
+				"to": 93260
+			},
+			"text": " Because I don't speak."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,260",
+				"to": "00:01:36,080"
+			},
+			"offsets": {
+				"from": 93260,
+				"to": 96080
+			},
+			"text": " Because you would go say that is because I have my reason."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,080",
+				"to": "00:01:37,860"
+			},
+			"offsets": {
+				"from": 96080,
+				"to": 97860
+			},
+			"text": " And the reason is because."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,860",
+				"to": "00:01:39,260"
+			},
+			"offsets": {
+				"from": 97860,
+				"to": 99260
+			},
+			"text": " Because you don't, you don't look."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,260",
+				"to": "00:01:42,580"
+			},
+			"offsets": {
+				"from": 99260,
+				"to": 102580
+			},
+			"text": " You don't actually take the time or care or effort to look."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,640",
+				"to": "00:01:52,740"
+			},
+			"offsets": {
+				"from": 110640,
+				"to": 112740
+			},
+			"text": " That's not an excuse."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,740",
+				"to": "00:01:53,720"
+			},
+			"offsets": {
+				"from": 112740,
+				"to": 113720
+			},
+			"text": " It's not an excuse."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,720",
+				"to": "00:01:56,080"
+			},
+			"offsets": {
+				"from": 113720,
+				"to": 116080
+			},
+			"text": " It is literally not an excuse."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,080",
+				"to": "00:01:56,740"
+			},
+			"offsets": {
+				"from": 116080,
+				"to": 116740
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,740",
+				"to": "00:02:01,000"
+			},
+			"offsets": {
+				"from": 116740,
+				"to": 121000
+			},
+			"text": " You have your way of thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,000",
+				"to": "00:02:02,220"
+			},
+			"offsets": {
+				"from": 121000,
+				"to": 122220
+			},
+			"text": " It's not a mind."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,220",
+				"to": "00:02:05,240"
+			},
+			"offsets": {
+				"from": 122220,
+				"to": 125240
+			},
+			"text": " It's not a, it's not a quote unquote mind way of thinking."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,240",
+				"to": "00:02:09,020"
+			},
+			"offsets": {
+				"from": 125240,
+				"to": 129020
+			},
+			"text": " In Demis, me and Taiki, we literally sat for two hours."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,020",
+				"to": "00:02:11,640"
+			},
+			"offsets": {
+				"from": 129020,
+				"to": 131640
+			},
+			"text": " Trying to get you to do some basic bullshit."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:11,640",
+				"to": "00:02:12,960"
+			},
+			"offsets": {
+				"from": 131640,
+				"to": 132960
+			},
+			"text": " Fucking second grade math."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,960",
+				"to": "00:02:14,420"
+			},
+			"offsets": {
+				"from": 132960,
+				"to": 134420
+			},
+			"text": " That doesn't matter."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:14,420",
+				"to": "00:02:15,200"
+			},
+			"offsets": {
+				"from": 134420,
+				"to": 135200
+			},
+			"text": " You know why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:15,200",
+				"to": "00:02:15,880"
+			},
+			"offsets": {
+				"from": 135200,
+				"to": 135880
+			},
+			"text": " You know why?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,500",
+				"to": "00:02:22,800"
+			},
+			"offsets": {
+				"from": 136500,
+				"to": 142800
+			},
+			"text": " No matter what, I'm not going to talk to you if you continue bitching me and telling me that."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,800",
+				"to": "00:02:23,460"
+			},
+			"offsets": {
+				"from": 142800,
+				"to": 143460
+			},
+			"text": " Okay?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,460",
+				"to": "00:02:24,320"
+			},
+			"offsets": {
+				"from": 143460,
+				"to": 144320
+			},
+			"text": " I'm not going to."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:24,320",
+				"to": "00:02:31,640"
+			},
+			"offsets": {
+				"from": 144320,
+				"to": 151640
+			},
+			"text": " At least, like, like, make, like, you don't even make the effort to run the spreadsheet through an AI summary."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,640",
+				"to": "00:02:42,460"
+			},
+			"offsets": {
+				"from": 151640,
+				"to": 162460
+			},
+			"text": " Like, you don't even have that little bit of respect just to, like, to at least fake or, like, even lift a single finger to actually, like, look at what I'm doing."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,460",
+				"to": "00:02:42,720"
+			},
+			"offsets": {
+				"from": 162460,
+				"to": 162720
+			},
+			"text": " Do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,720",
+				"to": "00:02:43,380"
+			},
+			"offsets": {
+				"from": 162720,
+				"to": 163380
+			},
+			"text": " Do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,380",
+				"to": "00:02:44,860"
+			},
+			"offsets": {
+				"from": 163380,
+				"to": 164860
+			},
+			"text": " No, you do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:44,860",
+				"to": "00:02:45,860"
+			},
+			"offsets": {
+				"from": 164860,
+				"to": 165860
+			},
+			"text": " That's your job."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,080",
+				"to": "00:02:46,900"
+			},
+			"offsets": {
+				"from": 166080,
+				"to": 166900
+			},
+			"text": " It's not my job."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,900",
+				"to": "00:02:47,620"
+			},
+			"offsets": {
+				"from": 166900,
+				"to": 167620
+			},
+			"text": " Yes, it is."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:47,620",
+				"to": "00:02:48,400"
+			},
+			"offsets": {
+				"from": 167620,
+				"to": 168400
+			},
+			"text": " Okay."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,400",
+				"to": "00:02:50,120"
+			},
+			"offsets": {
+				"from": 168400,
+				"to": 170120
+			},
+			"text": " That's why you're saying that it's my job."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,120",
+				"to": "00:02:51,200"
+			},
+			"offsets": {
+				"from": 170120,
+				"to": 171200
+			},
+			"text": " What?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:51,200",
+				"to": "00:02:53,280"
+			},
+			"offsets": {
+				"from": 171200,
+				"to": 173280
+			},
+			"text": " I'm telling you."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,280",
+				"to": "00:02:54,460"
+			},
+			"offsets": {
+				"from": 173280,
+				"to": 174460
+			},
+			"text": " I'm not going to do this."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,460",
+				"to": "00:02:56,380"
+			},
+			"offsets": {
+				"from": 174460,
+				"to": 176380
+			},
+			"text": " It's not even a job."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:56,380",
+				"to": "00:02:58,020"
+			},
+			"offsets": {
+				"from": 176380,
+				"to": 178020
+			},
+			"text": " I'm doing an actual job."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,020",
+				"to": "00:02:58,460"
+			},
+			"offsets": {
+				"from": 178020,
+				"to": 178460
+			},
+			"text": " Do it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:58,460",
+				"to": "00:03:00,020"
+			},
+			"offsets": {
+				"from": 178460,
+				"to": 180020
+			},
+			"text": " I am already doing it."
+		}
+	]
+}

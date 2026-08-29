@@ -1,0 +1,230 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "あれ?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:12,000"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 12000
+			},
+			"text": "これ、えっと、メメに送るよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,000",
+				"to": "00:00:26,000"
+			},
+			"offsets": {
+				"from": 12000,
+				"to": 26000
+			},
+			"text": "こんな古いの見てない?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,000",
+				"to": "00:00:28,000"
+			},
+			"offsets": {
+				"from": 26000,
+				"to": 28000
+			},
+			"text": "これ、私と見た"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,000",
+				"to": "00:00:30,000"
+			},
+			"offsets": {
+				"from": 28000,
+				"to": 30000
+			},
+			"text": "かわいい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:32,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 32000
+			},
+			"text": "これ、なんか照明書の写真でね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 32000,
+				"to": 34000
+			},
+			"text": "うん"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:36,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 36000
+			},
+			"text": "写真撮っていい?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,000",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 36000,
+				"to": 38000
+			},
+			"text": "今度また"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 40000
+			},
+			"text": "すごい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 40000,
+				"to": 44000
+			},
+			"text": "今度また、グリーカードのインタビューの時に写真がいるの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 48000
+			},
+			"text": "だけど、こんなのしかなくて、どれがいいか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:52,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 52000
+			},
+			"text": "もう一つ割といいのがあったら、どっかに行ったのよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:52,000",
+				"to": "00:00:54,000"
+			},
+			"offsets": {
+				"from": 52000,
+				"to": 54000
+			},
+			"text": "かわいい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 54000,
+				"to": 56000
+			},
+			"text": "ね、どれがいいか"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:58,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 58000
+			},
+			"text": "あんまりみんな良くない"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,000",
+				"to": "00:01:00,000"
+			},
+			"offsets": {
+				"from": 58000,
+				"to": 60000
+			},
+			"text": "これ、もうまだ髪型変わってないね"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:02,000"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 62000
+			},
+			"text": "うん"
+		}
+	]
+}

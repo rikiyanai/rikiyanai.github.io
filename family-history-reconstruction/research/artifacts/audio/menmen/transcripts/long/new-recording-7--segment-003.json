@@ -1,0 +1,879 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": " It's only 64GB, it's nice to have an extra one."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 7000
+			},
+			"text": " Especially since if you're gonna take videos, one video is like 5GB."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:10,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 10000
+			},
+			"text": " It's completely justifiable."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,000",
+				"to": "00:00:15,000"
+			},
+			"offsets": {
+				"from": 10000,
+				"to": 15000
+			},
+			"text": " What's next?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,000",
+				"to": "00:00:29,000"
+			},
+			"offsets": {
+				"from": 15000,
+				"to": 29000
+			},
+			"text": " If there is a person, if there is a person, you can understand the language."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 34000
+			},
+			"text": " I can help you is Kosuke's mom."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:39,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 39000
+			},
+			"text": " Because that's something that you don't know about."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,000",
+				"to": "00:00:42,000"
+			},
+			"offsets": {
+				"from": 39000,
+				"to": 42000
+			},
+			"text": " Kosuke-san has his brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 42000,
+				"to": 44000
+			},
+			"text": " Do you know that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:48,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 48000
+			},
+			"text": " No, I mean yes, I did. He has multiple brothers."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:48,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 48000,
+				"to": 50000
+			},
+			"text": " No, only one brother."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:54,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 54000
+			},
+			"text": " And do you know what he..."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 54000,
+				"to": 56000
+			},
+			"text": " Destiny?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:57,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 57000
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:59,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 59000,
+				"to": 65000
+			},
+			"text": " I don't know the details, but I know because he attended our wedding."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:12,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 72000
+			},
+			"text": " And he had a kind of ATSD."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,000",
+				"to": "00:01:17,000"
+			},
+			"offsets": {
+				"from": 72000,
+				"to": 77000
+			},
+			"text": " And his life was completely different to Kosuke's."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,000",
+				"to": "00:01:22,000"
+			},
+			"offsets": {
+				"from": 78000,
+				"to": 82000
+			},
+			"text": " Because Kosuke-san also has his own limitations."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,000",
+				"to": "00:01:29,000"
+			},
+			"offsets": {
+				"from": 82000,
+				"to": 89000
+			},
+			"text": " But he can manage to, you know, to be enjoying his life a lot."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:31,000"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 91000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:31,000",
+				"to": "00:01:32,000"
+			},
+			"offsets": {
+				"from": 91000,
+				"to": 92000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,000",
+				"to": "00:01:33,000"
+			},
+			"offsets": {
+				"from": 92000,
+				"to": 93000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,000",
+				"to": "00:01:34,000"
+			},
+			"offsets": {
+				"from": 93000,
+				"to": 94000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:34,000",
+				"to": "00:01:35,000"
+			},
+			"offsets": {
+				"from": 94000,
+				"to": 95000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:35,000",
+				"to": "00:01:36,000"
+			},
+			"offsets": {
+				"from": 95000,
+				"to": 96000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,000",
+				"to": "00:01:37,000"
+			},
+			"offsets": {
+				"from": 96000,
+				"to": 97000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:37,000",
+				"to": "00:01:38,000"
+			},
+			"offsets": {
+				"from": 97000,
+				"to": 98000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,000",
+				"to": "00:01:39,000"
+			},
+			"offsets": {
+				"from": 98000,
+				"to": 99000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:39,000",
+				"to": "00:01:40,000"
+			},
+			"offsets": {
+				"from": 99000,
+				"to": 100000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,000",
+				"to": "00:01:41,000"
+			},
+			"offsets": {
+				"from": 100000,
+				"to": 101000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:41,000",
+				"to": "00:01:42,000"
+			},
+			"offsets": {
+				"from": 101000,
+				"to": 102000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:42,000",
+				"to": "00:01:43,000"
+			},
+			"offsets": {
+				"from": 102000,
+				"to": 103000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,000",
+				"to": "00:01:44,000"
+			},
+			"offsets": {
+				"from": 103000,
+				"to": 104000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,000",
+				"to": "00:01:45,000"
+			},
+			"offsets": {
+				"from": 104000,
+				"to": 105000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:45,000",
+				"to": "00:01:46,000"
+			},
+			"offsets": {
+				"from": 105000,
+				"to": 106000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:46,000",
+				"to": "00:01:47,000"
+			},
+			"offsets": {
+				"from": 106000,
+				"to": 107000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,000",
+				"to": "00:01:48,000"
+			},
+			"offsets": {
+				"from": 107000,
+				"to": 108000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,000",
+				"to": "00:01:49,000"
+			},
+			"offsets": {
+				"from": 108000,
+				"to": 109000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:49,000",
+				"to": "00:01:50,000"
+			},
+			"offsets": {
+				"from": 109000,
+				"to": 110000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:50,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 110000,
+				"to": 111000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:52,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 112000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,000",
+				"to": "00:01:53,000"
+			},
+			"offsets": {
+				"from": 112000,
+				"to": 113000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,000",
+				"to": "00:01:54,000"
+			},
+			"offsets": {
+				"from": 113000,
+				"to": 114000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:54,000",
+				"to": "00:01:55,000"
+			},
+			"offsets": {
+				"from": 114000,
+				"to": 115000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,000",
+				"to": "00:01:56,000"
+			},
+			"offsets": {
+				"from": 115000,
+				"to": 116000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:56,000",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 116000,
+				"to": 117000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
+				"to": "00:01:58,000"
+			},
+			"offsets": {
+				"from": 117000,
+				"to": 118000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:58,000",
+				"to": "00:01:59,000"
+			},
+			"offsets": {
+				"from": 118000,
+				"to": 119000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,000",
+				"to": "00:02:00,000"
+			},
+			"offsets": {
+				"from": 119000,
+				"to": 120000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:01,000"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 121000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:01,000",
+				"to": "00:02:02,000"
+			},
+			"offsets": {
+				"from": 121000,
+				"to": 122000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:02,000",
+				"to": "00:02:03,000"
+			},
+			"offsets": {
+				"from": 122000,
+				"to": 123000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:03,000",
+				"to": "00:02:04,000"
+			},
+			"offsets": {
+				"from": 123000,
+				"to": 124000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:04,000",
+				"to": "00:02:05,000"
+			},
+			"offsets": {
+				"from": 124000,
+				"to": 125000
+			},
+			"text": " He can manage to be a lot of people."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,000",
+				"to": "00:02:06,000"
+			},
+			"offsets": {
+				"from": 125000,
+				"to": 126000
+			},
+			"text": " I have tickets or not."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,000",
+				"to": "00:02:07,000"
+			},
+			"offsets": {
+				"from": 126000,
+				"to": 127000
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,000",
+				"to": "00:02:09,000"
+			},
+			"offsets": {
+				"from": 127000,
+				"to": 129000
+			},
+			"text": " So you are leaving on 23rd."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:12,000"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 132000
+			},
+			"text": " I mean, I have to."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,000",
+				"to": "00:02:16,000"
+			},
+			"offsets": {
+				"from": 132000,
+				"to": 136000
+			},
+			"text": " I haven't done it yet because they're always putting me on hold."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:16,000",
+				"to": "00:02:22,000"
+			},
+			"offsets": {
+				"from": 136000,
+				"to": 142000
+			},
+			"text": " I always get cut off and it takes so long that I end up not doing it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:23,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 143000
+			},
+			"text": " What time do you do at 23rd?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:23,000",
+				"to": "00:02:26,000"
+			},
+			"offsets": {
+				"from": 143000,
+				"to": 146000
+			},
+			"text": " 8am or something."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,000",
+				"to": "00:02:28,000"
+			},
+			"offsets": {
+				"from": 146000,
+				"to": 148000
+			},
+			"text": " I physically can't."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:28,000",
+				"to": "00:02:30,000"
+			},
+			"offsets": {
+				"from": 148000,
+				"to": 150000
+			},
+			"text": " I have to change it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:30,000",
+				"to": "00:02:31,000"
+			},
+			"offsets": {
+				"from": 150000,
+				"to": 151000
+			},
+			"text": " It's not an option."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,000",
+				"to": "00:02:39,000"
+			},
+			"offsets": {
+				"from": 151000,
+				"to": 159000
+			},
+			"text": " Because if I try to go at this flight, I'll be stranded because it's not enough time for me to lay over."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,000",
+				"to": "00:02:41,000"
+			},
+			"offsets": {
+				"from": 159000,
+				"to": 161000
+			},
+			"text": " So it's not an option."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:41,000",
+				"to": "00:02:42,000"
+			},
+			"offsets": {
+				"from": 161000,
+				"to": 162000
+			},
+			"text": " I have to change it."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,000",
+				"to": "00:02:43,000"
+			},
+			"offsets": {
+				"from": 162000,
+				"to": 163000
+			},
+			"text": " I just haven't done it yet."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,000",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 163000,
+				"to": 166000
+			},
+			"text": " So I'll do it either tonight or tomorrow."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,000",
+				"to": "00:02:48,000"
+			},
+			"offsets": {
+				"from": 166000,
+				"to": 168000
+			},
+			"text": " And why don't do that?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 168000,
+				"to": 170000
+			},
+			"text": " Because now it's closed."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:52,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 172000
+			},
+			"text": " It's not closed."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,000",
+				"to": "00:02:53,000"
+			},
+			"offsets": {
+				"from": 172000,
+				"to": 173000
+			},
+			"text": " Is Asiana?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:53,000",
+				"to": "00:02:54,000"
+			},
+			"offsets": {
+				"from": 173000,
+				"to": 174000
+			},
+			"text": " Yeah."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:54,000",
+				"to": "00:02:57,000"
+			},
+			"offsets": {
+				"from": 174000,
+				"to": 177000
+			},
+			"text": " Asiana has here and Delta."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 177000,
+				"to": 180000
+			},
+			"text": " Asiana has here and Delta have here."
+		}
+	]
+}

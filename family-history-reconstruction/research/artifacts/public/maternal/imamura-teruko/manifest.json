@@ -1,0 +1,69 @@
+{
+ "schema_version": "1.0",
+ "access_class": "private_research_only",
+ "observed_at": "2026-08-24",
+ "question_id": "Q-MAT-7",
+ "note": "One record per consulted public occurrence. URL records preserve source lineage and claim boundaries; source bytes are not local snapshots. Public occurrences corroborate literal names and family context but do not replace the family-held tree or a civil/family register.",
+ "artifacts": [
+  {
+   "evidence_id": "public-ndl-adachi-matsui-keishiro-teruko-letters",
+   "title": "Adachi Mineichiro Papers inventory",
+   "publisher": "National Diet Library, Constitutional Materials Room",
+   "source_url": "https://ndlsearch.ndl.go.jp/file/rnavi/kensei/adachimineichirou/index_adachimineichirou.pdf",
+   "source_class": "near_primary_contemporary_archive_catalog",
+   "lineage_id": "LINEAGE-NDL-ADACHI-ARCHIVE",
+   "page_or_record": "PDF p.125; letters 601, 601-1, and 601-2; Reel 27 frames 271 and 274",
+   "information": "The archive inventory jointly names 松井慶四郎・照子 on correspondence records dated 1930-01-01 and 1934-10-26.",
+   "evidence_assessment": "Direct independent corroboration of the exact paired names in an archival catalog; the uninspected letters, not the catalog, would be needed to characterize their relationship from this source alone.",
+   "snapshot_status": "url_and_page_level_root_read; underlying_letters_uninspected; source_bytes_not_committed"
+  },
+  {
+   "evidence_id": "public-tanaka-chiyo-alumni-keishiro-teruko",
+   "title": "Introduction to Chiyo Tanaka",
+   "publisher": "Tokyo Tanaka Junior College Alumni Association",
+   "source_url": "https://chiyo-kai.com/introduction/",
+   "source_class": "institutional_biographical_record",
+   "lineage_id": "LINEAGE-TANAKA-EDUCATIONAL-INSTITUTIONS",
+   "page_or_record": "biographical chronology, 1906 entry",
+   "information": "States that Chiyo Tanaka was born as the eldest daughter among the four children of Baron 松井慶四郎 and 照子.",
+   "evidence_assessment": "Institutional corroboration that Keishiro and Teruko were a parental couple; it does not identify Teruko's parents.",
+   "snapshot_status": "url_and_line_level_root_read; source_bytes_not_committed"
+  },
+  {
+   "evidence_id": "public-shibuya-school-tanaka-chiyo-keishiro-teruko",
+   "title": "Founder Chiyo Tanaka",
+   "publisher": "Shibuya Fashion & Art College",
+   "source_url": "https://www.shibuya-and.tokyo/outline/chiyo-tanaka/",
+   "source_class": "institutional_biographical_record",
+   "lineage_id": "LINEAGE-TANAKA-EDUCATIONAL-INSTITUTIONS",
+   "page_or_record": "biographical chronology, 1906 entry",
+   "information": "States that Chiyo Tanaka was born the eldest daughter of later foreign minister Baron 松井慶四郎 and 照子.",
+   "evidence_assessment": "A second institutional occurrence in the same educational lineage; corroborates the parental-couple context but is not counted as an independent lineage from the alumni page.",
+   "snapshot_status": "url_and_line_level_root_read; source_bytes_not_committed"
+  },
+  {
+   "evidence_id": "public-ndl-imamura-seinosuke-biography",
+   "title": "今村清之助君事歴",
+   "publisher": "National Diet Library",
+   "source_url": "https://ndlsearch.ndl.go.jp/books/R100000039-I781060",
+   "source_class": "near_primary_biographical_publication_catalog",
+   "lineage_id": "LINEAGE-NDL-IMAMURA-1906",
+   "page_or_record": "NDL bibliographic ID 000000435670; PID 781060; 594 pages; published September 1906",
+   "information": "The NDL catalogs a 1906 biography of 今村清之助 (1848-1902), whose first section is 家系 / family line.",
+   "evidence_assessment": "Direct for Seinosuke Imamura's historical identity and existence of a near-contemporary genealogical source; the restricted body was not inspected for Teruko.",
+   "snapshot_status": "catalog_and_contents_list_root_verified; restricted_body_uninspected; source_bytes_not_committed"
+  },
+  {
+   "evidence_id": "secondary-easthall-imamura-teruko-lineage",
+   "title": "Matsui Keishiro baronial family",
+   "publisher": "Easthall / 直球和館",
+   "source_url": "https://easthall.blog.jp/archives/33471692.html",
+   "source_class": "secondary_genealogy",
+   "lineage_id": "LINEAGE-EASTHALL-BLOG",
+   "page_or_record": "family summary lines naming wife 今村照子",
+   "information": "Identifies Keishiro's wife as 今村照子, born 1879, and calls her a daughter of railway magnate 今村清之助; separately identifies Akira as their eldest son.",
+   "evidence_assessment": "Independent modern secondary corroboration of the family-tree interpretation, not primary proof. It shares one lineage with the Easthall Hara claim already tracked elsewhere.",
+   "snapshot_status": "url_and_line_level_root_read; source_bytes_not_committed"
+  }
+ ]
+}

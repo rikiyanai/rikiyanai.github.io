@@ -1,0 +1,307 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "it"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:19,200"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 19200
+			},
+			"text": " e poi sarà da"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:37,000"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 37000
+			},
+			"text": " aicoico"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:03,020"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 63020
+			},
+			"text": " Qui si"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:03,020",
+				"to": "00:01:06,940"
+			},
+			"offsets": {
+				"from": 63020,
+				"to": 66940
+			},
+			"text": " Faccio"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,940",
+				"to": "00:01:09,140"
+			},
+			"offsets": {
+				"from": 66940,
+				"to": 69140
+			},
+			"text": " Qui ostacano"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,140",
+				"to": "00:01:10,160"
+			},
+			"offsets": {
+				"from": 69140,
+				"to": 70160
+			},
+			"text": " Bl likes"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,160",
+				"to": "00:01:10,540"
+			},
+			"offsets": {
+				"from": 70160,
+				"to": 70540
+			},
+			"text": " No"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,540",
+				"to": "00:01:13,180"
+			},
+			"offsets": {
+				"from": 70540,
+				"to": 73180
+			},
+			"text": " Nermin"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:13,180",
+				"to": "00:01:26,680"
+			},
+			"offsets": {
+				"from": 73180,
+				"to": 86680
+			},
+			"text": " Il"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,680",
+				"to": "00:01:56,660"
+			},
+			"offsets": {
+				"from": 86680,
+				"to": 116660
+			},
+			"text": " Il"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,580",
+				"to": "00:02:17,900"
+			},
+			"offsets": {
+				"from": 117580,
+				"to": 137900
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT changed 기분"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,680",
+				"to": "00:02:40,820"
+			},
+			"offsets": {
+				"from": 146680,
+				"to": 160820
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:40,820",
+				"to": "00:02:42,660"
+			},
+			"offsets": {
+				"from": 160820,
+				"to": 162660
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,660",
+				"to": "00:02:42,660"
+			},
+			"offsets": {
+				"from": 162660,
+				"to": 162660
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,660",
+				"to": "00:02:42,660"
+			},
+			"offsets": {
+				"from": 162660,
+				"to": 162660
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,660",
+				"to": "00:02:42,660"
+			},
+			"offsets": {
+				"from": 162660,
+				"to": 162660
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,660",
+				"to": "00:02:46,600"
+			},
+			"offsets": {
+				"from": 162660,
+				"to": 166600
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:46,600",
+				"to": "00:02:49,940"
+			},
+			"offsets": {
+				"from": 166600,
+				"to": 169940
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:49,940",
+				"to": "00:02:50,140"
+			},
+			"offsets": {
+				"from": 169940,
+				"to": 170140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,140",
+				"to": "00:02:50,140"
+			},
+			"offsets": {
+				"from": 170140,
+				"to": 170140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,140",
+				"to": "00:02:50,140"
+			},
+			"offsets": {
+				"from": 170140,
+				"to": 170140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,140",
+				"to": "00:02:50,140"
+			},
+			"offsets": {
+				"from": 170140,
+				"to": 170140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,140",
+				"to": "00:02:52,140"
+			},
+			"offsets": {
+				"from": 170140,
+				"to": 172140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:52,140",
+				"to": "00:02:57,140"
+			},
+			"offsets": {
+				"from": 172140,
+				"to": 177140
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,140",
+				"to": "00:02:59,980"
+			},
+			"offsets": {
+				"from": 177140,
+				"to": 179980
+			},
+			"text": " *識 studenti/bronomi/ライ AKDASI IN NO NAT"
+		}
+	]
+}

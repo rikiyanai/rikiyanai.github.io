@@ -1,0 +1,263 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:05,580"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 5580
+			},
+			"text": "言ってたことが多かったからクニコの時は全然簡単にしてるんですよとか言ったら話してるのよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,580",
+				"to": "00:00:06,580"
+			},
+			"offsets": {
+				"from": 5580,
+				"to": 6580
+			},
+			"text": "へぇー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,580",
+				"to": "00:00:07,680"
+			},
+			"offsets": {
+				"from": 6580,
+				"to": 7680
+			},
+			"text": "おかしいの"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,680",
+				"to": "00:00:12,280"
+			},
+			"offsets": {
+				"from": 7680,
+				"to": 12280
+			},
+			"text": "私なんかすっかりもエスペリメントになったんだね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,280",
+				"to": "00:00:14,000"
+			},
+			"offsets": {
+				"from": 12280,
+				"to": 14000
+			},
+			"text": "いやー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,000",
+				"to": "00:00:17,420"
+			},
+			"offsets": {
+				"from": 14000,
+				"to": 17420
+			},
+			"text": "一番最初だから多分そうだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,420",
+				"to": "00:00:19,360"
+			},
+			"offsets": {
+				"from": 17420,
+				"to": 19360
+			},
+			"text": "そうなのね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,360",
+				"to": "00:00:20,560"
+			},
+			"offsets": {
+				"from": 19360,
+				"to": 20560
+			},
+			"text": "そうだな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,560",
+				"to": "00:00:24,060"
+			},
+			"offsets": {
+				"from": 20560,
+				"to": 24060
+			},
+			"text": "その時みたいに厳しく育ってたんだった"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,060",
+				"to": "00:00:25,120"
+			},
+			"offsets": {
+				"from": 24060,
+				"to": 25120
+			},
+			"text": "だって"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,120",
+				"to": "00:00:27,440"
+			},
+			"offsets": {
+				"from": 25120,
+				"to": 27440
+			},
+			"text": "先進とかいう学校に入れられてて"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,440",
+				"to": "00:00:29,560"
+			},
+			"offsets": {
+				"from": 27440,
+				"to": 29560
+			},
+			"text": "それでマトリックでしょだから"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,560",
+				"to": "00:00:30,980"
+			},
+			"offsets": {
+				"from": 29560,
+				"to": 30980
+			},
+			"text": "そしたらこんなに"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,980",
+				"to": "00:00:33,560"
+			},
+			"offsets": {
+				"from": 30980,
+				"to": 33560
+			},
+			"text": "こんなに強さが力はあるって言うのね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,560",
+				"to": "00:00:34,420"
+			},
+			"offsets": {
+				"from": 33560,
+				"to": 34420
+			},
+			"text": "そうだよ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,420",
+				"to": "00:00:37,380"
+			},
+			"offsets": {
+				"from": 34420,
+				"to": 37380
+			},
+			"text": "そこは本当にある"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,380",
+				"to": "00:00:38,380"
+			},
+			"offsets": {
+				"from": 37380,
+				"to": 38380
+			},
+			"text": "そう"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,380",
+				"to": "00:00:41,240"
+			},
+			"offsets": {
+				"from": 38380,
+				"to": 41240
+			},
+			"text": "あそこの中の2階なんだな"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,240",
+				"to": "00:00:44,360"
+			},
+			"offsets": {
+				"from": 41240,
+				"to": 44360
+			},
+			"text": "その売煎で待っててって言ってたんだ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,360",
+				"to": "00:00:45,320"
+			},
+			"offsets": {
+				"from": 44360,
+				"to": 45320
+			},
+			"text": "どこそれ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:45,320",
+				"to": "00:00:47,420"
+			},
+			"offsets": {
+				"from": 45320,
+				"to": 47420
+			},
+			"text": "教会の中で"
+		}
+	]
+}

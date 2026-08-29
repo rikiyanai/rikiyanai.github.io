@@ -1,0 +1,1527 @@
+{
+ "schema_version": "1.0",
+ "count": 95,
+ "text_detected_count": 14,
+ "artifacts": [
+  {
+   "artifact_id": "yasuko-selection-image10-ocr",
+   "source_artifact_id": "yasuko-selection-image10",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image10.jpg",
+   "source_derivative_sha256": "44bb4f3a65170d69d4b141f4d4b9e807a308a235d5bef15570acd06d1c18b652",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image10.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image100-ocr",
+   "source_artifact_id": "yasuko-selection-image100",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image100.jpg",
+   "source_derivative_sha256": "97a362b275a48e53bf3002aeef4c4902c373eee8feda9d2486a090d3d904f6ef",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image100.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image101-ocr",
+   "source_artifact_id": "yasuko-selection-image101",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image101.jpg",
+   "source_derivative_sha256": "4b97600521a1121a8c4dde25089ba2821ad733209baeaed784a10c6dbb2cab63",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image101.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image102-ocr",
+   "source_artifact_id": "yasuko-selection-image102",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image102.jpg",
+   "source_derivative_sha256": "115cf52bff908359c7faf99b030b8e619393585e8ec8fc152010b89bf1b746ae",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image102.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image103-ocr",
+   "source_artifact_id": "yasuko-selection-image103",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image103.jpg",
+   "source_derivative_sha256": "531c4c3ebc8d282ef366ab9c3fe86eca51950b96aac131b2dcc7495ecc0af42a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image103.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image11-ocr",
+   "source_artifact_id": "yasuko-selection-image11",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image11.jpg",
+   "source_derivative_sha256": "b535f8a58337812aeba1b99c362aa9d0d60025ff06474dee0c5a3dff54a088ff",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image11.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image12-ocr",
+   "source_artifact_id": "yasuko-selection-image12",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image12.jpg",
+   "source_derivative_sha256": "ade4cce8efc4ab158f38b9698b99eb7a99495a53045778de291130c114e8fe3d",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image12.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image13-ocr",
+   "source_artifact_id": "yasuko-selection-image13",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image13.jpg",
+   "source_derivative_sha256": "d9cfab8fa5af118ac7769e61864210d1058c842a8c9b5e3173c7b1f18f1ec210",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image13.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image14-ocr",
+   "source_artifact_id": "yasuko-selection-image14",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image14.jpg",
+   "source_derivative_sha256": "23c55aae841c5737933a02bd7f3432ff5023fe930f5ce4a5265ec5937ef747dd",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image14.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image15-ocr",
+   "source_artifact_id": "yasuko-selection-image15",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image15.jpg",
+   "source_derivative_sha256": "ad6ce623fa636f261d363a1b83cebe5f63c503e0c02c63e3223b10317797d0bc",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image15.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image16-ocr",
+   "source_artifact_id": "yasuko-selection-image16",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image16.jpg",
+   "source_derivative_sha256": "8d1cd167af60e7752698454ec8634244c9f89d96cf366cfd206cc0912b1a79aa",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image16.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image17-ocr",
+   "source_artifact_id": "yasuko-selection-image17",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image17.jpg",
+   "source_derivative_sha256": "1d435f9f9c4d7a16c2f50a7bd33c2028ace270625ab7fa8a9ac5647a616d327e",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image17.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image18-ocr",
+   "source_artifact_id": "yasuko-selection-image18",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image18.jpg",
+   "source_derivative_sha256": "2f72cdeb6730b757cf36b4365a357ed8a08138d6c9cff3fe40917784c5c2472b",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image18.txt",
+   "ocr_sha256": "f7a902e56a3b145fd759fe4ed280b44b8cb59b5c982754d22d619e249cb08279",
+   "characters": 17,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image19-ocr",
+   "source_artifact_id": "yasuko-selection-image19",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image19.jpg",
+   "source_derivative_sha256": "1942f8341c4af5aa6af5205618b4492a2fd723f373f2cbbee26a9728c0591200",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image19.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image20-ocr",
+   "source_artifact_id": "yasuko-selection-image20",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image20.jpg",
+   "source_derivative_sha256": "b57c273b3601443c28ed2ae2e6907a4aa0cfc8042eeeae43d9cabf978a90f053",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image20.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image21-ocr",
+   "source_artifact_id": "yasuko-selection-image21",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image21.jpg",
+   "source_derivative_sha256": "139c162e3bf79684c6d5b7e542040fe7d62a5add359b93237fb5e17598dd5928",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image21.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image22-ocr",
+   "source_artifact_id": "yasuko-selection-image22",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image22.jpg",
+   "source_derivative_sha256": "1521e0a77de8b941f3b7f5913087571e9d6dc367483948cf9f02b96527acc72b",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image22.txt",
+   "ocr_sha256": "fbe870af9f1bbc9e105e45c39e61440c209e8c8a5110e01e7519e548b77550b0",
+   "characters": 5,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image23-ocr",
+   "source_artifact_id": "yasuko-selection-image23",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image23.jpg",
+   "source_derivative_sha256": "43abbac2bfb0df16a4e3170ea14efba13a3cb5cf07585a50c94e2a1fd7c8ec26",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image23.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image24-ocr",
+   "source_artifact_id": "yasuko-selection-image24",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image24.jpg",
+   "source_derivative_sha256": "879f71c176a41585322962711a85c68b65773e06b6b823fe756ede4612ae9af5",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image24.txt",
+   "ocr_sha256": "eda6d338e87ab4c727cc0283651c28031d192e5cb3278c2ba26638f703a59da5",
+   "characters": 3,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image25-ocr",
+   "source_artifact_id": "yasuko-selection-image25",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image25.jpg",
+   "source_derivative_sha256": "74558f632151573b39cdf7007b596896167e24b0335dd7d0b30d2366ea36b0d7",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image25.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image26-ocr",
+   "source_artifact_id": "yasuko-selection-image26",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image26.jpg",
+   "source_derivative_sha256": "ab6b68f3ae132818d78a728b0cfeb5345e56599da78e8aa1b8c818c27e9f71c2",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image26.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image27-ocr",
+   "source_artifact_id": "yasuko-selection-image27",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image27.jpg",
+   "source_derivative_sha256": "e9ad63e73239e7dde8e0487d0e3c46d14cb26432b887ba1c7212eee39c724c9e",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image27.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image28-ocr",
+   "source_artifact_id": "yasuko-selection-image28",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image28.jpg",
+   "source_derivative_sha256": "51c11613248039a6d7e3cf8eca9f347f467e2c2ebe256652a04672d160c9db48",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image28.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image29-ocr",
+   "source_artifact_id": "yasuko-selection-image29",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image29.jpg",
+   "source_derivative_sha256": "5363201bc76b8b2950f7513396f8e83059f13120adc65b0254e3dbda89e15bb9",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image29.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image30-ocr",
+   "source_artifact_id": "yasuko-selection-image30",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image30.jpg",
+   "source_derivative_sha256": "08a83ee79fb8e0bc6208d931ca7f7a5e6ba8f0b5707db06ab88bcab54588b670",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image30.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image31-ocr",
+   "source_artifact_id": "yasuko-selection-image31",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image31.jpg",
+   "source_derivative_sha256": "a256490eee28a81dc7bbfbc54ed784e8554908254a189b0076f4486cdc61eaf8",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image31.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image32-ocr",
+   "source_artifact_id": "yasuko-selection-image32",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image32.jpg",
+   "source_derivative_sha256": "51e5604c7f39756336742e0166e5f0d4dab1dd17f30577a618a637b10aa2896e",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image32.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image33-ocr",
+   "source_artifact_id": "yasuko-selection-image33",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image33.jpg",
+   "source_derivative_sha256": "a5c25322d0a7138f996f2f8550dd506346a44644df61d6d132dd5d1ad0d87a10",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image33.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image34-ocr",
+   "source_artifact_id": "yasuko-selection-image34",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image34.jpg",
+   "source_derivative_sha256": "f53f0189ab98c89972338957bf83547f2fe44b6ed866f3d805098deeab0e960f",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image34.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image35-ocr",
+   "source_artifact_id": "yasuko-selection-image35",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image35.jpg",
+   "source_derivative_sha256": "7a4ed151689c34f40fb75e4455c29d4b42faba36b98e3e90434f57da720b8f5b",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image35.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image36-ocr",
+   "source_artifact_id": "yasuko-selection-image36",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image36.jpg",
+   "source_derivative_sha256": "e950dae76e96594eea98f01493c2ca7ed9996267df687fafb1f0b869633bb0b9",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image36.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image37-ocr",
+   "source_artifact_id": "yasuko-selection-image37",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image37.jpg",
+   "source_derivative_sha256": "6ed0b4652faa79c7cbb429dbd335e295baa0aac54071e34ae8938ad8689c433b",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image37.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image38-ocr",
+   "source_artifact_id": "yasuko-selection-image38",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image38.jpg",
+   "source_derivative_sha256": "3ec4ced0e6ff8927c2133354c0ac6edc77484a34b0ddc0a44bcc838aeed8bb9e",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image38.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image39-ocr",
+   "source_artifact_id": "yasuko-selection-image39",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image39.jpg",
+   "source_derivative_sha256": "1bb50d98e6b164feb0bf2fc90045e17b1311596a4853d166ad75b350c57f6893",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image39.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image4-ocr",
+   "source_artifact_id": "yasuko-selection-image4",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image4.jpg",
+   "source_derivative_sha256": "108591a9f71af98cd6548e903d11d65f27df12a257aa10e6f4f6589becb6a56a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image4.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image40-ocr",
+   "source_artifact_id": "yasuko-selection-image40",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image40.jpg",
+   "source_derivative_sha256": "cd0c69c70de01782f83f2f63af83e0ba263a91651572170506496268d95f67f6",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image40.txt",
+   "ocr_sha256": "1d0229523287ccb01db54448313dde399255f72b6e953ed9ccad5c50e1035594",
+   "characters": 11,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image41-ocr",
+   "source_artifact_id": "yasuko-selection-image41",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image41.jpg",
+   "source_derivative_sha256": "00ea378fd5b8b31ffb7bff75ab5facd5ed3739697356bf0a0c3b2010ab6a7c24",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image41.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image42-ocr",
+   "source_artifact_id": "yasuko-selection-image42",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image42.jpg",
+   "source_derivative_sha256": "3511a1934c0f763ab78c151b5cca434a01edfbcb1de140ccccb155243e01cc58",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image42.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image43-ocr",
+   "source_artifact_id": "yasuko-selection-image43",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image43.jpg",
+   "source_derivative_sha256": "298b145be7575fa29e967eacadb5742ae7e70b0ea40c3ffa7eb2bebbad2ee73a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image43.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image44-ocr",
+   "source_artifact_id": "yasuko-selection-image44",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image44.jpg",
+   "source_derivative_sha256": "01bf9dc2ce6612c67359f13e6334be090d627fe8b035374c26d6fa199f0b775d",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image44.txt",
+   "ocr_sha256": "dcec4b82e7e21a48323e313cc182510811a6c999b4efdc1a978205e57a7bcfef",
+   "characters": 20,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image45-ocr",
+   "source_artifact_id": "yasuko-selection-image45",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image45.jpg",
+   "source_derivative_sha256": "ca67feebff2efb60e3185f3e806bbed60cd3069642628e668d34e79a2bf4f3ff",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image45.txt",
+   "ocr_sha256": "aca331a9ec5da02624d479f3ea8dcd31cfb02a5132b7e6a01400c48b123c6b29",
+   "characters": 4,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image46-ocr",
+   "source_artifact_id": "yasuko-selection-image46",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image46.jpg",
+   "source_derivative_sha256": "868194feadea27fc7f69d83d489d5c0588344c04430993af32b141953119f306",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image46.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image47-ocr",
+   "source_artifact_id": "yasuko-selection-image47",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image47.jpg",
+   "source_derivative_sha256": "25b7415a75401e118c2a12faf612a43dabed04cbb80826905a41eb1a3e860b4d",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image47.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image48-ocr",
+   "source_artifact_id": "yasuko-selection-image48",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image48.jpg",
+   "source_derivative_sha256": "4855ef9dfb6922e1e7bcc8b349586d9aec56398276de1dc4bf08ef0c3aceb218",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image48.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image5-ocr",
+   "source_artifact_id": "yasuko-selection-image5",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image5.jpg",
+   "source_derivative_sha256": "09b180da99132f90c62f2c48ee78b5cc190367a4344b2d2d47c61d9634fbf3bd",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image5.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image50-ocr",
+   "source_artifact_id": "yasuko-selection-image50",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image50.jpg",
+   "source_derivative_sha256": "91862b2b63603aa355eb19753ea66e72e13921477f2d30c5ca79b6260658048a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image50.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image51-ocr",
+   "source_artifact_id": "yasuko-selection-image51",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image51.jpg",
+   "source_derivative_sha256": "03d54ff1ec8e544bd5dbd34d4d4bd514531deeff739645d939da800ce6c592aa",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image51.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image52-ocr",
+   "source_artifact_id": "yasuko-selection-image52",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image52.jpg",
+   "source_derivative_sha256": "29830d513511b5b4d284964c5a5b1763a51b6ebc7a897b891b6d5ae44a5f8480",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image52.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image53-ocr",
+   "source_artifact_id": "yasuko-selection-image53",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image53.jpg",
+   "source_derivative_sha256": "030c61f24a883fde723988fdf839a35bc95252b8de0809f2dcff2330e9162bd9",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image53.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image54-ocr",
+   "source_artifact_id": "yasuko-selection-image54",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image54.jpg",
+   "source_derivative_sha256": "1beacfb4452c3e48e708f3eaafffc38163f7ff302640f11985289b2935800e6d",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image54.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image55-ocr",
+   "source_artifact_id": "yasuko-selection-image55",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image55.jpg",
+   "source_derivative_sha256": "39be919d32054ece1b43648b956df5e217edf624b0632702a7769946af5e9174",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image55.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image56-ocr",
+   "source_artifact_id": "yasuko-selection-image56",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image56.jpg",
+   "source_derivative_sha256": "58a828082292825d0bf13192ce9acb18c4fec5855ffa9d655e6e781a371e278b",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image56.txt",
+   "ocr_sha256": "0c04d2b718b63e96f59d87c2178a13d59c149fa59fff93f566749cc662c262c6",
+   "characters": 21,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image57-ocr",
+   "source_artifact_id": "yasuko-selection-image57",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image57.jpg",
+   "source_derivative_sha256": "39761d10ac2f93e12d9b435148de5c5ea7b9033f38003ec01dad11a202c07508",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image57.txt",
+   "ocr_sha256": "7da27d082363a545dc7cf1a7e0d034311a7bb896a5efa5c90d5d1ad1055867d3",
+   "characters": 2,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image58-ocr",
+   "source_artifact_id": "yasuko-selection-image58",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image58.jpg",
+   "source_derivative_sha256": "5ad0d1297cf7f3dbc2fc000a6d1b2e154eef37d064af6720adcfcbc4e96bd9c7",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image58.txt",
+   "ocr_sha256": "3e7132e593ac9b2a5dbfa5c7c48f47f162f7097624975dc25329cc2381faea2f",
+   "characters": 19,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image59-ocr",
+   "source_artifact_id": "yasuko-selection-image59",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image59.jpg",
+   "source_derivative_sha256": "ccffc236b8d572f241ff194ad5954e0045eb31607475b4875a61d3c580916af5",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image59.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image6-ocr",
+   "source_artifact_id": "yasuko-selection-image6",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image6.jpg",
+   "source_derivative_sha256": "27fb5f6106eddc41eccf52bfff3472ce847a5eae067c5fba440bd7ea6f686fd9",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image6.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image60-ocr",
+   "source_artifact_id": "yasuko-selection-image60",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image60.jpg",
+   "source_derivative_sha256": "953f15d33843b4602050d534c87a8a0deb95a5f560caab895e3341b92ef41945",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image60.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image61-ocr",
+   "source_artifact_id": "yasuko-selection-image61",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image61.jpg",
+   "source_derivative_sha256": "7b8b0004d65652ac076a5db309ca0cbaf502b641f3278000e7e622f9d43388a3",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image61.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image62-ocr",
+   "source_artifact_id": "yasuko-selection-image62",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image62.jpg",
+   "source_derivative_sha256": "b34361a8115faa415f9e79ba073fe6ee40b7f703122b6807cd8198cba757aed7",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image62.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image63-ocr",
+   "source_artifact_id": "yasuko-selection-image63",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image63.jpg",
+   "source_derivative_sha256": "3c0eee8992a3ecaf47571d70c7dc7ad95b6faf2ddd45cf1cd753daaba32e1a85",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image63.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image64-ocr",
+   "source_artifact_id": "yasuko-selection-image64",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image64.jpg",
+   "source_derivative_sha256": "4a7b6b740a934b4255fa60d76427f63c23b9371498d3befd3a04074594446587",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image64.txt",
+   "ocr_sha256": "396e4ee1b574d134acf5b851fc848cc14909da18aeef777e2a5a9ab518fc45c6",
+   "characters": 14,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image65-ocr",
+   "source_artifact_id": "yasuko-selection-image65",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image65.jpg",
+   "source_derivative_sha256": "82ea8eadbf880732a92da8f2cea91f65c9233c4fe014a520f91c2842e5a3f8d6",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image65.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image66-ocr",
+   "source_artifact_id": "yasuko-selection-image66",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image66.jpg",
+   "source_derivative_sha256": "4fd8dbe66d97883e1b0cf17c1b15bc6c05e63c2687358767d7c46d2dec502e0a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image66.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image67-ocr",
+   "source_artifact_id": "yasuko-selection-image67",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image67.jpg",
+   "source_derivative_sha256": "238441b86040701e12b63cbb851653f3a7f94457d5b183bc0bab5b14d8cb90df",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image67.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image68-ocr",
+   "source_artifact_id": "yasuko-selection-image68",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image68.jpg",
+   "source_derivative_sha256": "139d2ae883963a1a32ab5935dddc0e6cbb898c9a061bc5db71877337aa966d1a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image68.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image69-ocr",
+   "source_artifact_id": "yasuko-selection-image69",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image69.jpg",
+   "source_derivative_sha256": "3bf03a694f7bbf58189bd79cd5ac2fc51bd2d4758df20d0c151d6be50b9bb722",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image69.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image7-ocr",
+   "source_artifact_id": "yasuko-selection-image7",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image7.jpg",
+   "source_derivative_sha256": "1795c9e566c87d207fe4bc979b150154da2d158cd486d3df275acd8c8dcbae00",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image7.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image70-ocr",
+   "source_artifact_id": "yasuko-selection-image70",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image70.jpg",
+   "source_derivative_sha256": "a50a50ad2d0e2499dba587ecba4990e124b21efc5727d801c335784a16120c62",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image70.txt",
+   "ocr_sha256": "91e952c00679db32f50ca5ed4c9a42189e025ba956d87cf7b40a108166e393cd",
+   "characters": 22,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image71-ocr",
+   "source_artifact_id": "yasuko-selection-image71",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image71.jpg",
+   "source_derivative_sha256": "17896ad2fb14b355f0bdbb68600e7dc2bbe8cbef4a788255319f010f2204c543",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image71.txt",
+   "ocr_sha256": "f7872e72b8f60ba0304e1c09aac7b5bb52aadaa3cb2ec49889572c87ec7d1adb",
+   "characters": 8,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image72-ocr",
+   "source_artifact_id": "yasuko-selection-image72",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image72.jpg",
+   "source_derivative_sha256": "d365c9028b9598a78498775a393c3d14bfbf085499029f27e4e210608da4ecfd",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image72.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image73-ocr",
+   "source_artifact_id": "yasuko-selection-image73",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image73.jpg",
+   "source_derivative_sha256": "8a90df32def7f5c8d894fd83a2433f88846dca47302ca909fdcebc85560820f6",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image73.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image74-ocr",
+   "source_artifact_id": "yasuko-selection-image74",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image74.jpg",
+   "source_derivative_sha256": "9233af66855fc42526a9935e1d02552f1d72371547f5de27634456d7c4fd5894",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image74.txt",
+   "ocr_sha256": "8d0937d81f0e911cdb5c8c90279e7e41b20fc861f4c4e97d0f0cf56ae127e5a3",
+   "characters": 4,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image75-ocr",
+   "source_artifact_id": "yasuko-selection-image75",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image75.jpg",
+   "source_derivative_sha256": "a568ef13b476fc092ac6d7205a824774dce86e54e39fae12c435715ea0d37fe9",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image75.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image76-ocr",
+   "source_artifact_id": "yasuko-selection-image76",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image76.jpg",
+   "source_derivative_sha256": "e06e07817200ce9461dcb01f4b3557683b75442d5bd1981dc6b93f25dbe35931",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image76.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image77-ocr",
+   "source_artifact_id": "yasuko-selection-image77",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image77.jpg",
+   "source_derivative_sha256": "3d032601edf5190aa4274ece118c536009574712c02a3c5d6d0da0c9d801ada3",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image77.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image78-ocr",
+   "source_artifact_id": "yasuko-selection-image78",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image78.jpg",
+   "source_derivative_sha256": "50045c573afdd87666e156f2051d4736703c8c6368999e5d0116e9bf23bec591",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image78.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image79-ocr",
+   "source_artifact_id": "yasuko-selection-image79",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image79.jpg",
+   "source_derivative_sha256": "b51296650873947a1697c34564e92bd1da644fe79d3ad4a8676215bf395163f2",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image79.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image8-ocr",
+   "source_artifact_id": "yasuko-selection-image8",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image8.jpg",
+   "source_derivative_sha256": "cba0213fff1516763691b5e433fb7dcabdbb6fc02394612cc368dc1de2fb5b86",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image8.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image80-ocr",
+   "source_artifact_id": "yasuko-selection-image80",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image80.jpg",
+   "source_derivative_sha256": "18ce1c259397bd531557e69e150d2674c26ba3eb5563674410b4f531b1c95737",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image80.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image81-ocr",
+   "source_artifact_id": "yasuko-selection-image81",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image81.jpg",
+   "source_derivative_sha256": "01495c1c50e7051118556c3ace392a9b54de4f9b71979acc7d4c05279c9fe8f8",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image81.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image82-ocr",
+   "source_artifact_id": "yasuko-selection-image82",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image82.jpg",
+   "source_derivative_sha256": "feef676744fa72f743c0fb7bc366df07c9587bc6767ce91d329b82915cf0c5e0",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image82.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image83-ocr",
+   "source_artifact_id": "yasuko-selection-image83",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image83.jpg",
+   "source_derivative_sha256": "d092084197c6a89c2570d3048ac0c577192058be315464e07d76410730a6bade",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image83.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image84-ocr",
+   "source_artifact_id": "yasuko-selection-image84",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image84.jpg",
+   "source_derivative_sha256": "9d871f0599729d3a9cb35f0a6bb64718450f6fc06dcab70a4dcdc1762a38eee2",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image84.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image85-ocr",
+   "source_artifact_id": "yasuko-selection-image85",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image85.jpg",
+   "source_derivative_sha256": "bfa12318ed2f0efea48bde5335d84ca031192b9702dbc444b44803880fa3c153",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image85.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image86-ocr",
+   "source_artifact_id": "yasuko-selection-image86",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image86.jpg",
+   "source_derivative_sha256": "8985935bb08cae77411ef6d49fe150677962a9155232f72d12c8b497e264c7e8",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image86.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image88-ocr",
+   "source_artifact_id": "yasuko-selection-image88",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image88.jpg",
+   "source_derivative_sha256": "6905fe27140623d174d737eb557f19816459ef58c19c39e4ae16e55599aa7799",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image88.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image9-ocr",
+   "source_artifact_id": "yasuko-selection-image9",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image9.jpg",
+   "source_derivative_sha256": "feea7c2e5b1f2b5b32f0656dc7ab418b13c9b2c05e912f8cffe1b46aa69b7abf",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image9.txt",
+   "ocr_sha256": "bd3c5d3dd6369aff7d87772be7c3316a1bc5b1eaa1ccb22c9589ba3e3f3c22b9",
+   "characters": 6,
+   "status": "text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image91-ocr",
+   "source_artifact_id": "yasuko-selection-image91",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image91.jpg",
+   "source_derivative_sha256": "44f655e0a5cde72bb9d8de1c09ca62b6c77c852d6826e137f67a4026e9da5659",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image91.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image92-ocr",
+   "source_artifact_id": "yasuko-selection-image92",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image92.jpg",
+   "source_derivative_sha256": "c209ec1adb630ab16d3749d3efa748e1f9b18c76b9043495cf3272442d1d387e",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image92.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image94-ocr",
+   "source_artifact_id": "yasuko-selection-image94",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image94.jpg",
+   "source_derivative_sha256": "7efc28d59978f55cf501fbc76c2e4777d12a3187c4263d59fcc4fad8b6db1367",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image94.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image95-ocr",
+   "source_artifact_id": "yasuko-selection-image95",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image95.jpg",
+   "source_derivative_sha256": "43abbac2bfb0df16a4e3170ea14efba13a3cb5cf07585a50c94e2a1fd7c8ec26",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image95.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image96-ocr",
+   "source_artifact_id": "yasuko-selection-image96",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image96.jpg",
+   "source_derivative_sha256": "2cf5e5b8e020e33ce18ead10234071cf4218d87ac72d6f5452ecd2cfba09938a",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image96.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image97-ocr",
+   "source_artifact_id": "yasuko-selection-image97",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image97.jpg",
+   "source_derivative_sha256": "ba0d88cb889fb681facdac3f73a3bf083d3b707250a304664832bde0808f2c96",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image97.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image98-ocr",
+   "source_artifact_id": "yasuko-selection-image98",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image98.jpg",
+   "source_derivative_sha256": "00b167bd52e8c875dac387f66b6327bf8cf2cc0ea8a625ba6fb0e2ac60bb60bf",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image98.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  },
+  {
+   "artifact_id": "yasuko-selection-image99-ocr",
+   "source_artifact_id": "yasuko-selection-image99",
+   "source_derivative_path": "research/artifacts/external/yasuko-selection/derivatives/image99.jpg",
+   "source_derivative_sha256": "4c195c5cc78d1e5b9d7e7168d67758dee62ecedf03d470cec0ef6981cfa474de",
+   "ocr_path": "research/artifacts/external/yasuko-selection/ocr/yasuko-selection-image99.txt",
+   "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "characters": 0,
+   "status": "no_text_detected",
+   "languages_requested": [
+    "ja-JP",
+    "en-US"
+   ],
+   "engine": "Apple Vision VNRecognizeTextRequest accurate",
+   "review_status": "machine_ocr_unverified"
+  }
+ ]
+}

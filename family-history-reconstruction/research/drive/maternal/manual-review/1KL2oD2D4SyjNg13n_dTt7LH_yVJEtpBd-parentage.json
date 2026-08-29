@@ -1,0 +1,19 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd-parentage-manual-review",
+ "source_artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd",
+ "source_repository_path": "research/artifacts/drive/maternal/derivatives/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd--ojiichama-death-newspaper.jpg",
+ "source_sha256": "432d6b38059f68addb624e91cd483053309ff00b9f230fd1bb40bf55617d473a",
+ "reviewed_at": "2026-08-24T13:56:00-04:00",
+ "review_method": "manual visual comparison against an auto-oriented, contrast-enhanced temporary crop; the crop is disposable instrumentation and the hashed source image remains the evidence owner",
+ "reviewer_type": "AI_agent_manual_visual_comparison",
+ "publication_visible": "週刊新潮",
+ "section_visible": "墓碑",
+ "publication_date_status": "not yet identified",
+ "source_text": "松井氏は明治四十一年、パリに生れた。父は外交官で、後には駐仏大使、外務大臣も務めた松井慶四郎男爵。",
+ "translation_en": "Matsui was born in Paris in Meiji 41 (1908). His father was the diplomat Baron Keishiro Matsui, who later served as ambassador to France and as foreign minister.",
+ "claim_supported": "Akira Matsui was a son of Baron Keishiro Matsui.",
+ "stronger_claim_not_supported_by_reviewed_sentence": "Akira Matsui was Keishiro Matsui's eldest son.",
+ "google_lens_discrepancy": "IMG_1937.PNG displays an English Lens overlay containing 'eldest son'; that stronger wording is not present in the manually compared Japanese sentence.",
+ "second_human_japanese_review": "pending"
+}

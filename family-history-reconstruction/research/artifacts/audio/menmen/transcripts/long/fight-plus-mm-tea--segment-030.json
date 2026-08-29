@@ -1,0 +1,428 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 7000
+			},
+			"text": "この時ってね、電話が駆ってきたんだけど、どうすればいいの?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:08,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 8000
+			},
+			"text": "えー"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,000",
+				"to": "00:00:12,000"
+			},
+			"offsets": {
+				"from": 8000,
+				"to": 12000
+			},
+			"text": "押すと、こんな風な出てくるじゃない?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,000",
+				"to": "00:00:15,000"
+			},
+			"offsets": {
+				"from": 12000,
+				"to": 15000
+			},
+			"text": "電話してる時、やでみていい?"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,000",
+				"to": "00:00:20,000"
+			},
+			"offsets": {
+				"from": 15000,
+				"to": 20000
+			},
+			"text": "緑のボタンがあるはずなんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,000",
+				"to": "00:00:24,000"
+			},
+			"offsets": {
+				"from": 20000,
+				"to": 24000
+			},
+			"text": "これ、こうやって出てくるからね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,000",
+				"to": "00:00:26,000"
+			},
+			"offsets": {
+				"from": 24000,
+				"to": 26000
+			},
+			"text": "これ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,000",
+				"to": "00:00:34,000"
+			},
+			"offsets": {
+				"from": 26000,
+				"to": 34000
+			},
+			"text": "なんかね、ここにいろんなことが書いてあるわけ"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,000",
+				"to": "00:00:40,000"
+			},
+			"offsets": {
+				"from": 34000,
+				"to": 40000
+			},
+			"text": "「You should keep your time to sleep」とか書いてある"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 40000,
+				"to": 44000
+			},
+			"text": "そんな、いつもその後、電話してたりすると"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:46,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 46000
+			},
+			"text": "それで出会ってないんだけどね"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:46,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 46000,
+				"to": 50000
+			},
+			"text": "あの、iPhoneでやってるんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,000",
+				"to": "00:00:54,000"
+			},
+			"offsets": {
+				"from": 50000,
+				"to": 54000
+			},
+			"text": "でもちょうど、it's time for you to sleepだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:54,000",
+				"to": "00:00:56,000"
+			},
+			"offsets": {
+				"from": 54000,
+				"to": 56000
+			},
+			"text": "「You should keep your time to sleep」"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,000",
+				"to": "00:00:58,000"
+			},
+			"offsets": {
+				"from": 56000,
+				"to": 58000
+			},
+			"text": "「You should keep your time to sleep」"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:58,000",
+				"to": "00:01:00,000"
+			},
+			"offsets": {
+				"from": 58000,
+				"to": 60000
+			},
+			"text": "「You should keep your time to sleep」"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:04,000"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 64000
+			},
+			"text": "「いや、ずっと座ってるとね、You should keep your time to sleep」とか"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:04,000",
+				"to": "00:01:06,000"
+			},
+			"offsets": {
+				"from": 64000,
+				"to": 66000
+			},
+			"text": "「出てくるよ」"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,000",
+				"to": "00:01:12,000"
+			},
+			"offsets": {
+				"from": 66000,
+				"to": 72000
+			},
+			"text": "「うん」"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:12,000",
+				"to": "00:01:16,000"
+			},
+			"offsets": {
+				"from": 72000,
+				"to": 76000
+			},
+			"text": "え、え、え、めめに見せたい写真があるんだけど"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:16,000",
+				"to": "00:01:18,000"
+			},
+			"offsets": {
+				"from": 76000,
+				"to": 78000
+			},
+			"text": "いっぱい、昨日見てた"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:18,000",
+				"to": "00:01:21,000"
+			},
+			"offsets": {
+				"from": 78000,
+				"to": 81000
+			},
+			"text": "古いやつね、あれ2013年とか"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,000",
+				"to": "00:01:25,000"
+			},
+			"offsets": {
+				"from": 81000,
+				"to": 85000
+			},
+			"text": "そこに行ったとこに座るとこがある"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:25,000",
+				"to": "00:01:27,000"
+			},
+			"offsets": {
+				"from": 85000,
+				"to": 87000
+			},
+			"text": "で、テーブルもあってね"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,000",
+				"to": "00:01:29,000"
+			},
+			"offsets": {
+				"from": 87000,
+				"to": 89000
+			},
+			"text": "ラヒムが乾かしても大丈夫とか"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:29,000",
+				"to": "00:01:33,000"
+			},
+			"offsets": {
+				"from": 89000,
+				"to": 93000
+			},
+			"text": "これをじゃあどこに下げてたか"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:33,000",
+				"to": "00:01:43,000"
+			},
+			"offsets": {
+				"from": 93000,
+				"to": 103000
+			},
+			"text": "あ、下げてあげる、そこに"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,000",
+				"to": "00:01:47,000"
+			},
+			"offsets": {
+				"from": 103000,
+				"to": 107000
+			},
+			"text": "でもね、せっかく日が日本にいる日が"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:47,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 107000,
+				"to": 111000
+			},
+			"text": "日にちを伸ばしたりしてくれてるんだから"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:53,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 113000
+			},
+			"text": "「どうしたら楽しかった?」"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,000",
+				"to": "00:01:55,000"
+			},
+			"offsets": {
+				"from": 113000,
+				"to": 115000
+			},
+			"text": "「いやいや、全然楽しいや」だって"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,000",
+				"to": "00:01:57,000"
+			},
+			"offsets": {
+				"from": 115000,
+				"to": 117000
+			},
+			"text": "「全然大丈夫?」"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:57,000",
+				"to": "00:02:26,980"
+			},
+			"offsets": {
+				"from": 117000,
+				"to": 146980
+			},
+			"text": "お疲れ様でした"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:27,000",
+				"to": "00:02:39,000"
+			},
+			"offsets": {
+				"from": 147000,
+				"to": 159000
+			},
+			"text": "持ってくる"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:39,000",
+				"to": "00:02:45,000"
+			},
+			"offsets": {
+				"from": 159000,
+				"to": 165000
+			},
+			"text": "これでいいと思う"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,000",
+				"to": "00:02:59,000"
+			},
+			"offsets": {
+				"from": 177000,
+				"to": 179000
+			},
+			"text": "ありがとうございました。"
+		}
+	]
+}

@@ -1,0 +1,3279 @@
+{
+ "schema_version": "1.0",
+ "source_audio": "research/artifacts/audio/menmen/new-recording-7.m4a",
+ "source_sha256": "fcc0123d5c5db4980b52297c96f9ede6ed536ebeec2d46d5754d17bffd3dc3be",
+ "segment_seconds": 180,
+ "segment_count": 6,
+ "result": {
+  "language": "en",
+  "language_mix": {
+   "en": 6
+  }
+ },
+ "transcription": [
+  {
+   "timestamps": {
+    "from": "00:00:00,000",
+    "to": "00:00:07,000"
+   },
+   "offsets": {
+    "from": 0,
+    "to": 7000
+   },
+   "text": " Okay, go ahead.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:07,000",
+    "to": "00:00:25,000"
+   },
+   "offsets": {
+    "from": 7000,
+    "to": 25000
+   },
+   "text": " Even if you feel like he's late, because there's nobody to take a decision for you,",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:25,000",
+    "to": "00:00:32,000"
+   },
+   "offsets": {
+    "from": 25000,
+    "to": 32000
+   },
+   "text": " in any case we have to do some procedures.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:32,000",
+    "to": "00:00:37,000"
+   },
+   "offsets": {
+    "from": 32000,
+    "to": 37000
+   },
+   "text": " Okay?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:37,000",
+    "to": "00:00:45,000"
+   },
+   "offsets": {
+    "from": 37000,
+    "to": 45000
+   },
+   "text": " There are some things that relate to you, but there are some things that relate to us as a family,",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:45,000",
+    "to": "00:00:48,000"
+   },
+   "offsets": {
+    "from": 45000,
+    "to": 48000
+   },
+   "text": " and relate to this family where we are.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:48,000",
+    "to": "00:00:53,000"
+   },
+   "offsets": {
+    "from": 48000,
+    "to": 53000
+   },
+   "text": " Yes.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:00:53,000",
+    "to": "00:01:03,000"
+   },
+   "offsets": {
+    "from": 53000,
+    "to": 63000
+   },
+   "text": " And you are very good at helping people, starting things like what you already said before.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:03,000",
+    "to": "00:01:06,000"
+   },
+   "offsets": {
+    "from": 63000,
+    "to": 66000
+   },
+   "text": " I am telling you, hey, you need me.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:06,000",
+    "to": "00:01:08,000"
+   },
+   "offsets": {
+    "from": 66000,
+    "to": 68000
+   },
+   "text": " How can I help you?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:08,000",
+    "to": "00:01:10,000"
+   },
+   "offsets": {
+    "from": 68000,
+    "to": 70000
+   },
+   "text": " No, it's too late.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:10,000",
+    "to": "00:01:25,000"
+   },
+   "offsets": {
+    "from": 70000,
+    "to": 85000
+   },
+   "text": " It requires a lot of energy to do, just to overcome such an atomic bomb that you're struggling.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:25,000",
+    "to": "00:01:40,000"
+   },
+   "offsets": {
+    "from": 85000,
+    "to": 100000
+   },
+   "text": " And then you tell me, hey, send me an email.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:40,000",
+    "to": "00:01:42,000"
+   },
+   "offsets": {
+    "from": 100000,
+    "to": 102000
+   },
+   "text": " Why write it down here?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:42,000",
+    "to": "00:01:45,000"
+   },
+   "offsets": {
+    "from": 102000,
+    "to": 105000
+   },
+   "text": " I am the one who has to be speaking.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:45,000",
+    "to": "00:01:47,000"
+   },
+   "offsets": {
+    "from": 105000,
+    "to": 107000
+   },
+   "text": " You said you have to tell me something important.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:47,000",
+    "to": "00:01:52,000"
+   },
+   "offsets": {
+    "from": 107000,
+    "to": 112000
+   },
+   "text": " I have to tell you a lot of things important, but...",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:52,000",
+    "to": "00:01:53,000"
+   },
+   "offsets": {
+    "from": 112000,
+    "to": 113000
+   },
+   "text": " I am the one who has to be shut down.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:53,000",
+    "to": "00:01:54,000"
+   },
+   "offsets": {
+    "from": 113000,
+    "to": 114000
+   },
+   "text": " Okay, go on.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:01:54,000",
+    "to": "00:02:03,000"
+   },
+   "offsets": {
+    "from": 114000,
+    "to": 123000
+   },
+   "text": " I am trying my best to listen, but you're perseverating on this initial reaction that I had.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:03,000",
+    "to": "00:02:06,000"
+   },
+   "offsets": {
+    "from": 123000,
+    "to": 126000
+   },
+   "text": " So, can you actually tell me what the important thing is?",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:06,000",
+    "to": "00:02:07,000"
+   },
+   "offsets": {
+    "from": 126000,
+    "to": 127000
+   },
+   "text": " Yes.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:07,000",
+    "to": "00:02:08,000"
+   },
+   "offsets": {
+    "from": 127000,
+    "to": 128000
+   },
+   "text": " Yes.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:08,000",
+    "to": "00:02:09,000"
+   },
+   "offsets": {
+    "from": 128000,
+    "to": 129000
+   },
+   "text": " I just want to...",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:09,000",
+    "to": "00:02:19,000"
+   },
+   "offsets": {
+    "from": 129000,
+    "to": 139000
+   },
+   "text": " For information, you know this pattern that you have to be in the whole night.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:19,000",
+    "to": "00:02:22,000"
+   },
+   "offsets": {
+    "from": 139000,
+    "to": 142000
+   },
+   "text": " And after one a.m. that I...",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:22,000",
+    "to": "00:02:33,000"
+   },
+   "offsets": {
+    "from": 142000,
+    "to": 153000
+   },
+   "text": " That you are supposed that I am sleeping, you are going out and buying all these types of food that I understand to eat.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:33,000",
+    "to": "00:02:49,000"
+   },
+   "offsets": {
+    "from": 153000,
+    "to": 169000
+   },
+   "text": " If you want to eat, I rather prefer that we have this wonderful soup, or even bell, or anything",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:49,000",
+    "to": "00:02:50,000"
+   },
+   "offsets": {
+    "from": 169000,
+    "to": 170000
+   },
+   "text": " that you can eat, you can eat.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:50,000",
+    "to": "00:02:51,000"
+   },
+   "offsets": {
+    "from": 170000,
+    "to": 171000
+   },
+   "text": " You can eat food.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:51,000",
+    "to": "00:02:53,000"
+   },
+   "offsets": {
+    "from": 171000,
+    "to": 173000
+   },
+   "text": " Food, so you can eat.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:53,000",
+    "to": "00:02:55,000"
+   },
+   "offsets": {
+    "from": 173000,
+    "to": 175000
+   },
+   "text": " Rather than getting the...",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:02:55,000",
+    "to": "00:02:56,000"
+   },
+   "offsets": {
+    "from": 175000,
+    "to": 176000
+   },
+   "text": " Other words.",
+   "source_segment_index": 0
+  },
+  {
+   "timestamps": {
+    "from": "00:03:00,000",
+    "to": "00:03:07,000"
+   },
+   "offsets": {
+    "from": 180000,
+    "to": 187000
+   },
+   "text": " I could have been feeling with minimal nutrition.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:07,000",
+    "to": "00:03:25,000"
+   },
+   "offsets": {
+    "from": 187000,
+    "to": 205000
+   },
+   "text": " So I will be able to see how at this moment you are still having all this stress.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:29,000",
+    "to": "00:03:34,000"
+   },
+   "offsets": {
+    "from": 209000,
+    "to": 214000
+   },
+   "text": " Okay, what's the next item?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:34,000",
+    "to": "00:03:35,000"
+   },
+   "offsets": {
+    "from": 214000,
+    "to": 215000
+   },
+   "text": " What else?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:35,000",
+    "to": "00:03:41,000"
+   },
+   "offsets": {
+    "from": 215000,
+    "to": 221000
+   },
+   "text": " The next item is that they gave you this present.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:41,000",
+    "to": "00:03:52,000"
+   },
+   "offsets": {
+    "from": 221000,
+    "to": 232000
+   },
+   "text": " Like all we see, prepare some presents for you.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:52,000",
+    "to": "00:03:55,000"
+   },
+   "offsets": {
+    "from": 232000,
+    "to": 235000
+   },
+   "text": " For Taiji and me, she has this envelope.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:55,000",
+    "to": "00:03:58,000"
+   },
+   "offsets": {
+    "from": 235000,
+    "to": 238000
+   },
+   "text": " Your grandfather also has this envelope.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:03:58,000",
+    "to": "00:04:05,000"
+   },
+   "offsets": {
+    "from": 238000,
+    "to": 245000
+   },
+   "text": " So they are asking me, hey, is it okay to take this to him?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:05,000",
+    "to": "00:04:09,000"
+   },
+   "offsets": {
+    "from": 245000,
+    "to": 249000
+   },
+   "text": " I feel that I cannot do that.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:09,000",
+    "to": "00:04:18,000"
+   },
+   "offsets": {
+    "from": 249000,
+    "to": 258000
+   },
+   "text": " I feel that I need to see you and receive that from you.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:18,000",
+    "to": "00:04:22,000"
+   },
+   "offsets": {
+    "from": 258000,
+    "to": 262000
+   },
+   "text": " And I hope that I am fine.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:22,000",
+    "to": "00:04:24,000"
+   },
+   "offsets": {
+    "from": 262000,
+    "to": 264000
+   },
+   "text": " Okay, what's the next item?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:24,000",
+    "to": "00:04:36,000"
+   },
+   "offsets": {
+    "from": 264000,
+    "to": 276000
+   },
+   "text": " The next item is something more personal.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:36,000",
+    "to": "00:04:39,000"
+   },
+   "offsets": {
+    "from": 276000,
+    "to": 279000
+   },
+   "text": " I would like to notify you that I got the message.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:39,000",
+    "to": "00:04:49,000"
+   },
+   "offsets": {
+    "from": 279000,
+    "to": 289000
+   },
+   "text": " Be sure that I understand what you are trying to tell you.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:49,000",
+    "to": "00:04:51,000"
+   },
+   "offsets": {
+    "from": 289000,
+    "to": 291000
+   },
+   "text": " Be sure.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:51,000",
+    "to": "00:04:53,000"
+   },
+   "offsets": {
+    "from": 291000,
+    "to": 293000
+   },
+   "text": " Which is what?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:04:53,000",
+    "to": "00:05:03,000"
+   },
+   "offsets": {
+    "from": 293000,
+    "to": 303000
+   },
+   "text": " What if you are that you want to die, that you are a pig, that you are a person that don't necessarily be able to help you.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:03,000",
+    "to": "00:05:12,000"
+   },
+   "offsets": {
+    "from": 303000,
+    "to": 312000
+   },
+   "text": " And should be able to donate to help some other people rather than wasting my time.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:16,000",
+    "to": "00:05:17,000"
+   },
+   "offsets": {
+    "from": 316000,
+    "to": 317000
+   },
+   "text": " Right?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:17,000",
+    "to": "00:05:18,000"
+   },
+   "offsets": {
+    "from": 317000,
+    "to": 318000
+   },
+   "text": " I got it.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:18,000",
+    "to": "00:05:19,000"
+   },
+   "offsets": {
+    "from": 318000,
+    "to": 319000
+   },
+   "text": " Okay.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:19,000",
+    "to": "00:05:20,000"
+   },
+   "offsets": {
+    "from": 319000,
+    "to": 320000
+   },
+   "text": " What else?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:20,000",
+    "to": "00:05:34,000"
+   },
+   "offsets": {
+    "from": 320000,
+    "to": 334000
+   },
+   "text": " The other one is that I know that you insist in your, in your collaborative, your darse is getting, it's getting a lot like, like champs.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:34,000",
+    "to": "00:05:43,000"
+   },
+   "offsets": {
+    "from": 334000,
+    "to": 343000
+   },
+   "text": " You know, from now, the moral is around Trump because he is getting that.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:43,000",
+    "to": "00:05:45,000"
+   },
+   "offsets": {
+    "from": 343000,
+    "to": 345000
+   },
+   "text": " And that is against opening.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:45,000",
+    "to": "00:05:48,000"
+   },
+   "offsets": {
+    "from": 345000,
+    "to": 348000
+   },
+   "text": " Who can deny that he is not an imposter?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:48,000",
+    "to": "00:05:52,000"
+   },
+   "offsets": {
+    "from": 348000,
+    "to": 352000
+   },
+   "text": " Who can not deny that he is a billionaire?",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:05:52,000",
+    "to": "00:06:00,000"
+   },
+   "offsets": {
+    "from": 352000,
+    "to": 360000
+   },
+   "text": " But now all the billionaires are using this.",
+   "source_segment_index": 1
+  },
+  {
+   "timestamps": {
+    "from": "00:06:00,000",
+    "to": "00:06:09,240"
+   },
+   "offsets": {
+    "from": 360000,
+    "to": 369240
+   },
+   "text": " dream or not. Because his aunt T insists that he has a beautiful, beautiful, beautiful,",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:09,240",
+    "to": "00:06:15,000"
+   },
+   "offsets": {
+    "from": 369240,
+    "to": 375000
+   },
+   "text": " beautiful company which is everything in the state and everybody.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:15,000",
+    "to": "00:06:17,000"
+   },
+   "offsets": {
+    "from": 375000,
+    "to": 377000
+   },
+   "text": " Ok, what else?",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:17,000",
+    "to": "00:06:33,000"
+   },
+   "offsets": {
+    "from": 377000,
+    "to": 393000
+   },
+   "text": " So, you, but he persists in his vision, you are insisting that you have to go to hell, you have to kill yourself,",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:33,000",
+    "to": "00:06:38,000"
+   },
+   "offsets": {
+    "from": 393000,
+    "to": 398000
+   },
+   "text": " there are a lot of things you pick up that narrative.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:38,000",
+    "to": "00:06:53,000"
+   },
+   "offsets": {
+    "from": 398000,
+    "to": 413000
+   },
+   "text": " Step by step, you are dragging yourself and the people around you to that reality, because",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:06:53,000",
+    "to": "00:07:04,000"
+   },
+   "offsets": {
+    "from": 413000,
+    "to": 424000
+   },
+   "text": " there's no reality yet. But you are envisioning your funeral. You are envisioning your kid",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:04,000",
+    "to": "00:07:13,000"
+   },
+   "offsets": {
+    "from": 424000,
+    "to": 433000
+   },
+   "text": " and you are looking to your aunt, totally destroyed, you are dis-destroyed, you are acquainted,",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:13,000",
+    "to": "00:07:30,000"
+   },
+   "offsets": {
+    "from": 433000,
+    "to": 450000
+   },
+   "text": " totally destroyed. But that's your vision. That's what you see, you visualize, you look for.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:30,000",
+    "to": "00:07:35,000"
+   },
+   "offsets": {
+    "from": 450000,
+    "to": 455000
+   },
+   "text": " No matter what is going there, you are learning.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:35,000",
+    "to": "00:07:39,000"
+   },
+   "offsets": {
+    "from": 455000,
+    "to": 459000
+   },
+   "text": " Ok, what's next?",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:39,000",
+    "to": "00:07:45,000"
+   },
+   "offsets": {
+    "from": 459000,
+    "to": 465000
+   },
+   "text": " The next is, the next narrative is the opposite.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:07:45,000",
+    "to": "00:08:06,000"
+   },
+   "offsets": {
+    "from": 465000,
+    "to": 486000
+   },
+   "text": " You see a guy who is, who is totally fake, insisting to everybody that is in today's room and everybody now is making a difference. Or not?",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:06,000",
+    "to": "00:08:27,000"
+   },
+   "offsets": {
+    "from": 486000,
+    "to": 507000
+   },
+   "text": " Ok, what's next? Is that it? Or do you have anything else to say?",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:27,000",
+    "to": "00:08:37,000"
+   },
+   "offsets": {
+    "from": 507000,
+    "to": 517000
+   },
+   "text": " No, no, it's different. On the other hand, there are, uh, I think that we are doing a problem.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:37,000",
+    "to": "00:08:44,000"
+   },
+   "offsets": {
+    "from": 517000,
+    "to": 524000
+   },
+   "text": " Thank you, I look like it's both of you, you know, right?",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:44,000",
+    "to": "00:08:46,000"
+   },
+   "offsets": {
+    "from": 524000,
+    "to": 526000
+   },
+   "text": " Huh? You don't know.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:46,000",
+    "to": "00:08:48,000"
+   },
+   "offsets": {
+    "from": 526000,
+    "to": 528000
+   },
+   "text": " Oh, sorry.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:48,000",
+    "to": "00:08:56,000"
+   },
+   "offsets": {
+    "from": 528000,
+    "to": 536000
+   },
+   "text": " No, it's like one with, like that. I saw your little time grateful, could you see me and you're 18 minutes.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:56,000",
+    "to": "00:08:59,000"
+   },
+   "offsets": {
+    "from": 536000,
+    "to": 539000
+   },
+   "text": " It's fine, it's fine. It's only 64, it's only 64.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:08:59,000",
+    "to": "00:09:00,040"
+   },
+   "offsets": {
+    "from": 539000,
+    "to": 540040
+   },
+   "text": " No, I'm sorry.",
+   "source_segment_index": 2
+  },
+  {
+   "timestamps": {
+    "from": "00:09:00,000",
+    "to": "00:09:02,000"
+   },
+   "offsets": {
+    "from": 540000,
+    "to": 542000
+   },
+   "text": " It's only 64GB, it's nice to have an extra one.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:02,000",
+    "to": "00:09:07,000"
+   },
+   "offsets": {
+    "from": 542000,
+    "to": 547000
+   },
+   "text": " Especially since if you're gonna take videos, one video is like 5GB.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:07,000",
+    "to": "00:09:10,000"
+   },
+   "offsets": {
+    "from": 547000,
+    "to": 550000
+   },
+   "text": " It's completely justifiable.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:10,000",
+    "to": "00:09:15,000"
+   },
+   "offsets": {
+    "from": 550000,
+    "to": 555000
+   },
+   "text": " What's next?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:15,000",
+    "to": "00:09:29,000"
+   },
+   "offsets": {
+    "from": 555000,
+    "to": 569000
+   },
+   "text": " If there is a person, if there is a person, you can understand the language.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:30,000",
+    "to": "00:09:34,000"
+   },
+   "offsets": {
+    "from": 570000,
+    "to": 574000
+   },
+   "text": " I can help you is Kosuke's mom.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:34,000",
+    "to": "00:09:39,000"
+   },
+   "offsets": {
+    "from": 574000,
+    "to": 579000
+   },
+   "text": " Because that's something that you don't know about.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:39,000",
+    "to": "00:09:42,000"
+   },
+   "offsets": {
+    "from": 579000,
+    "to": 582000
+   },
+   "text": " Kosuke-san has his brother.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:42,000",
+    "to": "00:09:44,000"
+   },
+   "offsets": {
+    "from": 582000,
+    "to": 584000
+   },
+   "text": " Do you know that?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:44,000",
+    "to": "00:09:48,000"
+   },
+   "offsets": {
+    "from": 584000,
+    "to": 588000
+   },
+   "text": " No, I mean yes, I did. He has multiple brothers.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:48,000",
+    "to": "00:09:50,000"
+   },
+   "offsets": {
+    "from": 588000,
+    "to": 590000
+   },
+   "text": " No, only one brother.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:50,000",
+    "to": "00:09:54,000"
+   },
+   "offsets": {
+    "from": 590000,
+    "to": 594000
+   },
+   "text": " And do you know what he...",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:54,000",
+    "to": "00:09:56,000"
+   },
+   "offsets": {
+    "from": 594000,
+    "to": 596000
+   },
+   "text": " Destiny?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:56,000",
+    "to": "00:09:57,000"
+   },
+   "offsets": {
+    "from": 596000,
+    "to": 597000
+   },
+   "text": " No.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:09:59,000",
+    "to": "00:10:05,000"
+   },
+   "offsets": {
+    "from": 599000,
+    "to": 605000
+   },
+   "text": " I don't know the details, but I know because he attended our wedding.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:05,000",
+    "to": "00:10:12,000"
+   },
+   "offsets": {
+    "from": 605000,
+    "to": 612000
+   },
+   "text": " And he had a kind of ATSD.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:12,000",
+    "to": "00:10:17,000"
+   },
+   "offsets": {
+    "from": 612000,
+    "to": 617000
+   },
+   "text": " And his life was completely different to Kosuke's.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:18,000",
+    "to": "00:10:22,000"
+   },
+   "offsets": {
+    "from": 618000,
+    "to": 622000
+   },
+   "text": " Because Kosuke-san also has his own limitations.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:22,000",
+    "to": "00:10:29,000"
+   },
+   "offsets": {
+    "from": 622000,
+    "to": 629000
+   },
+   "text": " But he can manage to, you know, to be enjoying his life a lot.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:30,000",
+    "to": "00:10:31,000"
+   },
+   "offsets": {
+    "from": 630000,
+    "to": 631000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:31,000",
+    "to": "00:10:32,000"
+   },
+   "offsets": {
+    "from": 631000,
+    "to": 632000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:32,000",
+    "to": "00:10:33,000"
+   },
+   "offsets": {
+    "from": 632000,
+    "to": 633000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:33,000",
+    "to": "00:10:34,000"
+   },
+   "offsets": {
+    "from": 633000,
+    "to": 634000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:34,000",
+    "to": "00:10:35,000"
+   },
+   "offsets": {
+    "from": 634000,
+    "to": 635000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:35,000",
+    "to": "00:10:36,000"
+   },
+   "offsets": {
+    "from": 635000,
+    "to": 636000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:36,000",
+    "to": "00:10:37,000"
+   },
+   "offsets": {
+    "from": 636000,
+    "to": 637000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:37,000",
+    "to": "00:10:38,000"
+   },
+   "offsets": {
+    "from": 637000,
+    "to": 638000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:38,000",
+    "to": "00:10:39,000"
+   },
+   "offsets": {
+    "from": 638000,
+    "to": 639000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:39,000",
+    "to": "00:10:40,000"
+   },
+   "offsets": {
+    "from": 639000,
+    "to": 640000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:40,000",
+    "to": "00:10:41,000"
+   },
+   "offsets": {
+    "from": 640000,
+    "to": 641000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:41,000",
+    "to": "00:10:42,000"
+   },
+   "offsets": {
+    "from": 641000,
+    "to": 642000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:42,000",
+    "to": "00:10:43,000"
+   },
+   "offsets": {
+    "from": 642000,
+    "to": 643000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:43,000",
+    "to": "00:10:44,000"
+   },
+   "offsets": {
+    "from": 643000,
+    "to": 644000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:44,000",
+    "to": "00:10:45,000"
+   },
+   "offsets": {
+    "from": 644000,
+    "to": 645000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:45,000",
+    "to": "00:10:46,000"
+   },
+   "offsets": {
+    "from": 645000,
+    "to": 646000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:46,000",
+    "to": "00:10:47,000"
+   },
+   "offsets": {
+    "from": 646000,
+    "to": 647000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:47,000",
+    "to": "00:10:48,000"
+   },
+   "offsets": {
+    "from": 647000,
+    "to": 648000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:48,000",
+    "to": "00:10:49,000"
+   },
+   "offsets": {
+    "from": 648000,
+    "to": 649000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:49,000",
+    "to": "00:10:50,000"
+   },
+   "offsets": {
+    "from": 649000,
+    "to": 650000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:50,000",
+    "to": "00:10:51,000"
+   },
+   "offsets": {
+    "from": 650000,
+    "to": 651000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:51,000",
+    "to": "00:10:52,000"
+   },
+   "offsets": {
+    "from": 651000,
+    "to": 652000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:52,000",
+    "to": "00:10:53,000"
+   },
+   "offsets": {
+    "from": 652000,
+    "to": 653000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:53,000",
+    "to": "00:10:54,000"
+   },
+   "offsets": {
+    "from": 653000,
+    "to": 654000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:54,000",
+    "to": "00:10:55,000"
+   },
+   "offsets": {
+    "from": 654000,
+    "to": 655000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:55,000",
+    "to": "00:10:56,000"
+   },
+   "offsets": {
+    "from": 655000,
+    "to": 656000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:56,000",
+    "to": "00:10:57,000"
+   },
+   "offsets": {
+    "from": 656000,
+    "to": 657000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:57,000",
+    "to": "00:10:58,000"
+   },
+   "offsets": {
+    "from": 657000,
+    "to": 658000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:58,000",
+    "to": "00:10:59,000"
+   },
+   "offsets": {
+    "from": 658000,
+    "to": 659000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:10:59,000",
+    "to": "00:11:00,000"
+   },
+   "offsets": {
+    "from": 659000,
+    "to": 660000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:00,000",
+    "to": "00:11:01,000"
+   },
+   "offsets": {
+    "from": 660000,
+    "to": 661000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:01,000",
+    "to": "00:11:02,000"
+   },
+   "offsets": {
+    "from": 661000,
+    "to": 662000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:02,000",
+    "to": "00:11:03,000"
+   },
+   "offsets": {
+    "from": 662000,
+    "to": 663000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:03,000",
+    "to": "00:11:04,000"
+   },
+   "offsets": {
+    "from": 663000,
+    "to": 664000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:04,000",
+    "to": "00:11:05,000"
+   },
+   "offsets": {
+    "from": 664000,
+    "to": 665000
+   },
+   "text": " He can manage to be a lot of people.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:05,000",
+    "to": "00:11:06,000"
+   },
+   "offsets": {
+    "from": 665000,
+    "to": 666000
+   },
+   "text": " I have tickets or not.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:06,000",
+    "to": "00:11:07,000"
+   },
+   "offsets": {
+    "from": 666000,
+    "to": 667000
+   },
+   "text": " No.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:07,000",
+    "to": "00:11:09,000"
+   },
+   "offsets": {
+    "from": 667000,
+    "to": 669000
+   },
+   "text": " So you are leaving on 23rd.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:09,000",
+    "to": "00:11:12,000"
+   },
+   "offsets": {
+    "from": 669000,
+    "to": 672000
+   },
+   "text": " I mean, I have to.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:12,000",
+    "to": "00:11:16,000"
+   },
+   "offsets": {
+    "from": 672000,
+    "to": 676000
+   },
+   "text": " I haven't done it yet because they're always putting me on hold.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:16,000",
+    "to": "00:11:22,000"
+   },
+   "offsets": {
+    "from": 676000,
+    "to": 682000
+   },
+   "text": " I always get cut off and it takes so long that I end up not doing it.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:22,000",
+    "to": "00:11:23,000"
+   },
+   "offsets": {
+    "from": 682000,
+    "to": 683000
+   },
+   "text": " What time do you do at 23rd?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:23,000",
+    "to": "00:11:26,000"
+   },
+   "offsets": {
+    "from": 683000,
+    "to": 686000
+   },
+   "text": " 8am or something.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:26,000",
+    "to": "00:11:28,000"
+   },
+   "offsets": {
+    "from": 686000,
+    "to": 688000
+   },
+   "text": " I physically can't.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:28,000",
+    "to": "00:11:30,000"
+   },
+   "offsets": {
+    "from": 688000,
+    "to": 690000
+   },
+   "text": " I have to change it.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:30,000",
+    "to": "00:11:31,000"
+   },
+   "offsets": {
+    "from": 690000,
+    "to": 691000
+   },
+   "text": " It's not an option.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:31,000",
+    "to": "00:11:39,000"
+   },
+   "offsets": {
+    "from": 691000,
+    "to": 699000
+   },
+   "text": " Because if I try to go at this flight, I'll be stranded because it's not enough time for me to lay over.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:39,000",
+    "to": "00:11:41,000"
+   },
+   "offsets": {
+    "from": 699000,
+    "to": 701000
+   },
+   "text": " So it's not an option.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:41,000",
+    "to": "00:11:42,000"
+   },
+   "offsets": {
+    "from": 701000,
+    "to": 702000
+   },
+   "text": " I have to change it.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:42,000",
+    "to": "00:11:43,000"
+   },
+   "offsets": {
+    "from": 702000,
+    "to": 703000
+   },
+   "text": " I just haven't done it yet.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:43,000",
+    "to": "00:11:46,000"
+   },
+   "offsets": {
+    "from": 703000,
+    "to": 706000
+   },
+   "text": " So I'll do it either tonight or tomorrow.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:46,000",
+    "to": "00:11:48,000"
+   },
+   "offsets": {
+    "from": 706000,
+    "to": 708000
+   },
+   "text": " And why don't do that?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:48,000",
+    "to": "00:11:50,000"
+   },
+   "offsets": {
+    "from": 708000,
+    "to": 710000
+   },
+   "text": " Because now it's closed.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:50,000",
+    "to": "00:11:52,000"
+   },
+   "offsets": {
+    "from": 710000,
+    "to": 712000
+   },
+   "text": " It's not closed.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:52,000",
+    "to": "00:11:53,000"
+   },
+   "offsets": {
+    "from": 712000,
+    "to": 713000
+   },
+   "text": " Is Asiana?",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:53,000",
+    "to": "00:11:54,000"
+   },
+   "offsets": {
+    "from": 713000,
+    "to": 714000
+   },
+   "text": " Yeah.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:54,000",
+    "to": "00:11:57,000"
+   },
+   "offsets": {
+    "from": 714000,
+    "to": 717000
+   },
+   "text": " Asiana has here and Delta.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:11:57,000",
+    "to": "00:12:00,000"
+   },
+   "offsets": {
+    "from": 717000,
+    "to": 720000
+   },
+   "text": " Asiana has here and Delta have here.",
+   "source_segment_index": 3
+  },
+  {
+   "timestamps": {
+    "from": "00:12:00,000",
+    "to": "00:12:02,880"
+   },
+   "offsets": {
+    "from": 720000,
+    "to": 722880
+   },
+   "text": " I have to give you information. I will do it for you.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:02,880",
+    "to": "00:12:03,620"
+   },
+   "offsets": {
+    "from": 722880,
+    "to": 723620
+   },
+   "text": " Okay.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:03,620",
+    "to": "00:12:13,900"
+   },
+   "offsets": {
+    "from": 723620,
+    "to": 733900
+   },
+   "text": " I can do it. I just haven't done it because it takes more than like three hours.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:13,900",
+    "to": "00:12:17,440"
+   },
+   "offsets": {
+    "from": 733900,
+    "to": 737440
+   },
+   "text": " I will do it. I have so many things to do, but Ricky...",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:17,440",
+    "to": "00:12:18,840"
+   },
+   "offsets": {
+    "from": 737440,
+    "to": 738840
+   },
+   "text": " I said I would do it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:18,840",
+    "to": "00:12:20,160"
+   },
+   "offsets": {
+    "from": 738840,
+    "to": 740160
+   },
+   "text": " But do it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:20,160",
+    "to": "00:12:20,980"
+   },
+   "offsets": {
+    "from": 740160,
+    "to": 740980
+   },
+   "text": " Okay.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:20,980",
+    "to": "00:12:25,060"
+   },
+   "offsets": {
+    "from": 740980,
+    "to": 745060
+   },
+   "text": " It's just one week and we were supposed to do that.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:25,060",
+    "to": "00:12:26,180"
+   },
+   "offsets": {
+    "from": 745060,
+    "to": 746180
+   },
+   "text": " Right?",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:26,180",
+    "to": "00:12:27,660"
+   },
+   "offsets": {
+    "from": 746180,
+    "to": 747660
+   },
+   "text": " You are going to do it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:28,280",
+    "to": "00:12:30,480"
+   },
+   "offsets": {
+    "from": 748280,
+    "to": 750480
+   },
+   "text": " You already said, no, I don't want to do it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:30,480",
+    "to": "00:12:31,860"
+   },
+   "offsets": {
+    "from": 750480,
+    "to": 751860
+   },
+   "text": " I want to pay a new ticket.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:31,860",
+    "to": "00:12:32,260"
+   },
+   "offsets": {
+    "from": 751860,
+    "to": 752260
+   },
+   "text": " Okay.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:32,260",
+    "to": "00:12:34,080"
+   },
+   "offsets": {
+    "from": 752260,
+    "to": 754080
+   },
+   "text": " If you have money, do it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:34,080",
+    "to": "00:12:36,700"
+   },
+   "offsets": {
+    "from": 754080,
+    "to": 756700
+   },
+   "text": " Because you...",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:36,700",
+    "to": "00:12:38,380"
+   },
+   "offsets": {
+    "from": 756700,
+    "to": 758380
+   },
+   "text": " Okay. I'll send you the information.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:38,380",
+    "to": "00:12:41,380"
+   },
+   "offsets": {
+    "from": 758380,
+    "to": 761380
+   },
+   "text": " Yeah. You think that money...",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:41,380",
+    "to": "00:12:43,680"
+   },
+   "offsets": {
+    "from": 761380,
+    "to": 763680
+   },
+   "text": " How much do you have from your money?",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:43,680",
+    "to": "00:12:48,380"
+   },
+   "offsets": {
+    "from": 763680,
+    "to": 768380
+   },
+   "text": " By this time, I think that it's all and so on.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:48,380",
+    "to": "00:12:48,780"
+   },
+   "offsets": {
+    "from": 768380,
+    "to": 768780
+   },
+   "text": " Yeah.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:48,780",
+    "to": "00:12:49,560"
+   },
+   "offsets": {
+    "from": 768780,
+    "to": 769560
+   },
+   "text": " Right?",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:49,560",
+    "to": "00:12:54,120"
+   },
+   "offsets": {
+    "from": 769560,
+    "to": 774120
+   },
+   "text": " Well, look. I wanted to set up a high-saving EELs account.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:54,120",
+    "to": "00:12:56,700"
+   },
+   "offsets": {
+    "from": 774120,
+    "to": 776700
+   },
+   "text": " We tried and then it fell through.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:12:57,060",
+    "to": "00:13:01,440"
+   },
+   "offsets": {
+    "from": 777060,
+    "to": 781440
+   },
+   "text": " Just things kept happening and then it was all gone before I even knew it.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:01,440",
+    "to": "00:13:03,920"
+   },
+   "offsets": {
+    "from": 781440,
+    "to": 783920
+   },
+   "text": " It's fine.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:03,920",
+    "to": "00:13:04,700"
+   },
+   "offsets": {
+    "from": 783920,
+    "to": 784700
+   },
+   "text": " It's whatever.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:27,060",
+    "to": "00:13:57,020"
+   },
+   "offsets": {
+    "from": 807060,
+    "to": 837020
+   },
+   "text": " The most important message that I just want to know what happened after we came from,",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:13:57,020",
+    "to": "00:14:26,980"
+   },
+   "offsets": {
+    "from": 837020,
+    "to": 866980
+   },
+   "text": " and then I'll be back in the morning. This was Friday night. I don't remember. You were tired, right? And we came here, I also was very tired. I had a conversation by phone. You were waiting here for probably 10 minutes until I arrived. Oh yeah.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:26,980",
+    "to": "00:14:40,980"
+   },
+   "offsets": {
+    "from": 866980,
+    "to": 880980
+   },
+   "text": " I guess I went to bed. You were supposed to explain it because you were very tired. I don't know what happened that night.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:40,980",
+    "to": "00:14:44,980"
+   },
+   "offsets": {
+    "from": 880980,
+    "to": 884980
+   },
+   "text": " I couldn't tell you. I remember. I was like, I can't remember.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:44,980",
+    "to": "00:14:58,980"
+   },
+   "offsets": {
+    "from": 884980,
+    "to": 898980
+   },
+   "text": " You were all night after because next morning, there were happy. You can see. You can see me.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:14:58,980",
+    "to": "00:15:00,040"
+   },
+   "offsets": {
+    "from": 898980,
+    "to": 900040
+   },
+   "text": " Thank you.",
+   "source_segment_index": 4
+  },
+  {
+   "timestamps": {
+    "from": "00:15:00,000",
+    "to": "00:15:02,000"
+   },
+   "offsets": {
+    "from": 900000,
+    "to": 902000
+   },
+   "text": " Okay.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:02,000",
+    "to": "00:15:06,000"
+   },
+   "offsets": {
+    "from": 902000,
+    "to": 906000
+   },
+   "text": " And there were probably",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:06,000",
+    "to": "00:15:08,000"
+   },
+   "offsets": {
+    "from": 906000,
+    "to": 908000
+   },
+   "text": " people thinking about it too.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:08,000",
+    "to": "00:15:10,000"
+   },
+   "offsets": {
+    "from": 908000,
+    "to": 910000
+   },
+   "text": " Okay.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:10,000",
+    "to": "00:15:12,000"
+   },
+   "offsets": {
+    "from": 910000,
+    "to": 912000
+   },
+   "text": " And I am not complaining about it because",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:12,000",
+    "to": "00:15:14,000"
+   },
+   "offsets": {
+    "from": 912000,
+    "to": 914000
+   },
+   "text": " I just want to be",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:14,000",
+    "to": "00:15:16,000"
+   },
+   "offsets": {
+    "from": 914000,
+    "to": 916000
+   },
+   "text": " so the same.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:16,000",
+    "to": "00:15:18,000"
+   },
+   "offsets": {
+    "from": 916000,
+    "to": 918000
+   },
+   "text": " I don't understand that",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:18,000",
+    "to": "00:15:20,000"
+   },
+   "offsets": {
+    "from": 918000,
+    "to": 920000
+   },
+   "text": " and though I'm not the doctors",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:20,000",
+    "to": "00:15:24,000"
+   },
+   "offsets": {
+    "from": 920000,
+    "to": 924000
+   },
+   "text": " I think",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:24,000",
+    "to": "00:15:26,000"
+   },
+   "offsets": {
+    "from": 924000,
+    "to": 926000
+   },
+   "text": " we just don't understand",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:26,000",
+    "to": "00:15:28,000"
+   },
+   "offsets": {
+    "from": 926000,
+    "to": 928000
+   },
+   "text": " what the brain is.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:28,000",
+    "to": "00:15:30,000"
+   },
+   "offsets": {
+    "from": 928000,
+    "to": 930000
+   },
+   "text": " But",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:30,000",
+    "to": "00:15:32,000"
+   },
+   "offsets": {
+    "from": 930000,
+    "to": 932000
+   },
+   "text": " you woke up",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:32,000",
+    "to": "00:15:34,000"
+   },
+   "offsets": {
+    "from": 932000,
+    "to": 934000
+   },
+   "text": " all night",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:34,000",
+    "to": "00:15:36,000"
+   },
+   "offsets": {
+    "from": 934000,
+    "to": 936000
+   },
+   "text": " Saturday, right?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:36,000",
+    "to": "00:15:38,000"
+   },
+   "offsets": {
+    "from": 936000,
+    "to": 938000
+   },
+   "text": " I'll send you an article that I sent to my mom.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:38,000",
+    "to": "00:15:40,000"
+   },
+   "offsets": {
+    "from": 938000,
+    "to": 940000
+   },
+   "text": " It's very insightful on...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:40,000",
+    "to": "00:15:42,000"
+   },
+   "offsets": {
+    "from": 940000,
+    "to": 942000
+   },
+   "text": " I am talking.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:42,000",
+    "to": "00:15:44,000"
+   },
+   "offsets": {
+    "from": 942000,
+    "to": 944000
+   },
+   "text": " I don't want to say...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:44,000",
+    "to": "00:15:46,000"
+   },
+   "offsets": {
+    "from": 944000,
+    "to": 946000
+   },
+   "text": " Well, you're asking what's going on.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:46,000",
+    "to": "00:15:48,000"
+   },
+   "offsets": {
+    "from": 946000,
+    "to": 948000
+   },
+   "text": " I don't understand.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:48,000",
+    "to": "00:15:50,000"
+   },
+   "offsets": {
+    "from": 948000,
+    "to": 950000
+   },
+   "text": " The article",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:50,000",
+    "to": "00:15:52,000"
+   },
+   "offsets": {
+    "from": 950000,
+    "to": 952000
+   },
+   "text": " is writing",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:52,000",
+    "to": "00:15:54,000"
+   },
+   "offsets": {
+    "from": 952000,
+    "to": 954000
+   },
+   "text": " the premium.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:54,000",
+    "to": "00:15:56,000"
+   },
+   "offsets": {
+    "from": 954000,
+    "to": 956000
+   },
+   "text": " I want you to read it unless you read it",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:56,000",
+    "to": "00:15:58,000"
+   },
+   "offsets": {
+    "from": 956000,
+    "to": 958000
+   },
+   "text": " and there's no point in having this conversation",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:15:58,000",
+    "to": "00:16:00,000"
+   },
+   "offsets": {
+    "from": 958000,
+    "to": 960000
+   },
+   "text": " because you're alluding",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:00,000",
+    "to": "00:16:02,000"
+   },
+   "offsets": {
+    "from": 960000,
+    "to": 962000
+   },
+   "text": " to something that I've been thinking about",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:02,000",
+    "to": "00:16:04,000"
+   },
+   "offsets": {
+    "from": 962000,
+    "to": 964000
+   },
+   "text": " every single day that I've talked about",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:04,000",
+    "to": "00:16:06,000"
+   },
+   "offsets": {
+    "from": 964000,
+    "to": 966000
+   },
+   "text": " hundreds of times, hundreds of thousands of times.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:06,000",
+    "to": "00:16:08,000"
+   },
+   "offsets": {
+    "from": 966000,
+    "to": 968000
+   },
+   "text": " Like the question that you're asking",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:08,000",
+    "to": "00:16:10,000"
+   },
+   "offsets": {
+    "from": 968000,
+    "to": 970000
+   },
+   "text": " is something that I've been trying to ask",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:10,000",
+    "to": "00:16:12,000"
+   },
+   "offsets": {
+    "from": 970000,
+    "to": 972000
+   },
+   "text": " and answer for myself so many more times",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:12,000",
+    "to": "00:16:14,000"
+   },
+   "offsets": {
+    "from": 972000,
+    "to": 974000
+   },
+   "text": " than you have just now",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:14,000",
+    "to": "00:16:16,000"
+   },
+   "offsets": {
+    "from": 974000,
+    "to": 976000
+   },
+   "text": " and so that's why I want you to read it",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:16,000",
+    "to": "00:16:18,000"
+   },
+   "offsets": {
+    "from": 976000,
+    "to": 978000
+   },
+   "text": " because you're...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:18,000",
+    "to": "00:16:20,000"
+   },
+   "offsets": {
+    "from": 978000,
+    "to": 980000
+   },
+   "text": " it's like...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:20,000",
+    "to": "00:16:22,000"
+   },
+   "offsets": {
+    "from": 980000,
+    "to": 982000
+   },
+   "text": " I mean, you know...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:22,000",
+    "to": "00:16:24,000"
+   },
+   "offsets": {
+    "from": 982000,
+    "to": 984000
+   },
+   "text": " otherwise there's no point in talking about it at all",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:24,000",
+    "to": "00:16:26,000"
+   },
+   "offsets": {
+    "from": 984000,
+    "to": 986000
+   },
+   "text": " and I'm just going to end the conversation here right now.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:26,000",
+    "to": "00:16:28,000"
+   },
+   "offsets": {
+    "from": 986000,
+    "to": 988000
+   },
+   "text": " But you think...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:28,000",
+    "to": "00:16:32,000"
+   },
+   "offsets": {
+    "from": 988000,
+    "to": 992000
+   },
+   "text": " Can you summarize that article?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:32,000",
+    "to": "00:16:33,000"
+   },
+   "offsets": {
+    "from": 992000,
+    "to": 993000
+   },
+   "text": " No, not really.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:33,000",
+    "to": "00:16:34,000"
+   },
+   "offsets": {
+    "from": 993000,
+    "to": 994000
+   },
+   "text": " It's a very short article.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:34,000",
+    "to": "00:16:35,000"
+   },
+   "offsets": {
+    "from": 994000,
+    "to": 995000
+   },
+   "text": " Please.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:35,000",
+    "to": "00:16:36,000"
+   },
+   "offsets": {
+    "from": 995000,
+    "to": 996000
+   },
+   "text": " It's all in your work.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:36,000",
+    "to": "00:16:37,000"
+   },
+   "offsets": {
+    "from": 996000,
+    "to": 997000
+   },
+   "text": " Huh?",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:37,000",
+    "to": "00:16:38,000"
+   },
+   "offsets": {
+    "from": 997000,
+    "to": 998000
+   },
+   "text": " We don't know what's going on.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:38,000",
+    "to": "00:16:40,000"
+   },
+   "offsets": {
+    "from": 998000,
+    "to": 1000000
+   },
+   "text": " We don't know what happens with the brain.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:40,000",
+    "to": "00:16:42,000"
+   },
+   "offsets": {
+    "from": 1000000,
+    "to": 1002000
+   },
+   "text": " Not even the doctors know.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:42,000",
+    "to": "00:16:44,000"
+   },
+   "offsets": {
+    "from": 1002000,
+    "to": 1004000
+   },
+   "text": " Treatment is completely ineffective",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:44,000",
+    "to": "00:16:48,000"
+   },
+   "offsets": {
+    "from": 1004000,
+    "to": 1008000
+   },
+   "text": " and euthanasia should be possible for people like me.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:48,000",
+    "to": "00:16:50,000"
+   },
+   "offsets": {
+    "from": 1008000,
+    "to": 1010000
+   },
+   "text": " Even doctors...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:50,000",
+    "to": "00:16:52,000"
+   },
+   "offsets": {
+    "from": 1010000,
+    "to": 1012000
+   },
+   "text": " Even some doctors support it.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:16:52,000",
+    "to": "00:17:05,000"
+   },
+   "offsets": {
+    "from": 1012000,
+    "to": 1025000
+   },
+   "text": " So...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:05,000",
+    "to": "00:17:06,000"
+   },
+   "offsets": {
+    "from": 1025000,
+    "to": 1026000
+   },
+   "text": " Basically...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:06,000",
+    "to": "00:17:10,000"
+   },
+   "offsets": {
+    "from": 1026000,
+    "to": 1030000
+   },
+   "text": " The conclusion of this article is that",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:10,000",
+    "to": "00:17:12,000"
+   },
+   "offsets": {
+    "from": 1030000,
+    "to": 1032000
+   },
+   "text": " you are...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:12,000",
+    "to": "00:17:14,000"
+   },
+   "offsets": {
+    "from": 1032000,
+    "to": 1034000
+   },
+   "text": " Terminal is...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:14,000",
+    "to": "00:17:16,000"
+   },
+   "offsets": {
+    "from": 1034000,
+    "to": 1036000
+   },
+   "text": " And that's why they...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:16,000",
+    "to": "00:17:16,000"
+   },
+   "offsets": {
+    "from": 1036000,
+    "to": 1036000
+   },
+   "text": " It's not a...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:16,000",
+    "to": "00:17:18,000"
+   },
+   "offsets": {
+    "from": 1036000,
+    "to": 1038000
+   },
+   "text": " There's no conclusions in this article.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:18,000",
+    "to": "00:17:19,000"
+   },
+   "offsets": {
+    "from": 1038000,
+    "to": 1039000
+   },
+   "text": " It's not a...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:19,000",
+    "to": "00:17:20,000"
+   },
+   "offsets": {
+    "from": 1039000,
+    "to": 1040000
+   },
+   "text": " It's not such a decisive article.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:20,000",
+    "to": "00:17:21,000"
+   },
+   "offsets": {
+    "from": 1040000,
+    "to": 1041000
+   },
+   "text": " That's why I want you to read it",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:21,000",
+    "to": "00:17:22,000"
+   },
+   "offsets": {
+    "from": 1041000,
+    "to": 1042000
+   },
+   "text": " because it's nuanced.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:22,000",
+    "to": "00:17:24,000"
+   },
+   "offsets": {
+    "from": 1042000,
+    "to": 1044000
+   },
+   "text": " You told me to summarize it the way...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:24,000",
+    "to": "00:17:25,000"
+   },
+   "offsets": {
+    "from": 1044000,
+    "to": 1045000
+   },
+   "text": " Yeah, I am not speaking it.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:25,000",
+    "to": "00:17:27,000"
+   },
+   "offsets": {
+    "from": 1045000,
+    "to": 1047000
+   },
+   "text": " You don't know that.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:27,000",
+    "to": "00:17:28,000"
+   },
+   "offsets": {
+    "from": 1047000,
+    "to": 1048000
+   },
+   "text": " Well then why are you like,",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:28,000",
+    "to": "00:17:30,000"
+   },
+   "offsets": {
+    "from": 1048000,
+    "to": 1050000
+   },
+   "text": " \"Oh, the conclusion of the article is...\"",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:30,000",
+    "to": "00:17:31,000"
+   },
+   "offsets": {
+    "from": 1050000,
+    "to": 1051000
+   },
+   "text": " When there's obviously no conclusion.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:31,000",
+    "to": "00:17:32,000"
+   },
+   "offsets": {
+    "from": 1051000,
+    "to": 1052000
+   },
+   "text": " But you wouldn't know that",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:32,000",
+    "to": "00:17:33,000"
+   },
+   "offsets": {
+    "from": 1052000,
+    "to": 1053000
+   },
+   "text": " because you haven't read it.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:33,000",
+    "to": "00:17:34,000"
+   },
+   "offsets": {
+    "from": 1053000,
+    "to": 1054000
+   },
+   "text": " I have...",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:34,000",
+    "to": "00:17:38,000"
+   },
+   "offsets": {
+    "from": 1054000,
+    "to": 1058000
+   },
+   "text": " Or you refuse to read it.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:38,000",
+    "to": "00:17:39,000"
+   },
+   "offsets": {
+    "from": 1058000,
+    "to": 1059000
+   },
+   "text": " I refuse to read it.",
+   "source_segment_index": 5
+  },
+  {
+   "timestamps": {
+    "from": "00:17:39,000",
+    "to": "00:17:39,400"
+   },
+   "offsets": {
+    "from": 1059000,
+    "to": 1059400
+   },
+   "text": " I refuse to read it.",
+   "source_segment_index": 5
+  }
+ ]
+}

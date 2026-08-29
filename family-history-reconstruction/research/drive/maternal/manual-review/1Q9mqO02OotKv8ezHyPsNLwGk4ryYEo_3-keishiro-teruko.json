@@ -1,0 +1,24 @@
+{
+ "schema_version": "1.0",
+ "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-keishiro-teruko-manual-review",
+ "source_artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+ "source_repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+ "source_sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+ "reviewed_at": "2026-08-24T14:02:00-04:00",
+ "review_method": "manual visual comparison against a temporary perspective-corrected crop; the crop is disposable instrumentation and the hashed source image remains the evidence owner",
+ "reviewer_type": "AI_agent_manual_visual_comparison",
+ "source_context": "photographed Japanese family-tree sheet in the owner-identified Menmen/Yasuko family album",
+ "visible_pair": [
+  "松井慶四郎",
+  "照子"
+ ],
+ "layout_observation": "The names appear side by side in the same numbered family-tree couple box (number 4).",
+ "claim_supported": "The sheet supports a Keishiro Matsui / Teruko pairing consistent with marriage.",
+ "claim_not_yet_supported": "Teruko's maiden surname and exact parents are not established by this bounded crop alone.",
+ "related_provider_occurrence": {
+  "provider_file_id": "1IgKiTx2C9D1Ma33c3f-TwbPZhs4oR9RM",
+  "provider_name": "IMG_79FF80BA-ECEE-4B77-9AA0-8B20E404AF85.jpeg",
+  "relationship": "near-identical second Drive image of the same photographed sheet; independently hashed in the Drive manifest"
+ },
+ "second_human_japanese_review": "pending"
+}

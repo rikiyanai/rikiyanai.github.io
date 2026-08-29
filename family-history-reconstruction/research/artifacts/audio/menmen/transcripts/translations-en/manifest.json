@@ -1,0 +1,36 @@
+{
+ "schema_version": "1.0",
+ "count": 2,
+ "artifacts": [
+  {
+   "artifact_id": "translation-en-menmen-1",
+   "source_audio": "research/artifacts/audio/menmen/menmen-1.m4a",
+   "source_sha256": "46d3b0c31c12cfe33edbb3a5e516e829849adbdc390d4553e331f229d8c9ed47",
+   "source_language": "ja",
+   "target_language": "en",
+   "json_path": "research/artifacts/audio/menmen/transcripts/translations-en/menmen-1.en.json",
+   "json_sha256": "d70570c46a8029e5ea265a1ba2663ef15fed0924e04ef9af47682ecf59b92bf7",
+   "vtt_path": "research/artifacts/audio/menmen/transcripts/translations-en/menmen-1.en.vtt",
+   "vtt_sha256": "3dc5aa867d97bf7e935ea4fde1a1719c5e81607630511ce6ada7ec2b41e9bb73",
+   "tool": "whisper.cpp/whisper-cli translate",
+   "model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+   "access_class": "private_research_only",
+   "review_status": "machine_translation_unverified"
+  },
+  {
+   "artifact_id": "translation-en-menmen3",
+   "source_audio": "research/artifacts/audio/menmen/menmen3.m4a",
+   "source_sha256": "c40b4ed2d1d244bc66533b25739a10a8eac716101cbf59b379cdf8d05658fde9",
+   "source_language": "ja",
+   "target_language": "en",
+   "json_path": "research/artifacts/audio/menmen/transcripts/translations-en/menmen3.en.json",
+   "json_sha256": "6a5605e493d5a7202a61d94af6dd000b6186013c5c16e8a145b7f5e2084f8864",
+   "vtt_path": "research/artifacts/audio/menmen/transcripts/translations-en/menmen3.en.vtt",
+   "vtt_sha256": "f26132701f6248099c9a7ae9c32d339e5ae421f11c775f42807b69ae99db88a3",
+   "tool": "whisper.cpp/whisper-cli translate",
+   "model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+   "access_class": "private_research_only",
+   "review_status": "machine_translation_unverified"
+  }
+ ]
+}

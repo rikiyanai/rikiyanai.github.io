@@ -1,0 +1,51 @@
+{
+ "schema_version": "1.0",
+ "count": 5,
+ "artifacts": [
+  {
+   "artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd-parentage-manual-review",
+   "source_artifact_id": "gdrive-maternal-1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd--ojiichama-death-newspaper.jpg",
+   "source_sha256": "432d6b38059f68addb624e91cd483053309ff00b9f230fd1bb40bf55617d473a",
+   "repository_path": "research/artifacts/drive/maternal/manual-review/1KL2oD2D4SyjNg13n_dTt7LH_yVJEtpBd-parentage.json",
+   "sha256": "9281cf0ffd7e8c51c7541d93badae2215349ba761394213dfa8f7b51407983d9",
+   "review_status": "manual_visual_agent_review_complete; second Japanese-speaking human review pending"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-keishiro-teruko-manual-review",
+   "source_artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+   "source_repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+   "source_sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+   "repository_path": "research/artifacts/drive/maternal/manual-review/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-keishiro-teruko.json",
+   "sha256": "e8a72335c4c53cc900c986ab45763920f036806fe6326461d5d090a38d3c82ce",
+   "review_status": "manual_visual_agent_review_complete; second Japanese-speaking human review pending"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-imamura-parentage-manual-review",
+   "source_artifact_id": "gdrive-maternal-1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3",
+   "source_repository_path": "research/artifacts/drive/maternal/originals/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3--verify-side-family-tree.png",
+   "source_sha256": "95ed495d0f344c87be42d0451a6f0b555ae147fcbc5c8af3e376155514b7acd5",
+   "repository_path": "research/artifacts/drive/maternal/manual-review/1Q9mqO02OotKv8ezHyPsNLwGk4ryYEo_3-imamura-parentage.json",
+   "sha256": "f670f4a8ea4f21626f0391f52c856113bcff38aaea12923a2a15fd3c19b30e39",
+   "review_status": "manual_visual_agent_review_complete; second Japanese-speaking human review pending"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL-wife-eldest-son-manual-review",
+   "source_artifact_id": "gdrive-maternal-1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL--ojiichama-newspaper-clipping.jpg",
+   "source_sha256": "11ef2cc8036e4c2771af31875d04bd8ca8eb7ebe23d58b3c44f53cf016cfe93a",
+   "repository_path": "research/artifacts/drive/maternal/manual-review/1JkIODFgroxjWy9DT0y3q0RpzWwnU8mbL-wife-eldest-son.json",
+   "sha256": "2cb60be77c69f06e9ab80a164f123568e12d230bb6256e04a84da46f5f599eea",
+   "review_status": "manual_visual_agent_review_complete; second Japanese-speaking human review pending"
+  },
+  {
+   "artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ-macarthur-inscription-manual-review",
+   "source_artifact_id": "gdrive-maternal-1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ",
+   "source_repository_path": "research/artifacts/drive/maternal/derivatives/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ--macarthur-post-card.jpg",
+   "source_sha256": "860059b37d2b12b93fcc11073073e8742438fd8cffc075db85a1cb659423f737",
+   "repository_path": "research/artifacts/drive/maternal/manual-review/1QJy9IdoUWjtxaxDOFy6QIdTT0VuMbBfJ-macarthur-inscription.json",
+   "sha256": "33758c77d01d28d5fd7d119233d1653b998c59936595da40a6d152e024a22f50",
+   "review_status": "manual_visual_agent_review_complete; addressee surname only partly legible; second human review pending"
+  }
+ ]
+}

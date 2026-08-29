@@ -1,0 +1,120 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "large",
+		"multilingual": true,
+		"vocab": 51866,
+		"audio": {
+			"ctx": 1500,
+			"state": 1280,
+			"head": 20,
+			"layer": 32
+		},
+		"text": {
+			"ctx": 448,
+			"state": 1280,
+			"head": 20,
+			"layer": 4
+		},
+		"mels": 128,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/r/.local/share/whisper-models/ggml-large-v3-turbo.bin",
+		"language": "auto",
+		"translate": false
+	},
+	"result": {
+		"language": "ja"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:11,940"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 11940
+			},
+			"text": "席取ってあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,940",
+				"to": "00:00:13,020"
+			},
+			"offsets": {
+				"from": 11940,
+				"to": 13020
+			},
+			"text": "何か飲み物欲しい"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,020",
+				"to": "00:00:17,560"
+			},
+			"offsets": {
+				"from": 13020,
+				"to": 17560
+			},
+			"text": "持っててあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,000",
+				"to": "00:00:59,980"
+			},
+			"offsets": {
+				"from": 30000,
+				"to": 59980
+			},
+			"text": "持っててあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:29,980"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 89980
+			},
+			"text": "持っててあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:59,980"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 119980
+			},
+			"text": "持っててあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,980",
+				"to": "00:02:29,960"
+			},
+			"offsets": {
+				"from": 119980,
+				"to": 149960
+			},
+			"text": "持っててあげる"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:29,960",
+				"to": "00:02:59,940"
+			},
+			"offsets": {
+				"from": 149960,
+				"to": 179940
+			},
+			"text": "持っててあげる"
+		}
+	]
+}
