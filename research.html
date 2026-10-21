@@ -6,8 +6,23 @@
     <title>Research &amp; Projects — Riki Yanai</title>
     <link rel="stylesheet" href="index.css">
     <style>
-        .project-list {
+        .project-section {
             margin-top: 2.5rem;
+        }
+        .project-section h2 {
+            font-size: 1rem;
+            font-weight: normal;
+            font-style: italic;
+            margin: 0 0 1.25rem;
+            color: #555;
+        }
+        .project-section h3 {
+            font-size: 1.1rem;
+            font-weight: normal;
+            margin: 0;
+        }
+        .project-list {
+            margin-top: 1.25rem;
             list-style: none;
             padding: 0;
         }
@@ -26,6 +41,24 @@
             margin: 0.35rem 0 0 0;
             color: #444;
         }
+        .project-status {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        .social-links {
+            margin-top: 1.5rem;
+        }
+        .social-links h2 {
+            margin-bottom: 0.5rem;
+        }
+        .social-links ul {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem 1.5rem;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
     </style>
 </head>
 <body>
@@ -38,13 +71,57 @@
             <li class="active-item">Research / Projects</li>
         </ul>
 
-        <ul class="project-list">
-            <li>
-                <a class="project-title" href="https://rikiworld.com/isocontour-church/devlog.html">
-                    Trying to Make a Structural ASCII Shader (devlog, 10/21/2026)
-                </a>
+        <div class="social-links" aria-labelledby="social-links-heading">
+            <h2 id="social-links-heading">Elsewhere</h2>
+            <ul>
+                <li><a href="https://x.com/RikiYanai">X (@RikiYanai)</a></li>
+                <li><a href="https://aahub.org/profile/legumeboi">AAHub (legumeboi)</a></li>
+                <li><a href="https://www.youtube.com/@legumeboi">YouTube (@legumeboi)</a></li>
+            </ul>
+        </div>
+
+        <section class="project-section" aria-labelledby="ascii-projects-heading">
+            <h2 id="ascii-projects-heading">ASCII Art</h2>
+            <article class="latest-devlog" data-publication-status="verified">
+                <p class="project-status">Latest devlog · <time datetime="2026-10-21">October 21, 2026</time></p>
+                <h3><a href="https://rikiworld.com/isocontour-church/devlog.html">Trying to Make a Structural ASCII Shader</a></h3>
                 <p class="project-description">A live devlog of my attempts at a temporally coherent, structure based ASCII art shader that fixes glyph crawl, running on Shallot.</p>
-            </li>
+            </article>
+            <ul class="project-list">
+                <li>
+                    <a class="project-title" href="https://rikiworld.com/xpedit">XPEDIT</a>
+                    <p class="project-description">REXPaint in the browser with custom sprite-sheet slicing.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/AsciickerY92-CP437-runtime">Asciicker Y9-2 — CP437 Runtime</a>
+                    <p class="project-description">My modded fork of Gumix's Asciicker engine, with native terminal and browser/WebAssembly clients.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/unicode-glyph-morphology-explorer">Unicode Glyph Morphology Explorer</a>
+                    <p class="project-description">A browser for Unicode glyph shapes and families, with pinned font provenance.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/DylanEbert-texel-splatting-demo-godot-port">Dylan Ebert Texel-Splatting Demo — Godot Port</a>
+                    <p class="project-description">Standalone Godot RenderingDevice port of Dylan Ebert's texel-splatting demo.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/daily-neovim-ascii-art-tutor">Neovim ASCII Art Tutor</a>
+                    <p class="project-description">Neovim practice through ASCII-art authoring exercises and editing drills.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/3d-Space">Supersampling ASCII Shaders for Thurston Geometries</a>
+                    <p class="project-description">A Three.js experiment using supersampled ASCII shaders to render Thurston geometries.</p>
+                </li>
+                <li>
+                    <a class="project-title" href="https://github.com/rikiyanai/rextuul">Rextuul — REXPaint Terminal Renderer</a>
+                    <p class="project-description">Minimal XP/REXPaint terminal renderer with no dependencies.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section class="project-section" aria-labelledby="other-projects-heading">
+            <h2 id="other-projects-heading">Other Research &amp; Projects</h2>
+            <ul class="project-list">
             <li>
                 <a class="project-title" href="papers/MAT401finaldraft.pdf">
                     Study of Graph Theoretic Encryption Schemes
@@ -56,12 +133,6 @@
                     ElGamal Public Key Encryption
                 </a>
                 <p class="project-description">An implementation and security analysis of ElGamal encryption, including baby-step giant-step attacks on the discrete logarithm problem.</p>
-            </li>
-            <li>
-                <a class="project-title" href="https://github.com/rikiyanai/3d-Space">
-                    Supersampling ASCII Shaders for Thurston Geometries with ThreeJS
-                </a>
-                <p class="project-description">A Three.js experiment using supersampled ASCII shaders to render Thurston geometries.</p>
             </li>
             <li>
                 <a class="project-title" href="https://github.com/rikiyanai/MAT200KARLLEVY">
@@ -94,22 +165,10 @@
                 <p class="project-description">A browser-based portrait study tool with Loomis construction, anatomy, proportion, value, and shape overlays.</p>
             </li>
             <li>
-                <a class="project-title" href="https://github.com/rikiyanai/DylanEbert-texel-splatting-demo-godot-port">
-                    github.com/rikiyanai/DylanEbert-texel-splatting-demo-godot-port
-                </a>
-                <p class="project-description">Standalone Godot RenderingDevice port of Dylan Ebert's texel-splatting demo.</p>
-            </li>
-            <li>
                 <a class="project-title" href="https://rikiworld.com/refrog-app/">
                     rikiworld.com/refrog-app/
                 </a>
                 <p class="project-description">A small app prototype and web experiment.</p>
-            </li>
-            <li>
-                <a class="project-title" href="https://rikiworld.com/xpedit">
-                    rikiworld.com/xpedit
-                </a>
-                <p class="project-description">REXPaint in the browser with custom sprite-sheet slicing.</p>
             </li>
             <li>
                 <a class="project-title" href="https://github.com/rikiyanai/Terminotes">
@@ -117,13 +176,8 @@
                 </a>
                 <p class="project-description">A minimal, terminal-friendly menu-bar notes app.</p>
             </li>
-            <li>
-                <a class="project-title" href="https://github.com/rikiyanai/rextuul">
-                    github.com/rikiyanai/rextuul
-                </a>
-                <p class="project-description">Minimal XP(rexpaint) terminal renderer with no dependencies.</p>
-            </li>
-        </ul>
+            </ul>
+        </section>
     </main>
 </body>
 </html>
