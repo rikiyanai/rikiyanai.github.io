@@ -76,6 +76,22 @@
         .aa-text-link {
             display: block;
         }
+        .brand-gallery {
+            columns: auto;
+            max-width: 40rem;
+        }
+        .brand-gallery figure {
+            margin: 0;
+        }
+        .brand-gallery img {
+            height: auto;
+            object-fit: contain;
+            background: #fff;
+        }
+        .brand-gallery figcaption {
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
         .gallery-note {
             font-size: 0.9rem;
             line-height: 1.5;
@@ -181,6 +197,9 @@
             font: 1.75rem/1 "Times New Roman", Times, serif;
             cursor: pointer;
         }
+        .lightbox-image[src$="yuuz-logo.png"] {
+            background: #fff;
+        }
         @media screen and (max-width: 600px) {
             .gallery {
                 columns: 1;
@@ -217,6 +236,16 @@
                 <div class="art-tile"><img src="img/art-img-3401.jpg" alt="" loading="lazy"></div>
             </div>
         </div>
+
+        <section class="art-section" aria-labelledby="yuuz-logo-heading">
+            <h2 id="yuuz-logo-heading">YUUZ logo</h2>
+            <div class="gallery brand-gallery">
+                <figure>
+                    <img src="img/branding/yuuz-logo.png" width="2186" height="1520" alt="YUUZ logo with a hand-drawn yellow yuzu fruit and green leaves." loading="lazy">
+                    <figcaption>Logo artwork I drew for YUUZ. <a href="img/branding/yuuz-logo.png">Full-resolution PNG (2186 × 1520)</a></figcaption>
+                </figure>
+            </div>
+        </section>
 
         <section class="art-section" aria-labelledby="instagram-art-heading">
             <h2 id="instagram-art-heading">Instagram drawings</h2>
