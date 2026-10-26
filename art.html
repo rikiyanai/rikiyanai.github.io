@@ -97,24 +97,25 @@
             line-height: 1.5;
             color: #555;
         }
-        .instagram-carousel .instagram-gallery {
+        .instagram-carousel .instagram-gallery,
+        .ascii-carousel .ascii-gallery {
             columns: auto;
         }
         .instagram-carousel .instagram-gallery img {
             height: min(70vh, 40rem);
             object-fit: contain;
         }
-        .instagram-carousel .instagram-gallery:focus-visible {
+        .carousel-gallery:focus-visible {
             outline: 2px solid #000;
             outline-offset: 4px;
         }
-        .instagram-carousel-controls {
+        .carousel-controls {
             display: flex;
             align-items: center;
             gap: 0.75rem;
             margin: 0.5rem 0 1rem;
         }
-        .instagram-carousel-controls button {
+        .carousel-controls button {
             appearance: none;
             border: 0;
             border-radius: 0;
@@ -126,20 +127,20 @@
             text-decoration: underline;
             text-underline-offset: 0.15em;
         }
-        .instagram-carousel-controls button:focus-visible {
+        .carousel-controls button:focus-visible {
             outline: 2px solid #000;
             outline-offset: 3px;
         }
-        .instagram-carousel-status {
+        .carousel-status {
             min-width: 7rem;
             text-align: center;
             font-size: 0.85rem;
             color: #555;
         }
-        .instagram-gallery figure[hidden] {
+        .carousel-gallery figure[hidden] {
             display: none;
         }
-        .instagram-gallery figure {
+        .carousel-gallery figure {
             break-inside: avoid;
             margin: 0 0 1rem;
         }
@@ -152,6 +153,10 @@
             font-size: 0.8rem;
             line-height: 1.4;
             color: #555;
+        }
+        .ascii-carousel .ascii-gallery img {
+            height: min(70vh, 40rem);
+            object-fit: contain;
         }
         .aa-text-link[data-aahub-status="pending"] {
             color: #666;
@@ -247,11 +252,11 @@
             </div>
         </section>
 
-        <section class="art-section" aria-labelledby="instagram-art-heading">
-            <h2 id="instagram-art-heading">Instagram drawings</h2>
-            <p class="gallery-note">Drawings, paintings and digital work from <a href="https://www.instagram.com/legumeboi/">@legumeboi</a>. Use the arrows to browse, or select an image for a full size view.</p>
-            <div class="instagram-carousel" data-instagram-carousel>
-                <div class="gallery instagram-gallery">
+        <section class="art-section" aria-labelledby="instagram-drawings-heading">
+            <h2 id="instagram-drawings-heading">Drawings</h2>
+            <p class="gallery-note">Drawings and studies from <a href="https://www.instagram.com/legumeboi/">@legumeboi</a>. Use the arrows to browse, or select an image for a full size view.</p>
+            <div class="instagram-carousel" data-carousel data-carousel-label="Drawings">
+                <div class="gallery instagram-gallery carousel-gallery" data-carousel-gallery data-instagram-gallery="drawings">
                     <figure data-instagram-key="CMWbWuDBngT-1"><img src="img/instagram/01_CMWbWuDBngT_01_march-12-2021.jpg" width="1440" height="1800" alt="Anatomy and figure studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Anatomy and figure studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/CMWbWuDBngT/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="CMWbWuDBngT-2"><img src="img/instagram/01_CMWbWuDBngT_02_march-12-2021.jpg" width="1440" height="1800" alt="Anatomy and figure studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Anatomy and figure studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/CMWbWuDBngT/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="CMWbWuDBngT-3"><img src="img/instagram/01_CMWbWuDBngT_03_march-12-2021.jpg" width="1370" height="1712" alt="Anatomy and figure studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Anatomy and figure studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/CMWbWuDBngT/">Original Instagram post</a></figcaption></figure>
@@ -287,7 +292,7 @@
                     <figure data-instagram-key="B3u2M00pHCk-9"><img src="img/instagram/05_B3u2M00pHCk_09_october-17-2019.jpg" width="1440" height="1085" alt="Sketchbook figure studies, carousel image 9." loading="lazy" decoding="async"><figcaption>Sketchbook figure studies · 9 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B3u2M00pHCk/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="B3u2M00pHCk-10"><img src="img/instagram/05_B3u2M00pHCk_10_october-17-2019.jpg" width="1350" height="1017" alt="Sketchbook figure studies, carousel image 10." loading="lazy" decoding="async"><figcaption>Sketchbook figure studies · 10 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B3u2M00pHCk/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="B0JleytJj_8-1"><img src="img/instagram/06_B0JleytJj_8_01_july-20-2019.jpg" width="1440" height="1574" alt="Red digital compositions, carousel image 1." loading="lazy" decoding="async"><figcaption>Red digital compositions · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JleytJj_8/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="B0JleytJj_8-2"><img src="img/instagram/06_B0JleytJj_8_02_july-20-2019.jpg" width="1242" height="1357" alt="Red digital compositions, carousel image 2." loading="lazy" decoding="async"><figcaption>Red digital compositions · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JleytJj_8/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="B0JleytJj_8-2" data-instagram-category="painting"><img src="img/instagram/06_B0JleytJj_8_02_july-20-2019.jpg" width="1242" height="1357" alt="Red and pink abstract painting." loading="lazy" decoding="async"><figcaption>赤とピンクの抽象画 / Red and pink abstract painting <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JleytJj_8/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="B0JlCdRpi_O-1"><img src="img/instagram/07_B0JlCdRpi_O_01_july-20-2019.jpg" width="1440" height="753" alt="Illustrated text studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Illustrated text studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JlCdRpi_O/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="B0JlCdRpi_O-2"><img src="img/instagram/07_B0JlCdRpi_O_02_july-20-2019.jpg" width="596" height="313" alt="Illustrated text studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Illustrated text studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JlCdRpi_O/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="B0JlCdRpi_O-3"><img src="img/instagram/07_B0JlCdRpi_O_03_july-20-2019.jpg" width="596" height="313" alt="Illustrated text studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Illustrated text studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/B0JlCdRpi_O/">Original Instagram post</a></figcaption></figure>
@@ -448,9 +453,9 @@
                     <figure data-instagram-key="Bodu-AAgElp-4"><img src="img/instagram/Bodu-AAgElp_04.jpg" width="1080" height="1079" alt="Mixed sketchbook studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Mixed sketchbook studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bodu-AAgElp/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bodu-AAgElp-5"><img src="img/instagram/Bodu-AAgElp_05.jpg" width="1080" height="1080" alt="Mixed sketchbook studies, carousel image 5." loading="lazy" decoding="async"><figcaption>Mixed sketchbook studies · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bodu-AAgElp/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bodu-AAgElp-6"><img src="img/instagram/Bodu-AAgElp_06.jpg" width="1080" height="1080" alt="Mixed sketchbook studies, carousel image 6." loading="lazy" decoding="async"><figcaption>Mixed sketchbook studies · 6 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bodu-AAgElp/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BoTND8oAWvO-1"><img src="img/instagram/BoTND8oAWvO_01.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Color and digital studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BoTND8oAWvO-2"><img src="img/instagram/BoTND8oAWvO_02.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Color and digital studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BoTND8oAWvO-3"><img src="img/instagram/BoTND8oAWvO_03.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Color and digital studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BoTND8oAWvO-1" data-instagram-category="painting"><img src="img/instagram/BoTND8oAWvO_01.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Color and digital studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BoTND8oAWvO-2" data-instagram-category="painting"><img src="img/instagram/BoTND8oAWvO_02.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Color and digital studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BoTND8oAWvO-3" data-instagram-category="painting"><img src="img/instagram/BoTND8oAWvO_03.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Color and digital studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BoTND8oAWvO-4"><img src="img/instagram/BoTND8oAWvO_04.jpg" width="1080" height="1080" alt="Color and digital studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Color and digital studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BoTND8oAWvO/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bm2djs0AwSO-1"><img src="img/instagram/Bm2djs0AwSO_01.jpg" width="1080" height="1080" alt="Ink character drawings, carousel image 1." loading="lazy" decoding="async"><figcaption>Ink character drawings · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bm2djs0AwSO/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bm2djs0AwSO-2"><img src="img/instagram/Bm2djs0AwSO_02.jpg" width="1080" height="1080" alt="Ink character drawings, carousel image 2." loading="lazy" decoding="async"><figcaption>Ink character drawings · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bm2djs0AwSO/">Original Instagram post</a></figcaption></figure>
@@ -480,10 +485,10 @@
                     <figure data-instagram-key="BmlFYW-gziq-3"><img src="img/instagram/BmlFYW-gziq_03.jpg" width="1080" height="1080" alt="Character drawings, carousel image 3." loading="lazy" decoding="async"><figcaption>Character drawings · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmlFYW-gziq/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmlFYW-gziq-4"><img src="img/instagram/BmlFYW-gziq_04.jpg" width="1080" height="1080" alt="Character drawings, carousel image 4." loading="lazy" decoding="async"><figcaption>Character drawings · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmlFYW-gziq/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmlFYW-gziq-5"><img src="img/instagram/BmlFYW-gziq_05.jpg" width="1080" height="1080" alt="Character drawings, carousel image 5." loading="lazy" decoding="async"><figcaption>Character drawings · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmlFYW-gziq/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmizH-sgz4r-1"><img src="img/instagram/BmizH-sgz4r_01.jpg" width="1080" height="1080" alt="Painting studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Painting studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmizH-sgz4r-2"><img src="img/instagram/BmizH-sgz4r_02.jpg" width="1080" height="1080" alt="Painting studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Painting studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmizH-sgz4r-3"><img src="img/instagram/BmizH-sgz4r_03.jpg" width="1080" height="1079" alt="Painting studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Painting studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmizH-sgz4r-4"><img src="img/instagram/BmizH-sgz4r_04.jpg" width="1080" height="1080" alt="Painting studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Painting studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmizH-sgz4r-1" data-instagram-category="painting"><img src="img/instagram/BmizH-sgz4r_01.jpg" width="1080" height="1080" alt="Painting studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Painting studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmizH-sgz4r-2" data-instagram-category="painting"><img src="img/instagram/BmizH-sgz4r_02.jpg" width="1080" height="1080" alt="Painting studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Painting studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmizH-sgz4r-3" data-instagram-category="painting"><img src="img/instagram/BmizH-sgz4r_03.jpg" width="1080" height="1079" alt="Painting studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Painting studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmizH-sgz4r-4" data-instagram-category="painting"><img src="img/instagram/BmizH-sgz4r_04.jpg" width="1080" height="1080" alt="Painting studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Painting studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmizH-sgz4r/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bmhds--A9T3-1"><img src="img/instagram/Bmhds--A9T3_01.jpg" width="1080" height="1080" alt="Ink sketchbook studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Ink sketchbook studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bmhds--A9T3/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bmhds--A9T3-2"><img src="img/instagram/Bmhds--A9T3_02.jpg" width="1080" height="1080" alt="Ink sketchbook studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Ink sketchbook studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bmhds--A9T3/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="Bmhds--A9T3-3"><img src="img/instagram/Bmhds--A9T3_03.jpg" width="1080" height="1080" alt="Ink sketchbook studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Ink sketchbook studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bmhds--A9T3/">Original Instagram post</a></figcaption></figure>
@@ -504,7 +509,7 @@
                     <figure data-instagram-key="BmdMzLvA116-2"><img src="img/instagram/BmdMzLvA116_02.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Color and figure studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmdMzLvA116-3"><img src="img/instagram/BmdMzLvA116_03.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Color and figure studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmdMzLvA116-4"><img src="img/instagram/BmdMzLvA116_04.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Color and figure studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmdMzLvA116-5"><img src="img/instagram/BmdMzLvA116_05.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 5." loading="lazy" decoding="async"><figcaption>Color and figure studies · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmdMzLvA116-5" data-instagram-category="painting"><img src="img/instagram/BmdMzLvA116_05.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 5." loading="lazy" decoding="async"><figcaption>Color and figure studies · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmdMzLvA116-7"><img src="img/instagram/BmdMzLvA116_07.jpg" width="1080" height="1350" alt="Color and figure studies, carousel image 7." loading="lazy" decoding="async"><figcaption>Color and figure studies · 7 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmdMzLvA116/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmStEJIg_Yl-1"><img src="img/instagram/BmStEJIg_Yl_01.jpg" width="530" height="530" alt="Illustrated characters, carousel image 1." loading="lazy" decoding="async"><figcaption>Illustrated characters · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmStEJIg_Yl/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmSso1KgeDE-1"><img src="img/instagram/BmSso1KgeDE_01.jpg" width="1080" height="1080" alt="Figurative pencil studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Figurative pencil studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmSso1KgeDE/">Original Instagram post</a></figcaption></figure>
@@ -512,9 +517,9 @@
                     <figure data-instagram-key="BmSso1KgeDE-3"><img src="img/instagram/BmSso1KgeDE_03.jpg" width="1080" height="1080" alt="Figurative pencil studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Figurative pencil studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmSso1KgeDE/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmSso1KgeDE-5"><img src="img/instagram/BmSso1KgeDE_05.jpg" width="735" height="735" alt="Figurative pencil studies, carousel image 5." loading="lazy" decoding="async"><figcaption>Figurative pencil studies · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmSso1KgeDE/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BmSso1KgeDE-6"><img src="img/instagram/BmSso1KgeDE_06.jpg" width="1080" height="1080" alt="Figurative pencil studies, carousel image 6." loading="lazy" decoding="async"><figcaption>Figurative pencil studies · 6 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmSso1KgeDE/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BmQGDpVg-3O-1"><img src="img/instagram/BmQGDpVg-3O_01.jpg" width="1080" height="1080" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmQGDpVg-3O/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BlnKfnYAm9I-1"><img src="img/instagram/BlnKfnYAm9I_01.jpg" width="1080" height="676" alt="Portrait painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Portrait painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlnKfnYAm9I/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BlZgbzQgU8t-1"><img src="img/instagram/BlZgbzQgU8t_01.jpg" width="1080" height="646" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlZgbzQgU8t/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BmQGDpVg-3O-1" data-instagram-category="painting"><img src="img/instagram/BmQGDpVg-3O_01.jpg" width="1080" height="1080" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BmQGDpVg-3O/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BlnKfnYAm9I-1" data-instagram-category="painting"><img src="img/instagram/BlnKfnYAm9I_01.jpg" width="1080" height="676" alt="Portrait painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Portrait painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlnKfnYAm9I/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BlZgbzQgU8t-1" data-instagram-category="painting"><img src="img/instagram/BlZgbzQgU8t_01.jpg" width="1080" height="646" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlZgbzQgU8t/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BlNFgvHAb6I-1"><img src="img/instagram/BlNFgvHAb6I_01.jpg" width="1080" height="1080" alt="Mixed media color studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Mixed media color studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlNFgvHAb6I/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BlNFgvHAb6I-2"><img src="img/instagram/BlNFgvHAb6I_02.jpg" width="1080" height="1080" alt="Mixed media color studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Mixed media color studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlNFgvHAb6I/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BlNFgvHAb6I-3"><img src="img/instagram/BlNFgvHAb6I_03.jpg" width="1080" height="1080" alt="Mixed media color studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Mixed media color studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlNFgvHAb6I/">Original Instagram post</a></figcaption></figure>
@@ -530,11 +535,11 @@
                     <figure data-instagram-key="BlCTjS2gsjK-8"><img src="img/instagram/BlCTjS2gsjK_08.jpg" width="1080" height="1080" alt="Brush and ink figure studies, carousel image 8." loading="lazy" decoding="async"><figcaption>Brush and ink figure studies · 8 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlCTjS2gsjK/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BlCTjS2gsjK-9"><img src="img/instagram/BlCTjS2gsjK_09.jpg" width="1080" height="1080" alt="Brush and ink figure studies, carousel image 9." loading="lazy" decoding="async"><figcaption>Brush and ink figure studies · 9 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlCTjS2gsjK/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BlCTjS2gsjK-10"><img src="img/instagram/BlCTjS2gsjK_10.jpg" width="1080" height="1080" alt="Brush and ink figure studies, carousel image 10." loading="lazy" decoding="async"><figcaption>Brush and ink figure studies · 10 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BlCTjS2gsjK/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="Bk1KXsOgNuO-1"><img src="img/instagram/Bk1KXsOgNuO_01.jpg" width="1080" height="1349" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bk1KXsOgNuO/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="Bk1KXsOgNuO-1" data-instagram-category="painting"><img src="img/instagram/Bk1KXsOgNuO_01.jpg" width="1080" height="1349" alt="Color painting, carousel image 1." loading="lazy" decoding="async"><figcaption>Color painting · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/Bk1KXsOgNuO/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkzDf5gg2Aw-1"><img src="img/instagram/BkzDf5gg2Aw_01.jpg" width="1080" height="1349" alt="Ink drawing, carousel image 1." loading="lazy" decoding="async"><figcaption>Ink drawing · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkzDf5gg2Aw/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkvU_YxAvrE-1"><img src="img/instagram/BkvU_YxAvrE_01.jpg" width="1080" height="1350" alt="Colored figure study, carousel image 1." loading="lazy" decoding="async"><figcaption>Colored figure study · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkvU_YxAvrE/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BkdWjDwgxMN-1"><img src="img/instagram/BkdWjDwgxMN_01.jpg" width="1080" height="1344" alt="Mixed media and ink studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BkdWjDwgxMN-2"><img src="img/instagram/BkdWjDwgxMN_02.jpg" width="1080" height="1339" alt="Mixed media and ink studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BkdWjDwgxMN-1" data-instagram-category="painting"><img src="img/instagram/BkdWjDwgxMN_01.jpg" width="1080" height="1344" alt="Mixed media and ink studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BkdWjDwgxMN-2" data-instagram-category="painting"><img src="img/instagram/BkdWjDwgxMN_02.jpg" width="1080" height="1339" alt="Mixed media and ink studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkdWjDwgxMN-3"><img src="img/instagram/BkdWjDwgxMN_03.jpg" width="1080" height="1342" alt="Mixed media and ink studies, carousel image 3." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 3 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkdWjDwgxMN-4"><img src="img/instagram/BkdWjDwgxMN_04.jpg" width="1080" height="1339" alt="Mixed media and ink studies, carousel image 4." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 4 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkdWjDwgxMN-5"><img src="img/instagram/BkdWjDwgxMN_05.jpg" width="1030" height="1278" alt="Mixed media and ink studies, carousel image 5." loading="lazy" decoding="async"><figcaption>Mixed media and ink studies · 5 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkdWjDwgxMN/">Original Instagram post</a></figcaption></figure>
@@ -551,105 +556,66 @@
                     <figure data-instagram-key="BkMnjlGAOug-8"><img src="img/instagram/BkMnjlGAOug_08.jpg" width="1080" height="1080" alt="Line and figure drawings, carousel image 8." loading="lazy" decoding="async"><figcaption>Line and figure drawings · 8 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkMnjlGAOug/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkMnjlGAOug-9"><img src="img/instagram/BkMnjlGAOug_09.jpg" width="1080" height="1080" alt="Line and figure drawings, carousel image 9." loading="lazy" decoding="async"><figcaption>Line and figure drawings · 9 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkMnjlGAOug/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkMnjlGAOug-10"><img src="img/instagram/BkMnjlGAOug_10.jpg" width="1080" height="1080" alt="Line and figure drawings, carousel image 10." loading="lazy" decoding="async"><figcaption>Line and figure drawings · 10 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkMnjlGAOug/">Original Instagram post</a></figcaption></figure>
-                    <figure data-instagram-key="BkJSR-Eg1R0-1"><img src="img/instagram/BkJSR-Eg1R0_01.jpg" width="1080" height="1350" alt="Painting and pencil studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Painting and pencil studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkJSR-Eg1R0/">Original Instagram post</a></figcaption></figure>
+                    <figure data-instagram-key="BkJSR-Eg1R0-1" data-instagram-category="painting"><img src="img/instagram/BkJSR-Eg1R0_01.jpg" width="1080" height="1350" alt="Painting and pencil studies, carousel image 1." loading="lazy" decoding="async"><figcaption>Painting and pencil studies · 1 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkJSR-Eg1R0/">Original Instagram post</a></figcaption></figure>
                     <figure data-instagram-key="BkJSR-Eg1R0-2"><img src="img/instagram/BkJSR-Eg1R0_02.jpg" width="1080" height="1349" alt="Painting and pencil studies, carousel image 2." loading="lazy" decoding="async"><figcaption>Painting and pencil studies · 2 <a class="instagram-source" href="https://www.instagram.com/legumeboi/p/BkJSR-Eg1R0/">Original Instagram post</a></figcaption></figure>
                 </div>
+            </div>
+        </section>
+
+        <section class="art-section" aria-labelledby="instagram-paintings-heading" data-instagram-paintings-section hidden>
+            <h2 id="instagram-paintings-heading">Paintings</h2>
+            <p class="gallery-note">Paintings from <a href="https://www.instagram.com/legumeboi/">@legumeboi</a>. Use the arrows to browse, or select an image for a full size view.</p>
+            <div class="instagram-carousel" data-carousel data-carousel-label="Paintings">
+                <div class="gallery instagram-gallery carousel-gallery" data-carousel-gallery data-instagram-gallery="paintings"></div>
             </div>
         </section>
 
         <!-- Public AAHub native text collections match each GIF; sculptures have two 48-frame parts. -->
         <section class="art-section" aria-labelledby="ascii-art-heading">
             <h2 id="ascii-art-heading">ASCII Art</h2>
-            <div class="gallery ascii-gallery">
-                <figure data-art-key="ae86">
-                    <img src="img/ascii/ae86-360.gif" width="1280" height="952" alt="A rotating Toyota AE86 drawn with text characters." loading="lazy">
-                    <figcaption>トヨタ AE86 / Toyota AE86<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/7mfncb2dh74y">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="bluebird510">
-                    <img src="img/ascii/bluebird510-360.gif" width="1280" height="952" alt="A rotating Nissan Bluebird 510 drawn with text characters." loading="lazy">
-                    <figcaption>日産 ブルーバード510 / Nissan Bluebird 510<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/uryz5d39csus">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="cresta-gx71">
-                    <img src="img/ascii/cresta-gx71-360.gif" width="1280" height="952" alt="A rotating Toyota Cresta GX71 drawn with text characters." loading="lazy">
-                    <figcaption>トヨタ クレスタ GX71 / Toyota Cresta GX71<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0hxv4wfzr6bt">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="sambar">
-                    <img src="img/ascii/sambar-360.gif" width="1280" height="952" alt="A rotating Subaru Sambar mini truck drawn with text characters." loading="lazy">
-                    <figcaption>スバル サンバー / Subaru Sambar<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/gveqvs5erv5d">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="porsche911">
-                    <img src="img/ascii/porsche911-360.gif" width="1280" height="952" alt="A rotating Porsche 911 drawn with text characters." loading="lazy">
-                    <figcaption>ポルシェ911 / Porsche 911<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/n7art7fwryaw">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="streamlined-car">
-                    <img src="img/ascii/streamlined-car-360.gif" width="1280" height="952" alt="A rotating streamlined classic car drawn with text characters." loading="lazy">
-                    <figcaption>流線型クラシックカー / Streamlined Classic Car<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/zqnwhqyuhg9z">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="david">
-                    <img src="img/ascii/david-360.gif" width="960" height="1224" alt="A rotating David sculpture study drawn with text characters." loading="lazy">
-                    <figcaption>ダビデ像 / David<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/yxw9r216qdqg">前半</a> / <a href="https://aahub.org/mlts/r96qjq4tbyi7">後半</a></span></figcaption>
-                </figure>
-                <figure data-art-key="laocoon">
-                    <img src="img/ascii/laocoon-360.gif" width="960" height="1224" alt="A rotating Laocoön sculpture study drawn with text characters." loading="lazy">
-                    <figcaption>ラオコーン / Laocoön<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/awpu0x3bzumv">前半</a> / <a href="https://aahub.org/mlts/yd0grrivllme">後半</a></span></figcaption>
-                </figure>
-                <figure data-art-key="nike">
-                    <img src="img/ascii/nike-360.gif" width="960" height="1224" alt="A rotating Winged Victory sculpture study drawn with text characters." loading="lazy">
-                    <figcaption>ニケ / Winged Victory<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/aatwoha5b3e6">前半</a> / <a href="https://aahub.org/mlts/pd15pgk2ywl9">後半</a></span></figcaption>
-                </figure>
-                <figure data-art-key="thinker">
-                    <img src="img/ascii/thinker-360.gif" width="960" height="1224" alt="A rotating Thinker sculpture study drawn with text characters." loading="lazy">
-                    <figcaption>考える人 / The Thinker<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/vrpefujh6wsk">前半</a> / <a href="https://aahub.org/mlts/vrzkbf8f1yxu">後半</a></span></figcaption>
-                </figure>
-                <figure data-art-key="onion">
-                    <img src="img/ascii/onion-360.gif" width="1280" height="952" alt="A rotating pointed onion drawn with text characters." loading="lazy">
-                    <figcaption>玉ねぎ / Onion<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/tjcy1xz5t603">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="cloud">
-                    <img src="img/ascii/cloud-v2.gif" width="640" height="700" alt="A rotating cloud study drawn with black text characters on white." loading="lazy">
-                    <figcaption>雲 / Cloud<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0izuaxfv3phw">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="tree">
-                    <img src="img/ascii/tree-v3.gif" width="640" height="700" alt="A rotating tree study drawn with black text characters on white." loading="lazy">
-                    <figcaption>樹木 / Tree<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption>
-                </figure>
-                <figure data-art-key="rock-island">
-                    <img src="img/ascii/rock-island-v3.gif" width="640" height="700" alt="A rotating rock island study drawn with black text characters on white." loading="lazy">
-                    <figcaption>岩礁 / Rock island<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption>
-                </figure>
-                <figure data-art-key="hand">
-                    <img src="img/ascii/hand-v3.gif" width="640" height="700" alt="A rotating hand study drawn with black text characters on white." loading="lazy">
-                    <figcaption>手 / Hand<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption>
-                </figure>
-                <figure data-art-key="yuzu">
-                    <img src="img/ascii/yuzu-360.gif" width="768" height="680" alt="A rotating yuzu with leaves made from text characters." loading="lazy">
-                    <figcaption>柚子 / Yuzu<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/md8lacyc2v52">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="ginger">
-                    <img src="img/ascii/ginger-360.gif" width="768" height="680" alt="A rotating ginger root made from text characters." loading="lazy">
-                    <figcaption>生姜 / Ginger<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/1f3mhq7qugqq">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="cranberry">
-                    <img src="img/ascii/cranberry-360.gif" width="768" height="680" alt="A rotating cranberry with leaves made from text characters." loading="lazy">
-                    <figcaption>クランベリー / Cranberry<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/j2x92is6ejf8">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="church-walkthrough">
-                    <img src="img/ascii/church-walkthrough.gif" width="1280" height="952" alt="A moving view through a church interior with columns and arches, made from text characters." loading="lazy">
-                    <figcaption>教会内部 / Church interior<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/o8m3xp7dz47t">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="onion-study-one">
-                    <img src="img/ascii/onion-study-one.gif" width="1280" height="952" alt="A rotating onion with a pointed top, drawn with text characters." loading="lazy">
-                    <figcaption>玉ねぎ習作（一） / Onion study I<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/mri3oifrtiup">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="onion-study-two">
-                    <img src="img/ascii/onion-study-two.gif" width="1280" height="952" alt="A rotating onion shown at an oblique angle, drawn with text characters." loading="lazy">
-                    <figcaption>玉ねぎ習作（二） / Onion study II<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0zarcgqpd46m">AAHub TXT</a></span></figcaption>
-                </figure>
-                <figure data-art-key="onion-study-three">
-                    <img src="img/ascii/onion-study-three.gif" width="1280" height="952" alt="A rotating onion study drawn with text characters." loading="lazy">
-                    <figcaption>玉ねぎ習作（三） / Onion study III<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0s5cmyub3a17">AAHub TXT</a></span></figcaption>
-                </figure>
-            </div>
+            <section class="ascii-category" data-ascii-category="Vehicles" aria-labelledby="vehicles-heading">
+                <h3 id="vehicles-heading">Vehicles</h3>
+                <div class="ascii-carousel" data-carousel data-carousel-label="Vehicles"><div class="gallery ascii-gallery carousel-gallery" data-carousel-gallery>
+                    <figure data-art-key="ae86"><img src="img/ascii/ae86-360.gif" width="1280" height="952" alt="A rotating Toyota AE86 drawn with text characters." loading="lazy"><figcaption>トヨタ AE86 / Toyota AE86<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/7mfncb2dh74y">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="bluebird510"><img src="img/ascii/bluebird510-360.gif" width="1280" height="952" alt="A rotating Nissan Bluebird 510 drawn with text characters." loading="lazy"><figcaption>日産 ブルーバード510 / Nissan Bluebird 510<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/uryz5d39csus">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="cresta-gx71"><img src="img/ascii/cresta-gx71-360.gif" width="1280" height="952" alt="A rotating Toyota Cresta GX71 drawn with text characters." loading="lazy"><figcaption>トヨタ クレスタ GX71 / Toyota Cresta GX71<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0hxv4wfzr6bt">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="sambar"><img src="img/ascii/sambar-360.gif" width="1280" height="952" alt="A rotating Subaru Sambar mini truck drawn with text characters." loading="lazy"><figcaption>スバル サンバー / Subaru Sambar<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/gveqvs5erv5d">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="porsche911"><img src="img/ascii/porsche911-360.gif" width="1280" height="952" alt="A rotating Porsche 911 drawn with text characters." loading="lazy"><figcaption>ポルシェ911 / Porsche 911<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/n7art7fwryaw">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="streamlined-car"><img src="img/ascii/streamlined-car-360.gif" width="1280" height="952" alt="A rotating streamlined classic car drawn with text characters." loading="lazy"><figcaption>流線型クラシックカー / Streamlined Classic Car<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/zqnwhqyuhg9z">AAHub TXT</a></span></figcaption></figure>
+                </div></div>
+            </section>
+            <section class="ascii-category" data-ascii-category="Statues and Studies" aria-labelledby="statues-heading">
+                <h3 id="statues-heading">Statues and Studies</h3>
+                <div class="ascii-carousel" data-carousel data-carousel-label="Statues and Studies"><div class="gallery ascii-gallery carousel-gallery" data-carousel-gallery>
+                    <figure data-art-key="david-study"><img src="img/ascii/david-study-360.gif" width="960" height="1224" alt="A rotating study of the David sculpture, drawn with text characters." loading="lazy"><figcaption>ダビデ像習作 / David study<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/1tbub96qu8s0">前半</a> / <a href="https://aahub.org/mlts/d5c5vdj98zqz">後半</a></span></figcaption></figure>
+                    <figure data-art-key="laocoon-study"><img src="img/ascii/laocoon-study-360.gif" width="960" height="1224" alt="A rotating study of the Laocoön sculpture group, drawn with text characters." loading="lazy"><figcaption>ラオコーン習作 / Laocoön study<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/fknq0p4x2myr">前半</a> / <a href="https://aahub.org/mlts/a0dkm2e9nvau">後半</a></span></figcaption></figure>
+                    <figure data-art-key="winged-victory-study"><img src="img/ascii/winged-victory-study-360.gif" width="960" height="1224" alt="A rotating study of Winged Victory, drawn with text characters." loading="lazy"><figcaption>ニケ習作 / Winged Victory study<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/i5mj1bvq4gpp">前半</a> / <a href="https://aahub.org/mlts/niq0kldfgm1a">後半</a></span></figcaption></figure>
+                    <figure data-art-key="thinker-study"><img src="img/ascii/thinker-study-360.gif" width="960" height="1224" alt="A rotating study of the Thinker sculpture, drawn with text characters." loading="lazy"><figcaption>考える人習作 / The Thinker study<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/zn5q2qssvjva">前半</a> / <a href="https://aahub.org/mlts/cnkfqw310dbm">後半</a></span></figcaption></figure>
+                    <figure data-art-key="eve-study"><img src="img/ascii/eve-360.gif" width="960" height="1224" alt="A rotating Eve sculpture, drawn with text characters." loading="lazy"><figcaption>イヴ / Eve<span class="aa-text-link" data-aahub-status="published">AAHub TXT: <a href="https://aahub.org/mlts/dhmzwfz1oq3j">前半</a> / <a href="https://aahub.org/mlts/vb8d39c1pqi6">後半</a></span></figcaption></figure>
+                    <figure data-art-key="hand"><img src="img/ascii/hand-v3.gif" width="640" height="700" alt="A rotating hand study drawn with black text characters on white." loading="lazy"><figcaption>手 / Hand<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption></figure>
+                </div></div>
+            </section>
+            <section class="ascii-category" data-ascii-category="Fruits and Vegetables" aria-labelledby="fruit-vegetables-heading">
+                <h3 id="fruit-vegetables-heading">Fruits and Vegetables</h3>
+                <div class="ascii-carousel" data-carousel data-carousel-label="Fruits and Vegetables"><div class="gallery ascii-gallery carousel-gallery" data-carousel-gallery>
+                    <figure data-art-key="onion"><img src="img/ascii/onion-360.gif" width="1280" height="952" alt="A rotating pointed onion drawn with text characters." loading="lazy"><figcaption>玉ねぎ / Onion<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/tjcy1xz5t603">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="onion-study-one"><img src="img/ascii/onion-study-one.gif" width="1280" height="952" alt="A rotating onion with a pointed top, drawn with text characters." loading="lazy"><figcaption>玉ねぎ習作（一） / Onion study I<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/mri3oifrtiup">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="onion-study-two"><img src="img/ascii/onion-study-two.gif" width="1280" height="952" alt="A rotating onion shown at an oblique angle, drawn with text characters." loading="lazy"><figcaption>玉ねぎ習作（二） / Onion study II<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0zarcgqpd46m">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="onion-study-three"><img src="img/ascii/onion-study-three.gif" width="1280" height="952" alt="A rotating onion study drawn with text characters." loading="lazy"><figcaption>玉ねぎ習作（三） / Onion study III<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0s5cmyub3a17">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="yuzu"><img src="img/ascii/yuzu-360.gif" width="768" height="680" alt="A rotating yuzu with leaves made from text characters." loading="lazy"><figcaption>柚子 / Yuzu<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/md8lacyc2v52">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="ginger"><img src="img/ascii/ginger-360.gif" width="768" height="680" alt="A rotating ginger root made from text characters." loading="lazy"><figcaption>生姜 / Ginger<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/1f3mhq7qugqq">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="cranberry"><img src="img/ascii/cranberry-360.gif" width="768" height="680" alt="A rotating cranberry with leaves made from text characters." loading="lazy"><figcaption>クランベリー / Cranberry<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/j2x92is6ejf8">AAHub TXT</a></span></figcaption></figure>
+                </div></div>
+            </section>
+            <section class="ascii-category" data-ascii-category="Scenery" aria-labelledby="scenery-heading">
+                <h3 id="scenery-heading">Scenery</h3>
+                <div class="ascii-carousel" data-carousel data-carousel-label="Scenery"><div class="gallery ascii-gallery carousel-gallery" data-carousel-gallery>
+                    <figure data-art-key="cloud"><img src="img/ascii/cloud-v2.gif" width="640" height="700" alt="A rotating cloud study drawn with black text characters on white." loading="lazy"><figcaption>雲 / Cloud<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/0izuaxfv3phw">AAHub TXT</a></span></figcaption></figure>
+                    <figure data-art-key="tree"><img src="img/ascii/tree-v3.gif" width="640" height="700" alt="A rotating tree study drawn with black text characters on white." loading="lazy"><figcaption>樹木 / Tree<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption></figure>
+                    <figure data-art-key="rock-island"><img src="img/ascii/rock-island-v3.gif" width="640" height="700" alt="A rotating rock island study drawn with black text characters on white." loading="lazy"><figcaption>岩礁 / Rock island<span class="aa-text-link" data-aahub-status="pending"> Text source pending</span></figcaption></figure>
+                    <figure data-art-key="church-walkthrough"><img src="img/ascii/church-walkthrough.gif" width="1280" height="952" alt="A moving view through a church interior with columns and arches, made from text characters." loading="lazy"><figcaption>教会内部 / Church interior<span class="aa-text-link" data-aahub-status="published"><a href="https://aahub.org/mlts/o8m3xp7dz47t">AAHub TXT</a></span></figcaption></figure>
+                </div></div>
+            </section>
         </section>
 
         <div class="art-section">
@@ -686,32 +652,43 @@
     </dialog>
 
     <script>
-        document.querySelectorAll("[data-instagram-carousel]").forEach((carousel) => {
-            const gallery = carousel.querySelector(".instagram-gallery");
+        const drawingsGallery = document.querySelector('[data-instagram-gallery="drawings"]');
+        const paintingsGallery = document.querySelector('[data-instagram-gallery="paintings"]');
+        const paintingsSection = document.querySelector("[data-instagram-paintings-section]");
+        if (drawingsGallery && paintingsGallery && paintingsSection) {
+            const paintings = Array.from(drawingsGallery.querySelectorAll('figure[data-instagram-category="painting"]'));
+            paintings.forEach((painting) => paintingsGallery.append(painting));
+            paintingsSection.hidden = paintings.length === 0;
+        }
+
+        document.querySelectorAll("[data-carousel]").forEach((carousel) => {
+            const gallery = carousel.querySelector("[data-carousel-gallery]");
             if (!gallery) return;
             const slides = Array.from(gallery.querySelectorAll("figure"));
             if (slides.length === 0) return;
 
             const controls = document.createElement("div");
-            controls.className = "instagram-carousel-controls";
-            controls.setAttribute("aria-label", "Carousel controls");
+            controls.className = "carousel-controls";
+            const carouselLabel = carousel.dataset.carouselLabel || "Artwork";
+            controls.setAttribute("aria-label", `${carouselLabel} carousel controls`);
             const previous = document.createElement("button");
             previous.type = "button";
             previous.textContent = "Previous";
-            previous.setAttribute("aria-label", "Previous image");
+            previous.setAttribute("aria-label", `Previous ${carouselLabel.toLowerCase()} image`);
             const status = document.createElement("span");
-            status.className = "instagram-carousel-status";
+            status.className = "carousel-status";
             status.setAttribute("aria-live", "polite");
             const next = document.createElement("button");
             next.type = "button";
             next.textContent = "Next";
-            next.setAttribute("aria-label", "Next image");
+            next.setAttribute("aria-label", `Next ${carouselLabel.toLowerCase()} image`);
             controls.append(previous, status, next);
             carousel.insertBefore(controls, gallery);
+            gallery.classList.add("carousel-gallery");
             gallery.tabIndex = 0;
             gallery.setAttribute("role", "region");
             gallery.setAttribute("aria-roledescription", "carousel");
-            gallery.setAttribute("aria-label", "Instagram artwork carousel");
+            gallery.setAttribute("aria-label", `${carouselLabel} carousel`);
             gallery.setAttribute("aria-keyshortcuts", "ArrowLeft ArrowRight");
 
             let index = 0;
