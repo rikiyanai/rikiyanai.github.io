@@ -1,2 +1,4 @@
-:HL["/drawloom/_next/static/chunks/23inwxrctf65l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lh41qAMf4nYnmXwPqKww0"}
+:HL["/drawloom/_next/static/chunks/0w2qflk8ss6d5.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"EkLrEcc_02HG24z7qvboM","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
