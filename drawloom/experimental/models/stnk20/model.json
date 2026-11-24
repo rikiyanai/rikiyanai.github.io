@@ -1,0 +1,1223 @@
+{
+  "model": "stnk20/DifferentiableAsciiArtRenderer",
+  "revision": "c1e9c97da3a31ccc189cfff1ada92d44fd14ce0a",
+  "license": "MIT",
+  "inputRowPitch": 18,
+  "fontPx": 16,
+  "vocabulary": [
+    "　",
+    " ",
+    "|",
+    "/",
+    "_",
+    "＼",
+    "／",
+    "＿",
+    "￣",
+    ",",
+    ".",
+    "l",
+    "-",
+    "'",
+    "{",
+    "}",
+    "‐",
+    "〉",
+    "ヽ",
+    "´",
+    "〈",
+    "｀",
+    "ｌ",
+    "､",
+    "〔",
+    "二",
+    "=",
+    "〕",
+    "r",
+    "―",
+    "ﾉ",
+    "i",
+    "′",
+    "⌒",
+    "∧",
+    "、",
+    "ノ",
+    "∨",
+    "｜",
+    ":",
+    "`",
+    "ｰ",
+    "j",
+    "¨",
+    "ﾆ",
+    "ｉ",
+    "｛",
+    "三",
+    "丶",
+    "!",
+    "｢",
+    "ﾊ",
+    "ー",
+    "｝",
+    "＞",
+    "人",
+    "[",
+    "八",
+    "]",
+    "＜",
+    "く",
+    "ﾍ",
+    "ﾄ",
+    "Y",
+    ")",
+    "ミ",
+    "(",
+    "ニ",
+    "彡",
+    "イ",
+    "V",
+    "∠",
+    "｣",
+    "7",
+    "（",
+    "ｲ",
+    "└",
+    "ト",
+    "＾",
+    "\"",
+    "…",
+    "）",
+    "ハ",
+    "─",
+    "┐",
+    "┘",
+    "．",
+    "厶",
+    "^",
+    "Ｖ",
+    "ｧ",
+    ";",
+    "辷",
+    "x",
+    "ﾞ",
+    "〃",
+    "「",
+    "￤",
+    "＝",
+    "７",
+    ">",
+    "ﾐ",
+    "┴",
+    "ﾘ",
+    "厂",
+    "ｨ",
+    "ﾟ",
+    "ﾌ",
+    "━",
+    "‘",
+    "L",
+    "从",
+    "ｘ",
+    "T",
+    "乂",
+    "」",
+    "f",
+    "≧",
+    "！",
+    "ゝ",
+    "Ｙ",
+    "v",
+    "≦",
+    "丿",
+    "匚",
+    "｡",
+    "ﾏ",
+    "ィ",
+    "X",
+    "┌",
+    "￢",
+    "：",
+    "冖",
+    "┬",
+    "斗",
+    "ア",
+    "，",
+    "│",
+    "~",
+    "ヾ",
+    "个",
+    "小",
+    "Ⅵ",
+    "ん",
+    "⊥",
+    "廴",
+    "≠",
+    "う",
+    "ｱ",
+    "し",
+    "弋",
+    "o",
+    "ﾚ",
+    "ソ",
+    "ﾋ",
+    "’",
+    "て",
+    "仁",
+    "爪",
+    "Ｌ",
+    "ｭ",
+    "ｿ",
+    "･",
+    "k",
+    "丁",
+    "‥",
+    "い",
+    "一",
+    "。",
+    "工",
+    "》",
+    "ヘ",
+    "y",
+    "z",
+    "◯",
+    "宀",
+    "刈",
+    "ｆ",
+    "～",
+    "<",
+    "t",
+    "ゞ",
+    "］",
+    "ｎ",
+    "⊂",
+    "O",
+    "ｒ",
+    "了",
+    "ﾒ",
+    "⊃",
+    "☆",
+    "匸",
+    "Ｎ",
+    "┼",
+    "・",
+    "ﾑ",
+    "Λ",
+    "《",
+    "゜",
+    "ァ",
+    "こ",
+    "1",
+    "Ｔ",
+    "n",
+    "≫",
+    "┤",
+    "リ",
+    "Z",
+    "ⅰ",
+    "り",
+    "勹",
+    "メ",
+    "寸",
+    "H",
+    "フ",
+    "レ",
+    "代",
+    "ﾃ",
+    "ﾝ",
+    "へ",
+    "ｊ",
+    "ぅ",
+    "癶",
+    "ｈ",
+    "ツ",
+    "下",
+    "介",
+    "；",
+    "ｚ",
+    "N",
+    "″",
+    "├",
+    "１",
+    "ｪ",
+    "u",
+    "マ",
+    "冫",
+    "ｬ",
+    "孑",
+    "ｋ",
+    "十",
+    "乙",
+    "３",
+    "ﾖ",
+    "ﾛ",
+    "≡",
+    "㌻",
+    "入",
+    "＋",
+    "゛",
+    "心",
+    "ｽ",
+    "°",
+    "仏",
+    "示",
+    "込",
+    "+",
+    "J",
+    "c",
+    "┃",
+    "广",
+    "I",
+    "┓",
+    "▽",
+    "0",
+    "√",
+    "≪",
+    "っ",
+    "不",
+    "Ｏ",
+    "ﾂ",
+    "┛",
+    "七",
+    "［",
+    "ｼ",
+    "ﾅ",
+    "У",
+    "〇",
+    "つ",
+    "ン",
+    "抖",
+    "ｯ",
+    "ム",
+    "千",
+    "辻",
+    "ｔ",
+    "ｕ",
+    "云",
+    "弌",
+    "ⅱ",
+    "∟",
+    "ヒ",
+    "少",
+    "才",
+    "芋",
+    "ｖ",
+    "ﾕ",
+    "┏",
+    "┰",
+    "㍉",
+    "以",
+    "儿",
+    "升",
+    "斤",
+    "－",
+    "ｷ",
+    "h",
+    "Ⅳ",
+    "【",
+    "た",
+    "づ",
+    "ス",
+    "圦",
+    "川",
+    "汽",
+    "ｸ",
+    "ﾁ",
+    "?",
+    "w",
+    "エ",
+    "ロ",
+    "卜",
+    "彳",
+    "%"
+  ],
+  "advances": [
+    11,
+    5,
+    4,
+    8,
+    5,
+    16,
+    16,
+    16,
+    16,
+    3,
+    3,
+    3,
+    8,
+    3,
+    4,
+    4,
+    8,
+    8,
+    12,
+    8,
+    8,
+    8,
+    4,
+    7,
+    8,
+    16,
+    8,
+    8,
+    6,
+    16,
+    8,
+    3,
+    16,
+    16,
+    16,
+    11,
+    11,
+    16,
+    16,
+    3,
+    7,
+    10,
+    4,
+    8,
+    10,
+    4,
+    8,
+    16,
+    16,
+    4,
+    7,
+    10,
+    15,
+    8,
+    16,
+    16,
+    5,
+    16,
+    5,
+    16,
+    9,
+    10,
+    7,
+    9,
+    5,
+    11,
+    5,
+    15,
+    16,
+    13,
+    10,
+    16,
+    7,
+    8,
+    8,
+    9,
+    16,
+    10,
+    8,
+    8,
+    16,
+    8,
+    16,
+    16,
+    16,
+    16,
+    11,
+    16,
+    7,
+    11,
+    8,
+    3,
+    16,
+    7,
+    4,
+    16,
+    8,
+    16,
+    16,
+    11,
+    8,
+    7,
+    16,
+    8,
+    16,
+    7,
+    4,
+    9,
+    16,
+    8,
+    9,
+    16,
+    8,
+    9,
+    16,
+    8,
+    5,
+    16,
+    16,
+    12,
+    10,
+    8,
+    16,
+    16,
+    16,
+    7,
+    10,
+    10,
+    10,
+    16,
+    16,
+    8,
+    16,
+    16,
+    16,
+    14,
+    11,
+    16,
+    7,
+    12,
+    16,
+    16,
+    16,
+    15,
+    16,
+    16,
+    16,
+    11,
+    10,
+    12,
+    16,
+    8,
+    9,
+    13,
+    8,
+    8,
+    14,
+    16,
+    16,
+    10,
+    8,
+    9,
+    7,
+    7,
+    16,
+    16,
+    15,
+    16,
+    11,
+    16,
+    8,
+    15,
+    8,
+    7,
+    16,
+    16,
+    16,
+    5,
+    16,
+    8,
+    6,
+    11,
+    8,
+    10,
+    16,
+    11,
+    6,
+    16,
+    8,
+    16,
+    16,
+    16,
+    12,
+    16,
+    8,
+    11,
+    16,
+    8,
+    8,
+    12,
+    13,
+    8,
+    10,
+    8,
+    16,
+    16,
+    12,
+    9,
+    16,
+    12,
+    16,
+    12,
+    16,
+    10,
+    13,
+    14,
+    16,
+    10,
+    9,
+    16,
+    4,
+    10,
+    16,
+    10,
+    14,
+    16,
+    16,
+    8,
+    8,
+    10,
+    16,
+    16,
+    11,
+    8,
+    8,
+    14,
+    16,
+    8,
+    16,
+    10,
+    16,
+    16,
+    11,
+    8,
+    9,
+    16,
+    16,
+    16,
+    16,
+    8,
+    16,
+    10,
+    16,
+    16,
+    16,
+    16,
+    8,
+    9,
+    8,
+    16,
+    16,
+    4,
+    16,
+    16,
+    8,
+    16,
+    16,
+    13,
+    16,
+    13,
+    10,
+    16,
+    16,
+    8,
+    9,
+    10,
+    16,
+    16,
+    15,
+    14,
+    16,
+    8,
+    16,
+    16,
+    16,
+    5,
+    10,
+    16,
+    16,
+    16,
+    16,
+    12,
+    16,
+    16,
+    16,
+    8,
+    10,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    10,
+    8,
+    16,
+    8,
+    15,
+    15,
+    14,
+    16,
+    16,
+    16,
+    9,
+    10,
+    7,
+    10,
+    14,
+    14,
+    16,
+    16,
+    8
+  ],
+  "weights": [
+    {
+      "name": "batch_normalization/beta:0",
+      "shape": [
+        32
+      ],
+      "offset": 0,
+      "bytes": 128
+    },
+    {
+      "name": "batch_normalization/gamma:0",
+      "shape": [
+        32
+      ],
+      "offset": 128,
+      "bytes": 128
+    },
+    {
+      "name": "batch_normalization/moving_mean:0",
+      "shape": [
+        32
+      ],
+      "offset": 256,
+      "bytes": 128
+    },
+    {
+      "name": "batch_normalization/moving_variance:0",
+      "shape": [
+        32
+      ],
+      "offset": 384,
+      "bytes": 128
+    },
+    {
+      "name": "batch_normalization_1/beta:0",
+      "shape": [
+        64
+      ],
+      "offset": 512,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_1/gamma:0",
+      "shape": [
+        64
+      ],
+      "offset": 768,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_1/moving_mean:0",
+      "shape": [
+        64
+      ],
+      "offset": 1024,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_1/moving_variance:0",
+      "shape": [
+        64
+      ],
+      "offset": 1280,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_10/beta:0",
+      "shape": [
+        512
+      ],
+      "offset": 1536,
+      "bytes": 2048
+    },
+    {
+      "name": "batch_normalization_10/gamma:0",
+      "shape": [
+        512
+      ],
+      "offset": 3584,
+      "bytes": 2048
+    },
+    {
+      "name": "batch_normalization_10/moving_mean:0",
+      "shape": [
+        512
+      ],
+      "offset": 5632,
+      "bytes": 2048
+    },
+    {
+      "name": "batch_normalization_10/moving_variance:0",
+      "shape": [
+        512
+      ],
+      "offset": 7680,
+      "bytes": 2048
+    },
+    {
+      "name": "batch_normalization_2/beta:0",
+      "shape": [
+        64
+      ],
+      "offset": 9728,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_2/gamma:0",
+      "shape": [
+        64
+      ],
+      "offset": 9984,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_2/moving_mean:0",
+      "shape": [
+        64
+      ],
+      "offset": 10240,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_2/moving_variance:0",
+      "shape": [
+        64
+      ],
+      "offset": 10496,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_3/beta:0",
+      "shape": [
+        64
+      ],
+      "offset": 10752,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_3/gamma:0",
+      "shape": [
+        64
+      ],
+      "offset": 11008,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_3/moving_mean:0",
+      "shape": [
+        64
+      ],
+      "offset": 11264,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_3/moving_variance:0",
+      "shape": [
+        64
+      ],
+      "offset": 11520,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_4/beta:0",
+      "shape": [
+        64
+      ],
+      "offset": 11776,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_4/gamma:0",
+      "shape": [
+        64
+      ],
+      "offset": 12032,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_4/moving_mean:0",
+      "shape": [
+        64
+      ],
+      "offset": 12288,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_4/moving_variance:0",
+      "shape": [
+        64
+      ],
+      "offset": 12544,
+      "bytes": 256
+    },
+    {
+      "name": "batch_normalization_5/beta:0",
+      "shape": [
+        128
+      ],
+      "offset": 12800,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_5/gamma:0",
+      "shape": [
+        128
+      ],
+      "offset": 13312,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_5/moving_mean:0",
+      "shape": [
+        128
+      ],
+      "offset": 13824,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_5/moving_variance:0",
+      "shape": [
+        128
+      ],
+      "offset": 14336,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_6/beta:0",
+      "shape": [
+        128
+      ],
+      "offset": 14848,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_6/gamma:0",
+      "shape": [
+        128
+      ],
+      "offset": 15360,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_6/moving_mean:0",
+      "shape": [
+        128
+      ],
+      "offset": 15872,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_6/moving_variance:0",
+      "shape": [
+        128
+      ],
+      "offset": 16384,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_7/beta:0",
+      "shape": [
+        128
+      ],
+      "offset": 16896,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_7/gamma:0",
+      "shape": [
+        128
+      ],
+      "offset": 17408,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_7/moving_mean:0",
+      "shape": [
+        128
+      ],
+      "offset": 17920,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_7/moving_variance:0",
+      "shape": [
+        128
+      ],
+      "offset": 18432,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_8/beta:0",
+      "shape": [
+        128
+      ],
+      "offset": 18944,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_8/gamma:0",
+      "shape": [
+        128
+      ],
+      "offset": 19456,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_8/moving_mean:0",
+      "shape": [
+        128
+      ],
+      "offset": 19968,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_8/moving_variance:0",
+      "shape": [
+        128
+      ],
+      "offset": 20480,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_9/beta:0",
+      "shape": [
+        128
+      ],
+      "offset": 20992,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_9/gamma:0",
+      "shape": [
+        128
+      ],
+      "offset": 21504,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_9/moving_mean:0",
+      "shape": [
+        128
+      ],
+      "offset": 22016,
+      "bytes": 512
+    },
+    {
+      "name": "batch_normalization_9/moving_variance:0",
+      "shape": [
+        128
+      ],
+      "offset": 22528,
+      "bytes": 512
+    },
+    {
+      "name": "conv2d/bias:0",
+      "shape": [
+        32
+      ],
+      "offset": 23040,
+      "bytes": 128
+    },
+    {
+      "name": "conv2d/kernel:0",
+      "shape": [
+        5,
+        5,
+        1,
+        32
+      ],
+      "offset": 23168,
+      "bytes": 3200
+    },
+    {
+      "name": "conv2d_1/bias:0",
+      "shape": [
+        32
+      ],
+      "offset": 26368,
+      "bytes": 128
+    },
+    {
+      "name": "conv2d_1/kernel:0",
+      "shape": [
+        3,
+        3,
+        32,
+        32
+      ],
+      "offset": 26496,
+      "bytes": 36864
+    },
+    {
+      "name": "conv2d_10/kernel:0",
+      "shape": [
+        1,
+        1,
+        512,
+        322
+      ],
+      "offset": 63360,
+      "bytes": 659456
+    },
+    {
+      "name": "conv2d_2/bias:0",
+      "shape": [
+        64
+      ],
+      "offset": 722816,
+      "bytes": 256
+    },
+    {
+      "name": "conv2d_2/kernel:0",
+      "shape": [
+        3,
+        3,
+        32,
+        64
+      ],
+      "offset": 723072,
+      "bytes": 73728
+    },
+    {
+      "name": "conv2d_3/bias:0",
+      "shape": [
+        64
+      ],
+      "offset": 796800,
+      "bytes": 256
+    },
+    {
+      "name": "conv2d_3/kernel:0",
+      "shape": [
+        3,
+        3,
+        64,
+        64
+      ],
+      "offset": 797056,
+      "bytes": 147456
+    },
+    {
+      "name": "conv2d_4/bias:0",
+      "shape": [
+        64
+      ],
+      "offset": 944512,
+      "bytes": 256
+    },
+    {
+      "name": "conv2d_4/kernel:0",
+      "shape": [
+        3,
+        3,
+        64,
+        64
+      ],
+      "offset": 944768,
+      "bytes": 147456
+    },
+    {
+      "name": "conv2d_5/bias:0",
+      "shape": [
+        128
+      ],
+      "offset": 1092224,
+      "bytes": 512
+    },
+    {
+      "name": "conv2d_5/kernel:0",
+      "shape": [
+        3,
+        3,
+        64,
+        128
+      ],
+      "offset": 1092736,
+      "bytes": 294912
+    },
+    {
+      "name": "conv2d_6/bias:0",
+      "shape": [
+        128
+      ],
+      "offset": 1387648,
+      "bytes": 512
+    },
+    {
+      "name": "conv2d_6/kernel:0",
+      "shape": [
+        3,
+        3,
+        128,
+        128
+      ],
+      "offset": 1388160,
+      "bytes": 589824
+    },
+    {
+      "name": "conv2d_7/bias:0",
+      "shape": [
+        128
+      ],
+      "offset": 1977984,
+      "bytes": 512
+    },
+    {
+      "name": "conv2d_7/kernel:0",
+      "shape": [
+        3,
+        3,
+        128,
+        128
+      ],
+      "offset": 1978496,
+      "bytes": 589824
+    },
+    {
+      "name": "conv2d_8/bias:0",
+      "shape": [
+        512
+      ],
+      "offset": 2568320,
+      "bytes": 2048
+    },
+    {
+      "name": "conv2d_8/kernel:0",
+      "shape": [
+        1,
+        1,
+        128,
+        512
+      ],
+      "offset": 2570368,
+      "bytes": 262144
+    },
+    {
+      "name": "conv2d_9/kernel:0",
+      "shape": [
+        1,
+        1,
+        512,
+        3
+      ],
+      "offset": 2832512,
+      "bytes": 6144
+    }
+  ],
+  "sourceURLs": [
+    "https://github.com/stnk20/DifferentiableAsciiArtRenderer/tree/c1e9c97da3a31ccc189cfff1ada92d44fd14ce0a"
+  ],
+  "hashes": {
+    "weights.h5": "4c495fb679b73959a370d5ed2eb3e8baaf682f5961ae5582f80ecf08f67aa314",
+    "mask.npy": "ae816667ecb0a7fa349699a0df627958873e9d752e5bfa81bcd5a99f8a50f133",
+    "predict.py": "272bdc9fdbe82bcd165723d21fb78de6e708a0e5e94e7e8f6c4eb463b7d4bd0e",
+    "LICENSE.md": "0b5c0b2b564ba36d79074c2cf2a0faf6f2b6fab076cab9e3a276f8a0030c665a",
+    "weights.bin": "23f9c04e018b642e4ddd0f57793860237af8eb9725e48137cd9473ea21e5c06b",
+    "upstream-layers.py": "dafe0d3a5f03948ab5e847140e8561a6ce463e15f7a929fb1035f48943049a47",
+    "upstream-models.py": "5dc111f4d50c0001b4804f5a4a73b7961dd4b82bd2803a884fb5f8c65e916c1c",
+    "upstream-param.py": "98c4405cdf3e26e8e164ce037400d997842f0b5e74d5012ddbf0bd62e0a3c639",
+    "upstream-prepare.py": "efd0a8d2a224ae3c98f05777bb42bad05396fd109b7f9c1fd415889063e18a48",
+    "upstream-README.md": "10cb652ef1c85c78c25b8cb683c81892f8c8759cf8e749e8ea1cf38d3ad9538e",
+    "OpenCV-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "upstream-train.py": "27f0707868f9a3ff5fa549228459dd36b835ab9cad2f649a46b1117396ace649"
+  }
+}

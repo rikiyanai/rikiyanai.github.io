@@ -1,0 +1,364 @@
+{
+  "model": "xavysp/TEED",
+  "revision": "40fa4b1391dc6424f88989d0ca75d5b592c8681d",
+  "checkpoint": "BIPED/5/5_model.pth",
+  "license": "MIT",
+  "input": "BGR float32 minus [103.939,116.779,123.68]",
+  "weights": [
+    {
+      "name": "block_1.conv1.weight",
+      "shape": [
+        3,
+        3,
+        3,
+        16
+      ],
+      "offset": 0,
+      "bytes": 1728
+    },
+    {
+      "name": "block_1.conv1.bias",
+      "shape": [
+        16
+      ],
+      "offset": 1728,
+      "bytes": 64
+    },
+    {
+      "name": "block_1.conv2.weight",
+      "shape": [
+        3,
+        3,
+        16,
+        16
+      ],
+      "offset": 1792,
+      "bytes": 9216
+    },
+    {
+      "name": "block_1.conv2.bias",
+      "shape": [
+        16
+      ],
+      "offset": 11008,
+      "bytes": 64
+    },
+    {
+      "name": "block_2.conv1.weight",
+      "shape": [
+        3,
+        3,
+        16,
+        32
+      ],
+      "offset": 11072,
+      "bytes": 18432
+    },
+    {
+      "name": "block_2.conv1.bias",
+      "shape": [
+        32
+      ],
+      "offset": 29504,
+      "bytes": 128
+    },
+    {
+      "name": "block_2.conv2.weight",
+      "shape": [
+        3,
+        3,
+        32,
+        32
+      ],
+      "offset": 29632,
+      "bytes": 36864
+    },
+    {
+      "name": "block_2.conv2.bias",
+      "shape": [
+        32
+      ],
+      "offset": 66496,
+      "bytes": 128
+    },
+    {
+      "name": "dblock_3.denselayer1.conv1.weight",
+      "shape": [
+        3,
+        3,
+        32,
+        48
+      ],
+      "offset": 66624,
+      "bytes": 55296
+    },
+    {
+      "name": "dblock_3.denselayer1.conv1.bias",
+      "shape": [
+        48
+      ],
+      "offset": 121920,
+      "bytes": 192
+    },
+    {
+      "name": "dblock_3.denselayer1.conv2.weight",
+      "shape": [
+        3,
+        3,
+        48,
+        48
+      ],
+      "offset": 122112,
+      "bytes": 82944
+    },
+    {
+      "name": "dblock_3.denselayer1.conv2.bias",
+      "shape": [
+        48
+      ],
+      "offset": 205056,
+      "bytes": 192
+    },
+    {
+      "name": "side_1.conv.weight",
+      "shape": [
+        1,
+        1,
+        16,
+        32
+      ],
+      "offset": 205248,
+      "bytes": 2048
+    },
+    {
+      "name": "side_1.conv.bias",
+      "shape": [
+        32
+      ],
+      "offset": 207296,
+      "bytes": 128
+    },
+    {
+      "name": "pre_dense_3.conv.weight",
+      "shape": [
+        1,
+        1,
+        32,
+        48
+      ],
+      "offset": 207424,
+      "bytes": 6144
+    },
+    {
+      "name": "pre_dense_3.conv.bias",
+      "shape": [
+        48
+      ],
+      "offset": 213568,
+      "bytes": 192
+    },
+    {
+      "name": "up_block_1.features.0.weight",
+      "shape": [
+        1,
+        1,
+        16,
+        1
+      ],
+      "offset": 213760,
+      "bytes": 64
+    },
+    {
+      "name": "up_block_1.features.0.bias",
+      "shape": [
+        1
+      ],
+      "offset": 213824,
+      "bytes": 4
+    },
+    {
+      "name": "up_block_1.features.2.weight",
+      "shape": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "offset": 213828,
+      "bytes": 16
+    },
+    {
+      "name": "up_block_1.features.2.bias",
+      "shape": [
+        1
+      ],
+      "offset": 213844,
+      "bytes": 4
+    },
+    {
+      "name": "up_block_2.features.0.weight",
+      "shape": [
+        1,
+        1,
+        32,
+        1
+      ],
+      "offset": 213848,
+      "bytes": 128
+    },
+    {
+      "name": "up_block_2.features.0.bias",
+      "shape": [
+        1
+      ],
+      "offset": 213976,
+      "bytes": 4
+    },
+    {
+      "name": "up_block_2.features.2.weight",
+      "shape": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "offset": 213980,
+      "bytes": 16
+    },
+    {
+      "name": "up_block_2.features.2.bias",
+      "shape": [
+        1
+      ],
+      "offset": 213996,
+      "bytes": 4
+    },
+    {
+      "name": "up_block_3.features.0.weight",
+      "shape": [
+        1,
+        1,
+        48,
+        16
+      ],
+      "offset": 214000,
+      "bytes": 3072
+    },
+    {
+      "name": "up_block_3.features.0.bias",
+      "shape": [
+        16
+      ],
+      "offset": 217072,
+      "bytes": 64
+    },
+    {
+      "name": "up_block_3.features.2.weight",
+      "shape": [
+        4,
+        4,
+        16,
+        16
+      ],
+      "offset": 217136,
+      "bytes": 16384
+    },
+    {
+      "name": "up_block_3.features.2.bias",
+      "shape": [
+        16
+      ],
+      "offset": 233520,
+      "bytes": 64
+    },
+    {
+      "name": "up_block_3.features.3.weight",
+      "shape": [
+        1,
+        1,
+        16,
+        1
+      ],
+      "offset": 233584,
+      "bytes": 64
+    },
+    {
+      "name": "up_block_3.features.3.bias",
+      "shape": [
+        1
+      ],
+      "offset": 233648,
+      "bytes": 4
+    },
+    {
+      "name": "up_block_3.features.5.weight",
+      "shape": [
+        4,
+        4,
+        1,
+        1
+      ],
+      "offset": 233652,
+      "bytes": 64
+    },
+    {
+      "name": "up_block_3.features.5.bias",
+      "shape": [
+        1
+      ],
+      "offset": 233716,
+      "bytes": 4
+    },
+    {
+      "name": "block_cat.DWconv1.weight",
+      "shape": [
+        3,
+        3,
+        3,
+        8
+      ],
+      "offset": 233720,
+      "bytes": 864
+    },
+    {
+      "name": "block_cat.DWconv1.bias",
+      "shape": [
+        24
+      ],
+      "offset": 234584,
+      "bytes": 96
+    },
+    {
+      "name": "block_cat.DWconv2.weight",
+      "shape": [
+        3,
+        3,
+        24,
+        1
+      ],
+      "offset": 234680,
+      "bytes": 864
+    },
+    {
+      "name": "block_cat.DWconv2.bias",
+      "shape": [
+        24
+      ],
+      "offset": 235544,
+      "bytes": 96
+    }
+  ],
+  "sourceURLs": [
+    "https://github.com/xavysp/TEED/tree/40fa4b1391dc6424f88989d0ca75d5b592c8681d",
+    "https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Soria_Tiny_and_Efficient_Model_for_the_Edge_Detection_Generalization_ICCVW_2023_paper.html"
+  ],
+  "hashes": {
+    "5_model.pth": "0322caf70f588355aaaf59c2bf5872b21a4b7e9f679971a7a3bb1f69b56a01ba",
+    "upstream-dataset.py": "118956b9848ce5e245d8b1915e8fe017ee2c75c8cc3edbab6b969343de1c5113",
+    "upstream-LICENSE": "b62889ee92d00f60fb54ccbbb3c9bb0a1cdbc10bbf779f0d715e53f9acc8733d",
+    "upstream-README.md": "3560cd57c50e0a92317e35b7f196ccfa990c3c8404206958a97a42c10f1f8e64",
+    "upstream-ted.py": "ded257568a4775ed08f741daa228c43f0c020f6f773a62744e7be64d8a719373",
+    "upstream-utils-AF-Fsmish.py": "e100aa88b3f84b036340c7f1b09e3a805712c6ac2688728758781e0c9acddc2d",
+    "weights.bin": "2ba2b75797925be090f664050bf0afe9c22949acab8f51d619132e72ad18bfa9"
+  }
+}

@@ -1,0 +1,19 @@
+# STNK20 learned native-text trace
+
+Original: https://github.com/stnk20/DifferentiableAsciiArtRenderer
+
+Pinned revision: `c1e9c97da3a31ccc189cfff1ada92d44fd14ce0a` (MIT; original copyright/license retained in LICENSE.md).
+
+AAHub's production autotrace credits link this project and `ljsabc/MangaLineExtraction_PyTorch`. The current AAHub trace route uploads a source image and creates a server job. This browser adapter does not call that service, upload photographs, or claim to reproduce its current private model/service configuration.
+
+The original `weights.h5` is retained without modification (2,937,712 bytes). `weights.bin` concatenates its 64 HDF5 datasets, in lexicographic HDF5 visitation order, as little-endian row-major float32. No quantization, retraining or art generation occurred during packaging. `model.json` records each tensor's key, byte offset, shape, and byte count; all source/payload SHA256 values are included. The upstream predictor, mask, encoder, renderer layers, parameters, preparer and README are retained for review. The 324-character vocabulary is the first CHAR_DIM entries of the predictor's `char_list`. Its advances are the first row of `mask.npy`, summed across the pixel-width axis.
+
+The adapter recreates the original residual CNN using TensorFlow.js 4.22.0 operations and the retained weights. It selects the same deterministic two-stage blank/character probabilities and decodes complete glyphs at the original width-mask advances. It is a genuine learned image-to-AA encoder, not the Studio DP glyph fitter, a grayscale character ramp, or a generic face template.
+
+The upstream model was trained on 18-pixel rows with a 16-pixel font. Studio uses Saitamaar at 16 px with 17 px row pitch. The adapter resamples the source into `rows * 18` model-input pixels and reports `guideHeight = rows * 17` for the corresponding native registration. Thus the input is compensated vertically; the text glyphs are not stretched. It checks the trained advances against all 324 characters in the actual loaded Saitamaar font. A mismatch is reported in `aligned`/`warnings`; raw model text is retained. This does not establish raster-font parity or likeness approval.
+
+`prepared-lines` accepts a user-visible prepared black-line-on-white image. After resizing to the final trained input resolution, it thresholds ink >0.3 and runs topology-preserving Guo–Hall thinning by default, matching the data preparation in retained `upstream-train.py`. `lineThreshold` and `thinLines` expose these choices to actual app controls. The deletion predicates were independently checked against all 512 two-phase neighborhood entries of OpenCV 4.10.0 ximgproc's Guo–Hall tables; no image inference ran during that numeric check. The OpenCV Apache-2.0 license is retained in `OpenCV-LICENSE.txt`, and the exact algorithm reference is linked in the adapter.
+
+`values` feeds photo darkness directly and remains a continuous-value comparison. `edges` feeds conventional Sobel photo edges. These last two are explicitly preprocessing choices, not learned manga-line extraction. The separate credited manga extractor's PyTorch release is approximately 173 MB and has not been embedded here; the separately packaged TEED model can provide a local learned photo-edge guide before `prepared-lines`. Photos and weak/shadow-only features can remain poor; compare retained complete text against each source and correct in Studio. Neither model provenance nor a successful export establishes an optimal result or suitability for every face.
+
+Source packaging can be reproduced with Python h5py and NumPy: visit every HDF5 Dataset, cast each to `<f4`, append `array.tobytes(order='C')`, and record dataset keys/shapes/offsets. Dataset keys collapse repeated layer group names (for example `conv2d/conv2d/kernel:0` to `conv2d/kernel:0`). No external script is used to produce artwork; inference runs only when a genuine Studio/Drawloom control calls the adapter.
